@@ -1,0 +1,59 @@
+  texto: 'Hasta ya, he escrito esto porque me importa probarle que no fui tan culpable en el destrozo insalvable de su casa. Dejaré esta carta esperándola, sería sórdido que el correo se la entregara alguna clara mañana de París. Anoche di vuelta los libros del segundo estante; alcanzaban ya a ellos, parándose o saltando; royeron los lomos para afilarse los dientes no por hambre, tienen todo el trébol que les compro y almaceno en los cajones del escritorio. Rompieron las cortinas, las telas de los sillones, el borde del autorretrato de Augusto Torres, llenaron de pelos la alfombra y también gritaron, estuvieron en círculo, como adorándome, y de pronto gritaban, gritaban como yo no creo que griten los roedores de orejas largas. He querido en vano sacar los pelos que estropean la alfombra, alisar el borde de la tela roída, encerrarlos de nuevo en el armario. No tuve tanta culpa, usted verá cuando llegué que muchos de los destrozos están bien reparados con el cemento que compré en una casa inglesa, yo hice lo que pude para evitarle un enojo. CORTÁZAR, Julio Bestiario Carta a una señorita en París'
+  pregunta1: 'Según el autor, los destrozos fueron causados por'
+  alternativas1: 
+    A: Los conejos
+    B: El autor mismo
+    C: El autor de la carta
+    D: El dueño de la casa
+    E: El dueño de los roedores
+  solucion1: 
+    alternativa: A
+    razon: 'Según el autor, los destrozos fueron causados por los conejos. En el texto se detalla los numerosos daños ocasionados por los roedores de orejas largas. Se dice que arruinaron gran parte del mobiliario, los libros, las cortinas, un autorretrato. llenaron de pelos la alfombra, e incluso obligaron al cuidador a comprar cemento para reparar muchos de los daños.  '
+
+
+  pregunta2: 'Una idea incompatible con el fragmento sería'
+  alternativas2: 
+    A: Los roedores gritaban de modo extraño
+    B: El autor de la carta no recurrió al correo
+    C: Las cortinas y los sillones sufrieron daño
+    D: No se logró encerrar a los roedores
+    E: Los conejos royeron los libros para alimentarse
+  solucion2: 
+    alternativa: E
+    razon: 'Una idea incompatible con el fragmento sería: los conejos royeron los libros para alimentarse. Según el texto, la extraña conducta de los conejos se evidencia por el hecho de roer los lomos de los libros no por hambre ya que, según el autor, se encuentran bien alimentados, sino para afilarse los dientes y continuar con su devastadora obra.  '
+
+  pregunta3: 'El autor escribe la carta con la intención de'
+  alternativas3:
+    A: Disculpar a los extraños roedores
+    B: Justificar los daños que causó
+    C: Resaltar la mansedumbre de las mascotas
+    D: Restablecer la comunicación con su pariente
+    E: Manifestar su relativa culpabilidad por los destrozos
+
+  solucion3:
+    alternativa: E
+    razon: 'El autor escribe la carta con la intención de manifestar su relativa culpabilidad por los destrozos. Desde la parte inicial, el autor nos da a conocer la finalidad de la carta: probar que la culpabilidad mayor de los destrozos no la tiene él, sino los conejos. Esto quiere decir que el autor se considera relativamente culpable de los daños, y es eso lo que desea manifestarle al dueño de la casa.  '
+
+  pregunta4: '¿Qué hizo el autor ante los destrozos?'
+  alternativas4:
+    A: Dio vueltas al estante de libros
+    B: Prefirió renovar las cortinas
+    C: Escribió la carta y se alejó
+    D: Reparó muchos de ellos con cemento
+    E: Se decidió por comprar abundante trébol
+
+  solucion4:
+    alternativa: D
+    razon: '¿Qué hizo el autor ante los destrozos? Reparó muchos de ellos con cemento. De manera literal, el autor nos dice que, ante los numerosos destrozos, optó por comprar cemento y reparar muchos de los daños causados por los conejos. Esta actitud evidencia su intención de solucionar el problema que se había generado.  '
+
+  pregunta5: 'La expresión: "sería sórdido que el correo se la entregara alguna clara mañana de París", evidencia'
+  alternativas5:
+    A: El carácter inefable de los sucesos ocurridos en su casa
+    B: La casi imposibilidad de que la carta llegue a su destino
+    C: La insuficiencia de una carta para explicar los destrozos
+    D: El temor del autor de que la carta sea leída por terceros
+    E: La consideración que el autor tiene por el destinatario
+
+  solucion5:
+    alternativa: E
+    razon: 'La expresión "Sería sórdido que el correo se la entregara alguna clara mañana de París", evidencia la consideración que el autor tiene por el destinatario. Según el texto, al autor le importa mucho justificar los daños causados, pero también le preocupa la forma y la oportunidad en que debe comunicárselo a la dueña de la casa para no causarle un daño moral. Por lo tanto, opta por esperar que llegue a la casa y lea ahí la carta, en vez de arruinar su estadía en París.  '

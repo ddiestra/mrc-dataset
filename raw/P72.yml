@@ -1,0 +1,60 @@
+  texto: 'El entendimiento, el gracejo, el juicio o como quieran llamarse los talentos del espíritu; el valor, la decisión, la perseverancia en los propósitos, como cualidades del temperamento, son, sin duda, en muchos aspectos, buenos y deseables; pero también pueden llegar a ser extraordinariamente malos y dañinos, si la voluntad que ha de hacer uso de estos dones de la naturaleza, y cuya peculiar constitución se llama por eso carácter, no es buena. Lo mismo sucede con los dones de la fortuna. El poder, la riqueza, la honra, la salud misma y la completa satisfacción y el contento del propio estado, bajo el nombre de felicidad, dan valor, y tras el, a veces arrogancia, si no existe una buena voluntad que rectifique y acomode a un fin universal el influjo de esa felicidad y con él principio todo de la acción. Así parece construir la buena voluntad la indispensable condición que nos hace dignos de ser felices. '
+  pregunta1: 'Según el texto, el valor'
+  alternativas1:
+    A: Está determinado por el carácter
+    B: Es un atributo bueno y malo a la vez
+    C: Forzosamente es bueno y malo a la vez
+    D: Forzosamente es deseable y dañino a la vez
+    E: Es producto de la arrogancia
+
+  solucion1:
+    alternativa: B
+    razon: 'El valor de los talentos, de las cualidades del temperamento, de los dones de la fortuna "son sin duda, en muchos aspectos, buenos y deseables" Aunque es necesario tener en cuenta de la influencia que ejerce la buena voluntad. '
+
+  pregunta2: 'La felicidad depende'
+  alternativas2: 
+    A: Del valor
+    B: De la arrogancia
+    C: De la buena voluntad
+    D: Del principio de la acción
+    E: Del juicio
+  
+  solucion2:
+    alternativa: C
+    razon: '"... El poder, la riqueza, la honra, la salud misma y la completa satisfacción y el contento del propio estado, bajo el nombre de felicidad, dan valor, y tras el, a veces arrogancia, si no existe una buena voluntad que rectifique y acomode a un fin universal el influjo de esa felicidad ..." Como podemos notar la felicidad depende de la buena voluntad. '
+
+  pregunta3: 'El entendimiento y la perseverancia son'
+  alternativas3:
+    A: Inexorablemente buenos
+    B: Siempre dañinos
+    C: Condiciones de la fortuna
+    D: Los talentos del espíritu
+    E: Buenos y malos
+  
+  solucion3: 
+    alternativa: E
+    razon: '"El entendimiento y la perseverancia son, sin duda, en muchos aspectos, buenos y deseables; pero también pueden llegar a ser extraordinariamente malos y dañinos..." De estas palabras entendemos que la respuesta es la alternativa. '
+
+  pregunta4: 'Los dones de la fortuna producen arrogancia'
+  alternativas4:
+    A: Si es que producen felicidad
+    B: Cuando rectifican a la voluntad
+    C: Cuando se usan los dones de la naturaleza
+    D: Si no están comodados a un fin universal
+    E: Cuando abarca el principio de toda acción
+
+  solucion4:
+    alternativa: D
+    razon: '"Lo mismo sucede con los dones de la fortuna el poder, la riqueza, la honra y hasta la propia felicidad, dan valor, (siempre y cuando exista una buena voluntad que los rectifique y acomode a un fin universal. '
+
+  pregunta5: 'Según el texto, la voluntad:'
+  alternativas5:
+    A: Determina que el valor sea siempre deseable
+    B: Hace siempre que la perseverancia sea buena
+    C: Puede ser base de la felicidad
+    D: Jamás es requisito de la felicidad
+    E: Es lo único que puede ser totalmente bueno
+  
+  solucion5:
+    alternativa: C
+    razon: 'La felicidad, uno de los dones de la fortuna, como los talentos del espíritu y las cualidades del temperamento depende de la voluntad que los acomode a un fin universal; por lo tanto, sin la referida voluntad no puede existir felicidad. '

@@ -1,0 +1,60 @@
+  texto: 'Las dos grandes religiones de la India estaban fundadas en concepciones distintas de la divinidad. El Islam se apoya en el profeta Mahoma y en el Corán. El hinduismo es una religión sin fundador, aunque revelada, sin dogma, sin liturgia. Para el Islam, el creador se desliga de su creación, ordena y reina sobre su obra. Para los hindúes, el creador y su creación no son más que una misma cosa. Los hindúes creen que Dios está presente en todas partes y es en todas partes el mismo. Dios es las plantas, los animales, el juego, la lluvia, el corazón. No hay para los hindúes más que una sola falta, la avidya, la ignorancia: No ver la presencia de Dios en todas las cosas. Para los musulmanes, Alá es un absoluto; el Corán prohíbe su representación. Una mezquita es un lugar desnudo. Las decoraciones permitidas son motivos abstractos o la repetición de los noventa y nueve nombres de Alá. Un templo hinduista es un inmenso bazar espiritual, un batiburrillo de diosas con el cuello enguirnaldado de serpientes, de dioses con seis brazos o con cabeza de elefante, de jóvenes vírgenes y de representaciones eróticas.'
+  pregunta1: '¿Cuál sería el tema del texto?'
+  alternativas1:
+    A: Las religiones en Oriente
+    B: El politeísmo hindú
+    C: El islamismo en India
+    D: La naturaleza de Dios
+    E: El Islam y el hinduismo en la India
+
+  solucion1:
+    alternativa: E
+    razon: 'En este fragmento la idea principal es la sintetizada con las siguientes palabras “Las dos grandes religiones de la India estaban fundadas en concepciones distintas de la divinidad”. Lo que sigue de la lectura es una aplicación sobre los rasgos de dichas religiones que son el Islam y el hinduismo. '
+
+  pregunta2: 'Los hinduistas piensan que Dios'
+  alternativas2: 
+    A: Está separado de su creación
+    B: Está en todas las cosas
+    C: Creó el mundo de la nada
+    D: Está sólo en los animales
+    E: Es diferente al mundo
+  
+  solucion2:
+    alternativa: B
+    razon: 'Para los hindúes “Dios está presente en todas partes y es en todas partes él mismo”. Por esta razón la respuesta elegida es la correcta. '
+
+  pregunta3: 'La mezquita no contiene ninguna representación de Dios por que'
+  alternativas3:
+    A: Los hindúes lo prohibieron
+    B: No se conocen el rostro de Dios
+    C: El Corán lo prohíbe
+    D: El profeta Mahoma lo ordenó
+    E: Es costumbre de Islam
+  
+  solucion3: 
+    alternativa: C
+    razon: '“Para los musulmanes, Alá es un absoluto, el Corán prohíbe su representación. Una mezquita es un lugar desnudo. Las decoraciones permitidas son motivos abstractos o la repetición de los hombres de Alá…”. De esto se deduce que la mezquita no contiene representación de Dios porque el Corán lo prohíbe. '
+
+  pregunta4: 'El hinduismo considera que'
+  alternativas4:
+    A: Su religión es monoteísta
+    B: Dios está sólo en los animales
+    C: La ignorancia es imposible
+    D: Su religión no tiene fundador
+    E: Todo el mundano es pecado
+
+  solucion4:
+    alternativa: D
+    razon: '“El hinduismo es una religión sin fundador, aunque revela, sin dogma, sin liturgia”. Por lo señalado en la lectura y las letras resaltadas es fácil comprender que la religión de los hindúes no tiene fundador. '
+
+  pregunta5: 'El hinduismo es una religión sin'
+  alternativas5:
+    A: Imágenes
+    B: Dogma
+    C: Ignorancia
+    D: Revelación
+    E: Diosa
+  
+  solucion5:
+    alternativa: B
+    razon: '“El hinduismo es una religión sin fundador, aunque revelada, sin dogma, sin liturgia…”. Las palabras resaltantes fundamentan la alternativa elegida. '

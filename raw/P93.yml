@@ -1,0 +1,60 @@
+  texto: 'Frente a la dificultad de acceso producida por los antiguos medios de información basados en la impresión u otros archivos físicos, necesitábamos un medio que se amolde mejor a la manera de trabajar del pensamiento. La mente funciona por asociación, sujetando un hecho o idea salta instantáneamente al dato siguiente, que le es sugerido siguiendo camino conformados por las células del cerebro. Para liberarnos de estos inadecuados sistemas de almacenamiento, Bush propuso un nuevo dispositivo: el Memex. La descripción que hace del mismo contiene concepciones radicales de lo textual. Primero, reconfigura la práctica de la escritura y de la lectura, acercando ambas actividades entre sí mucho más de lo que es posible con el libro impreso. Segundo, a pesar del hecho de que concibiera el Memex antes del advenimiento de la informática digital, Bush intuyó que era necesario algo como la textualidad virtual para los cambios que propugnaba. Tercero, su reconfiguración del texto introduce tres elementos completamente nuevos: los índices de asociación (o nexos), los trayectos entre dichos nexos y los conjuntos o tramas de trayectos. Estos elementos nuevos generan a su vez una clase de texto flexible, hecho a la medida, abierto a las demandas del lector, también genera la noción de una textualidad múltiple, pues, en el mundo del Memex, la palabra texto designa: A: las unidades individuales de lectura que constituyen una “obra”; B: dichas obras enteras; C: conjuntos de documentos creados con trayectos; y de los mismos trayectos sin documentos acompañantes.'
+  pregunta1: 'El Memex se puede entender como'
+  alternativas1:
+    A: Un trayecto de ideas
+    B: Un artefacto tecnológico
+    C: Un texto computarizado
+    D: Una estructura virtual
+    E: Un sistema de archivos
+
+  solucion1:
+    alternativa: E
+    razon: '“Para liberarnos de estos inadecuados sistemas de almacenamiento –aquí el texto se refiere a los antiguos medios de información, basados en la impresión u otros archivos físicos -, Bush propuso un nuevo dispositivo: el Memex. Del fragmento citado se entiende que el Memex es un sistema de archivos. '
+
+  pregunta2: 'El trayecto es un elemento del Memex que permite'
+  alternativas2: 
+    A: Relacionar información
+    B: Visualizar un texto
+    C: Recorrer una escritura
+    D: Analizar el cerebro
+    E: Configurar la lectura
+  
+  solucion2:
+    alternativa: A
+    razon: '“… su configuración del texto introduce tres elementos completamente nuevos: los índices de asociación (o nexos), los trayectos entre dichos nexos… “Con esto último se da a entender que dichos trayectos relacionan a los índices de asociación o información. '
+
+  pregunta3: 'Se posibilita una lectura análoga al funcionamiento de la mente con'
+  alternativas3:
+    A: La escritura virtual
+    B: Una computadora
+    C: El Memex
+    D: Un archivo físico
+    E: La asociación neuronal
+  
+  solucion3: 
+    alternativa: C
+    razon: '“Frente a la dificultad de acceso de los antiguos medios de información necesitamos un medio que se amolde a la manera de trabajar del pensamiento, dicho dispositivo es justamente el Memex. '
+
+  pregunta4: 'El fenómeno de la textualidad múltiples se da porque en el texto el Memex realiza'
+  alternativas4:
+    A: Un trayecto cerebral
+    B: Un trayecto virtual
+    C: Un sistema digital
+    D: Una impresión física
+    E: Una reconfiguración
+
+  solucion4:
+    alternativa: E
+    razon: '“Bush intuyó que era necesario algo como la textualidad virtual para los cambios que propugnaba. Tercero, su reconfiguración del texto introduce tres elementos… nuevos: nexos, trayectos y las tramas de los trayectos… El fenómeno se produce por la capacidad del Memex para realizar una reconfiguración. '
+
+  pregunta5: 'El Memex es un dispositivo surgido en el dominio de la'
+  alternativas5:
+    A: Crítica literaria
+    B: Comunicación
+    C: Publicidad
+    D: Informática
+    E: Lingüística
+  
+  solucion5:
+    alternativa: D
+    razon: 'El Memex fue desarrollado para superar los antiguos medios de información: por lo tanto, este dispositivo surgió en el ámbito de la informática. '

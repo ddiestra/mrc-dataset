@@ -1,0 +1,61 @@
+texto: 'Una buena teoría siempre satisface dos requisitos: debe describir con precisión un amplio conjunto de observaciones sobre la base de un modelo que contenga sólo unos pocos parámetros arbitrarios y debe ser capaz de predecir positivamente los resultados de observaciones futuras. Por ejemplo, la teoría de los cuatro elementos de Aristóteles era lo suficientemente simple como para ser calificada como tal, pero fallaba en que no realizaba ninguna predicción concreta; por -el contrario, la teoría de la gravedad de Newton estaba basada incluso en un modelo más simple, a pesar de lo cual era capaz de predecir el movimiento del Sol, la Luna y los planetas con un alto grado de precisión. A pesar de que los resultados de los experimentos concuerden muchas veces con la teoría, nunca. podremos estar seguros de que la próxima vez el resultado no vaya a contradecirla. Sin embargo, se puede rechazar una teoría en cuanto se encuentre una única observación que contradiga sus predicciones. Como ha subrayado el filósofo de la ciencia Karl Popper, una buena teoría está caracterizada por el hecho de predecir un buen número de resultados que en principio pueden ser refutados o invalidados por la observación. Cada vez que se compruebe que un nuevo experimento está de acuerdo con las predicciones, la teoría sobrevive y nuestra confianza en ella aumenta. HAWKING, Stephen Historio del tiempo '
+pregunta1: 'Se puede desestimar una teoría cuando'
+alternativas1: 
+  A: No concuerda con las observaciones parciales de la ciencia
+  B: Está constituida solo por unos pocos modelos arbitrarios
+  C: La observación invalida las pretensiones del científico
+  D: No es capaz de pronosticar el resultado de los experimentos
+  E: No contiene los resultados de observaciones pasadas
+
+solucion1: 
+  alternativa: D
+  razon: 'Se puede desestimar una teoría cuando no es capaz de pronosticar el resultado de los experimentos. Una cualidad esencial de toda teoría es, para el autor, que pueda predecir un buen número de resultados en experimentos futuros. Ahora bien, de no ocurrir ello, la teoría carecería de fundamento y por lo tanto sería desechada. Esto es lo que probablemente ocurrió, por ejemplo, con la teoría de Aristóteles.  '
+
+pregunta2: 'La teoría de Newton, a diferencia de la de Aristóteles, no carecía de'
+alternativas2:
+  A: Importantes predicciones de fenómenos reales
+  B: La observación atenta y minuciosa del mundo
+  C: Conjeturas acerca de las probabilidades experimentales
+  D: Un modelo complejo basado en las supersticiones
+  E: Un claro afán de innovación en lo científico
+
+solucion2: 
+  alternativa: A
+  razon: 'La teoría de Newton, a diferencia de la de Aristóteles, no carecía de importantes predicciones de fenómenos reales. Como menciona el autor, la teoría de la gravedad de Newton era capaz de predecir el movimiento del Sol, la Luna y los planetas con gran exactitud. En otras palabras, la realidad de los fenómenos confirmaba su teoría. Ello no ocurría, como sabemos, con la teoría de los cuatro elementos de Aristóteles, la cual carecía de poder predictivo.  '
+
+pregunta3: 'El hecho de que la observación refute en principio los resultados de una teoría no necesariamente implica que'
+alternativas3:
+  A: La observación producto del experimento sea acertada
+  B: El método científico sea totalmente útil o válido
+  C: Deba abandonarse el quehacer científico por completo
+  D: Deba aceptarse dicha observación en vez de la teoría
+  E: Deba descartarse definitivamente dicha teoría
+
+solucion3: 
+  alternativa: E
+  razon: 'El hecho de que la observación refute en principio los resultados de una teoría no necesariamente implica que deba descartarse definitivamente dicha teoría. El autor afirma, en palabras de Karl Popper, que una buena teoría puede predecir numerosos resultados que inicialmente pudieron haber sido rechazados por la observación. Esto quiere decir que al principio puede no tener crédito una teoría, pero, al predecir una gran cantidad de fenómenos, adquiere validez y, por tanto, aceptación. Entonces, no necesariamente debe rechazarse una teoría si al principio pronostica resultados poco creíbles. '
+
+pregunta4: 'La observación constituye para el científico'
+alternativas4:
+  A: Un instrumento para cuestionar la eficacia de la ciencia
+  B: Un medio para corroborar o invalidar una teoría
+  C: Un procedimiento sistemático de ordenamiento de teorías
+  D: La vía más simple para el descubrimiento de teorías
+  E: Un medio para invalidar y desechar toda teoría
+
+solucion4: 
+  alternativa: B
+  razon: 'La observación constituye para el científico un medio para corroborar o invalidar la teoría. Como sugerimos anteriormente, una teoría puede adquirir validez o ser desechada, siempre en función de los resultados de la observación. Si la realidad de los hechos confirma la teoría, se acepta como tal. Si ocurre lo contrario, se descarta. La observación es, pues, un medio para confirmar la validez o no de una teoría. '
+
+pregunta5: 'Se entiende que una teoría está sometida constantemente a'
+alternativas5:
+  A: La prueba de la invalidación
+  B: Severas críticas de la ciencia
+  C: Contrastación con los experimentos
+  D: Refutación de parte del público
+  E: Un permanente estudio científico
+
+solucion5: 
+  alternativa: C
+  razon: 'Se entiende que una teoría. está sometida constantemente a contrastación con los experimentos. Según las premisas del fragmento, la confianza en una teoría depende del grado de exactitud de sus predicciones. ¿Cómo se corroboran dichas predicciones? A través de la " observación y la experimentación. También es importante que la teoría sea capaz de predecir un buen número de resultados; lo cual hace suponer que toda teoría está constantemente sujeta a comparación con el resultado de los experimentos. '
+

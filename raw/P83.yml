@@ -1,0 +1,60 @@
+  texto: 'Elaborada en el ámbito de las matemáticas, más en particular en la topología, la teoría de las catástrofes consiste en un modelo geométrico que intenta describir/interpretar la evolución de las formas con las que se presentan un fenómeno. Su novedad como modelo: anteriormente, en el ámbito de las ciencias naturales, exactas y también humana, valía el principio de determinismo absoluto; los fenómenos de trasformación o de cambio formal eran interpretados como discontinuidades en las cuales estaba vigente la relación de causa-efecto; pero cada cambio puede también ser descrito o explicado como si la discontinuidad que comprende al mismo tiempo las que son definidas como las causas y los efectos en la génesis de formas. Esta teoría, como modelo articulado y abstracto, permite "ver" el desarrollo de un fenómeno porque lo coloca en una situación espacial multidimensional. Construido para aplicaciones concretas, ha dado resultados en el terreno de la física y la biología, pero no se descarta su uso en otras ciencias. El hecho de que pueda ser un modelo interpretativo provisional de los fenómenos, es demostrado con el siguiente razonamiento: mientras habitualmente las reglas de los instrumentos matemáticos de análisis de un hecho son internamente diferentes de los hechos a los cuales pueden ser aplicadas, en el caso de la teoría de la catástrofe el modelo es interior al fenómeno mismo que es analizado. En este sentido, el modelo catastrófico lo interpreta naturalmente.'
+  pregunta1: 'De la lectura del párrafo se deduce como principio del determinismo absoluto'
+  alternativas1:
+    A: Que solo una causa puede explicar una modificación
+    B: Que las formas del ser o parecer tienen casualidad
+    C: Que es absoluta la existencia de efectos formales
+    D: El interpretar los cambios como discontinuidades
+    E: El describir cada cambio sin interpretación alguna
+
+  solucion1:
+    alternativa: B
+    razon: '"Su novedad como modelo... valía el principio del determinismo absoluto; los fenómenos de transformación o de cambio formal eran interpretados como discontinuidades en las cuales estaba vigente la relación de causa-efecto..." '
+
+  pregunta2: 'La teoría de las catástrofes sostiene que en los fenómenos'
+  alternativas2: 
+    A: Toda continuidad puede ser una discontinuidad
+    B: Existe continuidad con el origen de sus formas
+    C: Podemos reducir todo a una relación causa-efecto
+    D: El interpretar los cambios como discontinuidades
+    E: El describir cada cambio sin interpretación alguna
+  
+  solucion2:
+    alternativa: B
+    razon: '"... cada cambio puede ser descrito o explicado como si la discontinuidad fuese reconducible a una continuidad, que comprende al mismo tiempo las que son definidas como las causas y efectos en la génesis de formas. Por lo tanto, al origen de sus formas existe continuidad. '
+
+  pregunta3: 'En el texto una teoría es'
+  alternativas3:
+    A: Una propuesta para describir/interpretar
+    B: Un esquema espacial para ver hechos
+    C: Un modelo para aplicaciones concretas
+    D: Una construcción articulada y abstracta
+    E: Una catástrofe potencial y discontinua
+  
+  solucion3: 
+    alternativa: D
+    razon: '"Esta teoría como modelo articulado y abstracto, permite "ver" el desarrollo de un fenómeno porque lo coloca en una situación multidimensional". '
+
+  pregunta4: 'De acuerdo al texto, la nueva teoría interpretativa y provisional sería'
+  alternativas4:
+    A: Un modelo matemático
+    B: Un modelo catastrófico
+    C: Un modelo topológico
+    D: Un modelo físico
+    E: Un modelo geométrico
+
+  solucion4:
+    alternativa: B
+    razon: '"Su novedad como modelo ... En este sentido, el modelo catastrófico lo interpreta naturalmente". En otra parte se indica esta teoría, como modelo articulado y abstracto.... El hecho de que pueda ser un modelo interpretativo previsional de los fenómenos. '
+
+  pregunta5: 'La ventaja como modelo de las catástrofes es'
+  alternativas5:
+    A: Lo natural del sentido de lo interpretado
+    B: La naturaleza interior de sus explicaciones
+    C: El incorporar la representación en el hecho
+    D: El que las reglas sean iguales al fenómeno
+    E: La superación de la descripción diferente
+  
+  solucion5:
+    alternativa: C
+    razon: '"... en el caso de la teoría de la catástrofe el modelo es interior al fenómeno mismo que es analizado. En este sentido, el modelo catastrófico lo interpreta naturalmente". '

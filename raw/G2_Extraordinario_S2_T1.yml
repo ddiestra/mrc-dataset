@@ -1,0 +1,35 @@
+texto:  'Los naturalistas han dado mucha importancia, desde el pasado, a la clasificación de
+        los seres vivos. La primera clasificación que se impuso fue la de Aristóteles, en el siglo IV
+        a. C. El sabio griego clasificó los seres vivos en dos grandes grupos, el reino vegetal y el
+        reino animal, y creó diferentes categorías internas para agrupar diferentes seres vivos.
+        Aunque no utilizó criterios científicos, su clasificación de los seres vivos se mantuvo durante
+        mucho tiempo. Fue Karl von Linné quien dio paso al estudio moderno y sistemático de los
+        seres vivos, creando agrupaciones jerarquizadas (taxones), e inventando el sistema de
+        nomenclatura binomial para las diferentes especies. Desde entonces, los seres vivos se
+        nombran con dos palabras en latín; la primera indica el género y el conjunto de las dos, la
+        especie. Los taxones por encima de la especie son, de menor a mayor: el género, la familia,
+        el orden, la clase, el filo (tipo para los zoólogos y división para los botánicos) y, por último,
+        el reino.'
+    
+preguntas:    
+  - pregunta: ¿Cuál es el tema central del texto?
+    alternativas:
+      A: La historia de la clasificación de los seres vivos
+      B: La hazaña científica del naturalista Karl von Linné
+      C: La clasificación de seres vivos hecha por Aristóteles
+      D: El empleo del latín para la nomenclatura científica
+      E: La diferencia entre los términos género, familia y reino
+    solucion:
+      alternativa: A
+      razon:  el tema que articula el texto la clasificación de los seres vivos a lo largo de la historia.
+  
+  - pregunta: ¿Cuál es la idea principal del texto?
+    alternativas:
+      A: 'Karl von Linné dio paso al estudio moderno y sistemático de los seres vivos, creando agrupaciones jerarquizadas.'
+      B: 'Si bien Aristóteles inició la clasificación de los seres vivos, la clasificación científica actual la debemos a Karl von Linné.'
+      C: 'El sabio griego Aristóteles clasificó los seres vivos en dos grandes grupos: el reino vegetal y el reino animal.'
+      D: 'En la actualidad, los seres vivos se nombran con dos palabras en latín: la primera indica el género y el conjunto, la especie.'
+      E: 'Los taxones por encima de la especie son: el género, la familia, el orden, la clase, el filo y, por último, el reino.'
+    solucion:
+      alternativa: B
+      razon:  El autor recoge el paso de la concepción antigua a la actual de la clasificación de los seres vivos.

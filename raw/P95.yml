@@ -1,0 +1,61 @@
+texto: 'La luz de las antorchas resultaba escasa para el lóbrego sótano, y las sombras se proyectaban agigantadas sobre los húmedos muros. Un desgraciado, desnudo y sumiso, exhibía la blanquísima piel y con ojos de terror presenciaba las operaciones de los verdugos, que ataban sus pies y manos a la “rueda de la muerte”. Formalizadas aquéllas, los verdugos se apartaron para dar paso a un inquisidor de terrible mirada y voz ronca. “Por última vez —preguntó—¿Cree en Dios o no cree en Dios?”. El maniatado se mantuvo en obstinado silencio, hasta que un gesto del inquisidor a los verdugos provocó un terrible alarido del primero. Solícito el inquisidor se aproximó al rostro del torturado: “¿Qué me dice?” El desgraciado, jadeando, acertó a balbucir: “Algunas veces sí, otras no... depende”. “¿Depende de qué?” — inquirió con voz terrible el inquisidor—. “No lo sé... Resulta difícil precisarlo. Hay veces en que me siento feliz, arrobado, transportado a los cielos, sin saber por qué, sin causas que justifiquen esa felicidad, y entonces creo. Pero otras veces, también sin saber por qué, deprimido, cansado, harto, generalmente al despertarme, por las mañanas, con mal sabor de boca...”. Aquellas explicaciones, más bien elucubraciones, no parecieron satisfacer en demasía al inquisidor porque irguiéndose y sin dejar de mirar fijamente al acusado, exclamó con un gesto decidido de su mano derecha: “¡Adelante!”.'
+pregunta1: 'El texto no trata de reflejar'
+alternativas1: 
+  A: La sangre fría del inquisidor
+  B: La intransigencia de la iglesia
+  C: El castigo como forma de control
+  D: La tragedia de los condenados
+  E: Las múltiples torturas en la historia
+
+solucion1: 
+  alternativa: E
+  razon: ''
+
+pregunta2: 'La creencia o no en Dios depende en el torturado de'
+alternativas2:
+  A: Su miedo a la divinidad
+  B: El tipo de tortura
+  C: El grado de fe en Dios
+  D: Su estado anímico
+  E: La conveniencia situacional
+
+solucion2: 
+  alternativa: D
+  razon: ''
+
+pregunta3: 'Señale cual terna indica características del inquisidor'
+alternativas3:
+  A: Dogmatismo, recelo e inconsecuencia
+  B: Inmisericordia, desvergüenza y falsedad
+  C: Conmiseración, dogmatismo y protervia
+  D: Sangre fría, intransigencia e impasibilidad
+  E: Maldad, cobardía y martirio
+
+solucion3: 
+  alternativa: D
+  razon: ''
+
+pregunta4: 'El término formalizadas se entiende como'
+alternativas4:
+  A: Asumidas
+  B: Replanteadas
+  C: Terminadas
+  D: Aceptada
+  E: Determinadas
+
+solucion4: 
+  alternativa: C
+  razon: ''
+
+pregunta5: 'En la última parte del texto se trata de indicar'
+alternativas5:
+  A: El inicio del proceso de tortura
+  B: La extrema crueldad del condenado
+  C: Las divagaciones del procesado
+  D: La total indiferencia del inquisidor
+  E: La intensificación de la tortura
+
+solucion5: 
+  alternativa: E
+  razon: ''
+

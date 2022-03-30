@@ -1,0 +1,13 @@
+texto: 'El número de todos los átomos que componen el mundo es, aunque desmesurado, finito, y solo capaz como tal de un número finito (aunque desmesurado también) de permutaciones. Dado un tiempo infinito, el número de las permutaciones posibles debe ser alcanzado, y el universo tiene que repetirse. De nuevo nacerás de un vientre, de nuevo crecerá tu esqueleto, de nuevo arribará esta misma página a tus manos iguales, de nuevo cursarás todas las horas hasta la de tu muerte increíble. Tal es el orden habitual de aquel argumento, desde el preludio insípido hasta el enorme desenlace amenazador. Es común atribuirlo a Nietzsche como las tesis del eterno retorno.'
+pregunta1: 'Si dispusiéramos de un tiempo exclusivamente finito'
+alternativas1:
+  A: El universo debería repetirse de todos modos.
+  B: Nietzsche habría despotricado de la filosofía.
+  C: Sería imposible permutar los átomos entre sí.
+  D: El número de átomos del mundo sería infinito.
+  E: Sería insostenible la tesis del eterno retorno.
+
+solucion1:
+  alternativa: E
+  razon: 'Si dispusiéramos de un tiempo exclusivamente finito, entonces no podríamos sostener la tesis del eterno retorno. Con dicha tesis, Nietzsche plantea que todos los eventos en el universo tienden a repetirse permanentemente, teniendo como fundamento que dichos eventos ocurran en un tiempo infinito. Por el contrario, si el tiempo fuera finito, no podríamos proponer la repetición de las permutaciones en el universo y, por ende, la tesis del eterno retorno perdería su sustento teórico. '
+

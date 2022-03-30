@@ -1,0 +1,85 @@
+texto: '¿Revisas tu smartphone cada cinco minutos? ¿Has sentido vibraciones fantasmas? ¿Te llevas tu celular a la mesa e incluso hasta al baño? Si es así, seguramente perteneces a los millones de personas que padecen «nomofobia». El término surgió como abreviatura de no-mobile-phone-phobia durante un estudio realizado por la empresa inglesa de investigación demoscópica You Gov, para señalar la ansiedad y angustia que produce el estar sin celular. Si bien la denominación «fobia» podría ser incorrecta, un estudio conducido por el psicólogo Richard Balding de la Universidad de Worcester en Reino Unido, reveló que, efectivamente, el uso constante de estos aparatos aumenta los niveles de estrés, lo que a su vez incrementa los comportamientos compulsivos como el buscar incesantemente nuevas alertas, mensajes y actualizaciones. Durante el experimento, se les aplicó un cuestionario y una prueba psicosomática de estrés a 100 participantes, entre ellos estudiantes universitarios y empleados de diversas categorías y ocupaciones.  Se confirmó la existencia de un círculo vicioso:  si bien las personas adquirían el smartphone para manejar su carga de trabajo, una vez que el aparato extendía virtualmente su vida social, la angustia y el estrés se disparaban. La inhabilidad de apagar el celular, el tenerlo siempre a la mano, el asegurarse de que nunca se acabe la batería y el miedo a perder la señal son algunos síntomas de quienes sufren altos niveles de estrés. En México, existen más de 190 millones de smartphones: el 72% de los usuarios no salen de su casa sin su celular, según un informe realizado por Google, la consultora IPSOS y Mobile Marketing Association.'
+pregunta1: '¿Cuál es el tema central del texto?'
+alternativas1: 
+  A: La preocupante proliferación de smartphones en México.
+  B: La nomofobia o estrés ocasionado por el uso de celular.
+  C: El estrés asociado al uso compulsivo de tecnología digital.
+  D: La sensación de vibraciones fantasmas en el smartphone.
+  E: El uso necesario de teléfonos inteligentes en la actualidad.
+
+solucion1: 
+  alternativa: B
+  razon: 'En el texto se desarrolla el tema de la nomofobia o estrés disparado por el uso obsesivo del teléfono celular.'
+
+pregunta2: ' Determine la idea principal del texto'
+alternativas2:
+  A: El 72% de individuos jamás olvida salir sin teléfono celular en México.
+  B: Quienes usan smartphones buscan que este registre nuevos mensajes.
+  C: El nombre nomofobia surgió abreviando la frase no-mobile-phone-phobia.
+  D: Los jóvenes son incapaces de dejar inactivos sus teléfonos celulares.
+  E: La nomofobia es el estrés ocasionado por el uso compulsivo del celular.
+
+solucion2: 
+  alternativa: E
+  razon: 'La nomofobia, de acuerdo con el tema central, se define como el estrés que ocasiones el uso excesivo del teléfono móvil.'
+
+pregunta3: 'En el texto, la palabra DISPARAR implica el desarrollo de un proceso'
+alternativas3:
+  A: Gradual.  
+  B: Armónico.  
+  C: Acelerado.
+  D: Cáustico.  
+  E: Complejo.
+
+solucion3: 
+  alternativa: C
+  razon: 'El estrés se DISPARABA, esto es, crecía de forma desmedida cuando el smartphone se extendía al uso social.  El vocablo alude a un proceso que se da de forma acelerada.'
+
+pregunta4: ' La palabra INHABILIDAD connota'
+alternativas4:
+  A: Defecto.  
+  B: Desmesura.
+  C: Destreza.
+  D: Impericia.  
+  E: Torpeza.
+
+solucion4: 
+  alternativa: B
+  razon: 'La palabra aludida hace referencia a la incontinencia en el uso de celulares, la cual se manifiesta en la resistencia de los usuarios nomofóbicos a apagarlos. Por lo anterior, el vocablo connota desmesura'
+
+pregunta5: '  Resulta incompatible con la información textual afirmar que los individuos nomofóbicos'
+alternativas5:
+  A: Incrementan sus niveles de estrés debido al uso compulsivo de sus celulares.
+  B: Buscan de manera incesante nuevas actualizaciones en sus teléfonos móviles.
+  C: Acusan cierto temor ante una posible descarga del celular y la pérdida de señal.
+  D: Pueden sentir subjetivamente que el teléfono celular se encuentra vibrando.
+  E: Son completamente independientes y desinteresados de la aceptación social.
+
+solucion5: 
+  alternativa: E
+  razon: 'En el texto se señala que los usuarios nomofóbicos buscan nuevos mensajes, actualizaciones y, además, extienden el uso del celular a su vida social. De lo anterior se deduce que existiría una inclinación a ser aceptado socialmente.'
+
+pregunta6: 'Es incongruente con lo señalado en el texto sostener que el público usado como objeto del experimento'
+alternativas6:
+  A: Constituía una población que realizaba las mismas actividades.
+  B: Pasó por una prueba psicosomática y la resolución de un test.
+  C: Estaba conformado parcialmente por estudiantes universitarios.
+  D: Hizo posible la confirmación de que ocurría un círculo vicioso.
+  E: Contaba, en parte, con la participación de empleados diversos.
+
+solucion6: 
+  alternativa: A
+  razon: 'En el texto se indica que las personas que pasaron el experimento realizaban diversas actividades o tenían diferentes ocupaciones.  Resulta incompatible afirmar lo contrario.'
+
+pregunta7: 'Respecto de las personas que padecen nomofobia, se puede colegir que'
+alternativas7:
+  A: Ascienden a la alarmante e inopinada cifra de 190 millones solamente en México.
+  B: Llegan al extremo de perder sus empleos por la elevada atención a los mensajes.
+  C: Toman medidas muy seguras de prevención para evitar el elevado estrés y miedo.
+  D: Podrían evitar el incremento del estrés si usarán el celular solo para organizarse.
+  E: La vida social los lleva inexorablemente a comprar smartphones más sofisticados.
+
+solucion7:
+  alternativa: D
+  razon: 'Las personas que padecen nomofobia acusan un crecimiento acelerado de los niveles de estrés cuando el teléfono se usa con fines sociales. De lo anterior se deduce que el estrés no se dispararía si se limitara el uso del celular como organizador'
+  

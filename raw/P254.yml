@@ -1,0 +1,61 @@
+texto: 'Lo usual es atribuir la causa de las enfermedades mentales al entorno, con algunos raros casos de origen genético. La vanguardia de la patología molecular –la ciencia que busca las causas últimas de la enfermedad humana– está derribando ese paradigma al mostrar hasta qué punto el entorno actúa a través de los genes. Científicos de Tokio sugieren hoy que los transposones, o genes saltarines que cambian de posición en el genoma, presentes en las células precursoras de las neuronas, son una causa mayor de la esquizofrenia. Los transposones generan variedad neuronal durante el desarrollo normal. Su movilidad excesiva puede deberse a causas hereditarias, pero también provocarse por el entorno, lo que puede explicar las actuales paradojas sobre la genética de las enfermedades mentales. No es que el genoma de las neuronas se vuelve loco, todo empiece a ir mal y el azar acabe causando la esquizofrenia. Los meros errores pueden ser la causa de raras enfermedades hereditarias –las monogenéticas o debidas a la mutación de un solo gen–, pero las grandes enfermedades humanas, como el cáncer o el trastorno mental, tienen unos componentes genéticos mucho más sutiles. La razón de que los transposones generen la esquizofrenia es que se insertan cerca de genes esenciales para el desarrollo y el funcionamiento del cerebro. Así no solo alteran su actividad, sino también la forma en que responden al entorno. La regulación de los genes depende precisamente de las secuencias de ADN que tienen al lado, y el transposón protagonista de este estudio, llamado L1, contiene secuencias especializadas en responder al entorno y regular a los genes vecinos. En eso se basa su función durante el desarrollo normal, y también en la génesis de la esquizofrenia. Kato y Kazuya, los científicos de Tokio, presentan una investigación del cerebro de 48 pacientes de esquizofrenia y 47 personas de control, complementada con estudios genómicos, experimentos en células madre derivadas de pacientes y comprobaciones en modelos animales como ratones y macacos. Todos los resultados apuntan a la misma conclusión: un claro incremento de los sucesos de transposición en las neuronas en el córtex cerebral prefrontal de los pacientes de esquizofrenia.'
+pregunta1: 'El texto gira en torno a'
+alternativas1: 
+  A: Una investigación sobre la raíz de las grandes enfermedades.
+  B: La razón verdadera de la esquizofrenia en el mundo actual.
+  C: Una nueva explicación de la causa de la esquizofrenia.
+  D: La explicación paradójica de las enfermedades mentales.
+  E: La relevancia del entorno en las enfermedades mentales.
+
+solucion1: 
+  alternativa: A
+  razon: 'El texto gira en torno a una nueva explicación de la causa de la esquizofrenia. Según el texto, las investigaciones genéticas en Tokio demuestran que la esquizofrenia tiene como causa principal una alteración genética en el desarrollo y funcionamiento del cerebro provocado por transposones o genes saltarines. Esta investigación refuta la idea usual de que las enfermedades mentales se deben al entorno o ambiente. '
+
+pregunta2: 'El vocablo REGULAR se emplea en el sentido de'
+alternativas2:
+  A: Utilizar.
+  B: Examinar.
+  C: Aprobar.
+  D: Controlar.
+  E: Observar
+
+solucion2: 
+  alternativa: D
+  razon: 'En el texto, el término regular tiene el sentido de controlar. Así, los transposones se insertan cerca de los genes esenciales del cerebro y alteran su funcionamiento. Por lo tanto, los transposones, genes saltarines, controlan a los otros genes del cerebro. '
+
+pregunta3: 'Una idea contraria a las conclusiones de Kato y Kazuya es que'
+alternativas3:
+  A: La esquizofrenia está determinada por el medio ambiente.
+  B: Los experimentos realizados refuerzan las conclusiones.
+  C: La esquizofrenia se genera en el córtex cerebral frontal.
+  D: Los genes saltarines tienen un rol central en la esquizofrenia.
+  E: El entorno resulta cuestionado como eje de la esquizofrenia.
+
+solucion3: 
+  alternativa: A
+  razon: 'Según el texto, una idea contraria a las conclusiones de Kato y Kazuya es que la esquizofrenia está determinada por el medio ambiente, ya que sus investigaciones genéticas demuestran que la principal causa de esta enfermedad mental son los transposones o genes saltarines. '
+
+pregunta4: 'A partir de los resultados de la investigación nipona, se puede inferir que '
+alternativas4:
+  A: Los transposones generan variedad neuronal durante el desarrollo normal.
+  B: Las enfermedades mentales y el cáncer preocupan a la humanidad.
+  C: La patología molecular está alcanzado un desarrollo inusitado.
+  D: La movilidad excesiva de los transposones es perjudicial en el desarrollo.
+  E: Las ideas respecto al origen de las enfermedades pueden cambiar.
+
+solucion4: 
+  alternativa: E
+  razon: 'Según el texto, de los resultados de la investigación nipona, se puede concluir que las ideas respecto al origen de las enfermedades pueden cambiar, ya que este estudio ha demostrado que la esquizofrenia tiene como causa principal la intervención de transposones, genes que alteran el desarrollo y funcionamiento del cerebro. Por lo tanto, se refuta la idea generalizada de que las enfermedades mentales se deben a factores externos o ambientales. '
+
+pregunta5: 'Si la contrastación en modelos animales hubiese resultado contraria a lo esperado por Kato y Kazuya, probablemente'
+alternativas5:
+  A: Los transposones no cumplirían las funciones que ellos les atribuyen.
+  B: La idea de un gen saltarín no resultaría totalmente equivocada.
+  C: La cura contra enfermedades mentales se atrasaría notoriamente.
+  D: El papel de la herencia en el origen de la enfermedad sería relevante.
+  E: La patología molecular sería una ciencia con pocos logros que exhibir.
+
+solucion5: 
+  alternativa: A
+  razon: 'Si la contrastación en modelos animales hubiese resultado contraria a lo esperado por Kato y Kazuya, probablemente los transposones no cumplirían las funciones que ellos les atribuyen. Esto porque los experimentos con ratones y macacos permiten corroborar que en el origen de la esquizofrenia interviene la transposición de neuronas. Es evidente que un resultado contrario en estos experimentos afectaría las conclusiones de la investigación. '
+

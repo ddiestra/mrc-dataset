@@ -1,0 +1,22 @@
+texto: 'En todo el mundo hay una enorme cantidad de personas inteligentes, incluso con un
+        talento especial, que se apasionan por la ciencia. Pero no es una pasión correspondida.
+        Los estudios sugieren que un noventa y cinco por ciento de los norteamericanos son
+        «analfabetos científicos». Es exactamente la misma fracción de afroamericanos
+        analfabetos, casi todos esclavos, justo antes de la guerra civil, cuando se aplicaban
+        severos castigos a quien enseñara a leer a un esclavo. Desde luego, en las cifras sobre
+        analfabetismo hay siempre cierto grado de arbitrariedad, tanto si se aplica al lenguaje
+        como a la ciencia. Pero un noventa y cinco por ciento de analfabetismo es
+        extremadamente grave.'
+    
+preguntas:    
+  - pregunta: 'En el texto, el término ARBITRARIEDAD alude a una'
+    alternativas:
+      A: 'inexactitud.' 
+      B: 'probabilidad.' 
+      C: 'ilegalidad.'
+      D: 'imparcialidad.' 
+      E: 'ligereza.'
+        
+    solucion:
+      alternativa: 'A'
+      razon: 'El sentido de arbitrario en el texto alude al grado de inexactitud que puede tener el criterio para señalar el analfabetismo'

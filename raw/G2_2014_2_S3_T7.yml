@@ -1,0 +1,75 @@
+texto:
+    'Hace 75 años empezó la II Guerra Mundial con la invasión nazi de Polonia. El asedio de Varsovia duró casi todo el mes de septiembre, bombardeada por aire y cercada por tierra. La ciudad capituló fundamentalmente por la situación de la población civil, exhausta y horrorizada por los bombardeos a objetivos civiles. No podían entender cómo escuelas o mercados pudieran ser arrasados sin piedad por los alemanes. El miedo se extendió a la misma velocidad de los proyectiles.
+    Según estudios que han salido a la luz recientemente, la Luftwaffe ensayó esta estrategia de bombardeo indiscriminado en Guernica dos años antes, en abril de 1937, a una escala mucho menor, pero el procedimiento utilizado por la aviación fue el mismo. Se lanzaron entre 31 y 41 toneladas de bombas sobre Guernica. La ciudad quedó casi totalmente arrasada, tan solo el 1% de los edificios no fueron afectados.
+    Pero estos mismos estudios han sacado a la luz algo todavía más macabro. El bombardeo de Guernica fue, en realidad, un regalo de Göring a Adolf Hitler. Hermann Göring, comandante supremo de la Luftwaffe, había planeado muy bien cada detalle. El Führer cumplía años en abril. ¿Qué mejor regalo que una película que probase el poder imparable de la fuerza aérea alemana? Se la exhibiría en Berlín el mismo día de su 47º cumpleaños. Después de ver aquella filmación, Hitler no tendría ninguna duda de la imbatibilidad de su ejército y Göring quitaría de en medio a todos sus competidores para, por qué no, llegar a ser ministro de Defensa.
+    Así, el viejo aviador nazi encomendó la organización del ataque al coronel Wolfram von Richthofen, quien lo programó metódicamente. Debía de ser a mediados de mes, pocos días antes del cumpleaños del Führer. La operación la llevaría a cabo la Legión Cóndor, dirigida por el general Hugo Sperrle. Sin embargo, las cosas no salieron como estaban previstas. Los suministros no llegaron a tiempo y el bombardeo se tuvo que retrasar unos días. El dictador cumplía años el 20 de abril y, finalmente, el bombardeo de Guernica fue el 26. Aun llegado con retraso, Hitler se entusiasmó con el regalo de su lugarteniente, aunque no lo suficiente como para nombrarlo ministro de Defensa. Hitler ya había asignado el puesto a otra persona: a sí mismo.'
+    
+#1
+pregunta1: ¿Cuál es la mejor síntesis del texto?
+
+alternativas1: 
+    A: El nazismo no tuvo piedad por los civiles que fueron aniquilados tanto en Guernica como después en Varsovia.
+    B: El bombardeo de Guernica en 1937 fue de un nivel tan destructivo que la ciudad quedó casi totalmente arrasada.
+    C: Göring sufrió un terrible fiasco al no ser nombrado por Adolf Hitler como ministro de Defensa del nazismo.
+    D: El bombardeo de Guernica llevado a cabo por la Luftwaffe tuvo similitudes con el bombardeo de Varsovia.
+    E: El bombardeo de Guernica, con el que Göring quiso ganar la gracia de Hitler, fue un ensayo del ataque a Polonia.
+
+solucion1: 
+    alternativa: E
+    razon: 'Se destaca dos hallazgos cruciales: Guernica fue un ensayo de Polonia y la intención de Göring de congraciarse con Hitler.'
+
+#2
+pregunta2: En el primer párrafo, la palabra CAPITULAR significa
+
+alternativas2: 
+    A: destruir.
+    B: sobrevivir.
+    C: resistir.
+    D: rendirse.
+    E: enfrentarse.
+
+solucion2: 
+    alternativa: D
+    razon: Varsovia se entregó al enemigo alemán en el contexto de la Segunda Guerra Mundial.
+
+#3
+pregunta3: Es incompatible afirmar que el bombardeo de Guernica
+
+alternativas3: 
+    A: fue un entrenamiento para los alemanes.
+    B: estuvo a punto de destruirla por completo.
+    C: se llevó a cabo de una manera impecable.
+    D: fue visto por Göring como una oportunidad.
+    E: estaba relacionado con la II Guerra Mundial.
+
+solucion3: 
+    alternativa: C
+    razon: Los suministros no llegaron a tiempo y el bombardeo de Guernica se tuvo que retrasar unos días.
+
+#4
+pregunta4: Se desprende del texto que los alemanes
+
+alternativas4: 
+    A: se distinguían por la improvisación de sus ataques.
+    B: usaron un notable mayor poder bélico en Guernica.
+    C: espiaban a Göring, supremo líder de la Luftwaffe.
+    D: carecieron de escrúpulos al desplegar sus ataques.
+    E: rechazaron a Adolf Hitler como ministro de Defensa.
+
+solucion4: 
+    alternativa: D
+    razon: Era horroroso atestiguar cómo escuelas o mercados fueron arrasados sin piedad por los alemanes. El miedo se extendió velozmente.
+
+#5
+pregunta5: Si los alemanes no hubiesen bombardeado objetivos civiles en Polonia,
+
+alternativas5: 
+    A: el bombardeo de Guernica no habría ocurrido.
+    B: Varsovia habría ofrecido una resistencia mayor.
+    C: Göring habría logrado ser ministro de Defensa.
+    D: los nazis habrían ganado la II Guerra Mundial.
+    E: los polacos habrían decidido invadir Alemania. 
+
+solucion5: 
+    alternativa: B
+    razon: El texto señala que Varsovia capituló fundamentalmente por el horror producido por el ataque a escuelas y mercados.

@@ -1,0 +1,56 @@
+texto: 'Nadie sabe qué origina la enfermedad de Alzheimer. Algunos investigadores conjeturan que podría tratarse de “virus lentos”. Sin embargo, hasta ahora no se ha identificado ninguno específicamente. Otros piensan que esta enfermedad es de origen genético o, al menos, en parte. Algunos han estudiado la relación entre la herencia biológica y el padecimiento de la persona cuando comienza a sentir sus efectos, a partir de la sospecha de que mayores serán las posibilidades de que la contraigan los parientes.  Cualquiera sea la causa, los pacientes tienen carencia de la sustancia cerebral acetilcolina, responsable de la comunicación entre neuronas. Así, se ha tratado de suministrarles cápsulas de colina en la dieta, con resultados desalentadores Mejores resultados se han tenido con fisostigmina por vía intravenosa y por vía oral con resultados similares: una leve mejoría. Más aún, en algunos casos se ha combinado la fisostigmina con la lecitina y se ha alcanzado un periodo mayor de mejoría. Sin embargo, los médicos no cantan victoria. Últimamente, el tratamiento ha consistido en inyectar directamente al cerebro el cloruro de betanecol, ya que este “remeda” la acción de la acetilcolina, y se han obtenido resultados más alentadores. En síntesis, los últimos diez años han permitido importantes logros en el conocimiento de la enfermedad, pero es preciso llevar a cabo muchos más experimentos. Se espera que en los próximos diez años se disponga de medicamentos realmente eficaces para tratar este mal.'
+pregunta1: 'A partir de lo expuesto en el texto, se puede establecer que la causa del alzhéimer estaría ligada a '
+alternativas1: 
+  A: la comprensión de por qué el cerebro carece de acetilcolina. 
+  B: la necesidad de explicar la falta de conexión entre neuronas. 
+  C: los diversos síntomas que presentan los pacientes crónicos. 
+  D: diversos factores, entre los que destacan los de origen genético. 
+
+solucion1: 
+  alternativa: A
+  razon: 'El texto expone que la enfermedad del Alzheimer no tiene una causa identificada. Algunos plantean que podría tratarse de un virus, otros piensan que puede ser de origen genético. Sea cualquiera de estas, los pacientes carecen de la sustancia cerebral acetilcolina. Por ello, a partir de lo expuesto en el texto, se puede establecer que la causa del Alzheimer estaría ligada a la comprensión de por qué el cerebro carece de acetilcolina. '
+  
+pregunta2: 'En el texto, la frase “no cantan victoria” se relacionan con la'
+alternativas2:
+  A: incapacidad de los médicos para darse por vencidos.
+  B: posibilidad de conocer la causa real de la enfermedad.
+  C: insatisfacción que producen los resultados conseguidos.
+  D: esperanza de revertir los problemas que no tienen solución.
+
+solucion2: 
+  alternativa: C
+  razon: 'El texto expresa que se ha aplicado diversos tratamientos a los pacientes que padecen de alzhéimer como cápsulas de colina en su dieta o fisostigmina por vía intravenosa; sin embargo, estos tratamientos no consiguen los resultados esperados, por ello los médicos no cantan victoria. En tal sentido, en el texto, la frase “no cantan victoria” se relaciona con la insatisfacción que producen los resultados conseguidos. '
+  
+pregunta3: 'Según el texto, en algunos casos se administra cloruro de betanecol a los pacientes, porque esta sustancia puede'
+alternativas3:
+  A: simular mejor la acción del cerebro.
+  B: producir un aumento de acetilcolina.
+  C: sustituir la acción de la acetilcolina.
+  D: ser abundante en el nivel de lecitina.
+
+solucion3: 
+  alternativa: C
+  razon: 'El texto expresa que, últimamente, el tratamiento a los pacientes con alzhéimer ha consistido en inyectar directamente al cerebro el cloruro de betanecol, ya que este “remeda” la acción de la acetilcolina. Por ende, según el texto, en algunos casos se administra cloruro de betanecol a los pacientes porque esta sustancia puede sustituir la acción de la acetilcolina. '
+  
+pregunta4: 'A partir de los datos presentados en la infografía, se colige que '
+alternativas4:
+  A: solo las personas mayores de 65 años están expuestas. 
+  B: la demencia senil se debe a diversas causas. 
+  C: la enfermedad de Alzheimer es más tolerable. 
+  D: a partir de los 85 años adquirirá la enfermedad. 
+
+solucion4: 
+  alternativa: B
+  razon: 'En la infografía se expone diversos datos porcentuales acerca de la enfermedad de Alzheimer. Uno de estos datos se relaciona con los casos de demencia. Según la infografía, el alzhéimer representa entre el 60% y 80% de los casos de demencia, esto indica que existen otros factores que producen la demencia senil. Por lo tanto, a partir de los datos presentados en la infografía, se colige que la demencia senil se debe a diversas causas. '
+  
+pregunta5: 'De los datos proporcionados en la infografía, se puede deducir que '
+alternativas5:
+  A: un porcentaje de personas mayores no vive con sus familiares. 
+  B: a los 45 años se presentan los primeros síntomas de la enfermedad. 
+  C: los médicos ignoran cuáles son los efectos desencadenantes. 
+  D: los enfermos ya no son capaces de valerse por sí mismos. 
+
+solucion5: 
+  alternativa: A
+  razon: 'Tema: Comprensión de lectura Uno de los datos presentes en la infografía nos indica que, aproximadamente, un 70% de los pacientes con Alzheimer reside en sus hogares. Esta información nos hace deducir que hay un 30% de pacientes que no viven en sus hogares. Por lo tanto, de los datos proporcionados en la infografía se puede deducir que un porcentaje de personas mayores no vive con sus familiares. '
+  

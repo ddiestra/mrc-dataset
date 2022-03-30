@@ -1,0 +1,23 @@
+texto:  El sistema de los números reales se escoge en física por su utilidad, simplicidad y
+        elegancia matemáticas, junto con el hecho de que concuerda, en un rango muy amplio,
+        con los conceptos físicos de distancia y tiempo. No se ha escogido porque sepamos que
+        está de acuerdo con estos conceptos físicos en todos los rangos. Se podría esperar que
+        no exista tal acuerdo a escalas muy pequeñas de distancia o tiempo. Es práctica común
+        utilizar reglas para la medida de distancias simples, pero esas mismas reglas tendrán una
+        naturaleza granular cuando descendamos a la escala de sus propios átomos. Esto, en sí
+        mismo, no nos impide seguir utilizando los números reales de una forma aproximada,
+        pero se necesita una sofisticación mucho mayor para la medida de distancias aún más
+        pequeñas.
+    
+preguntas:    
+  - pregunta: Es incompatible con el texto afirmar que el sistema de números reales
+    alternativas:
+      A: puede ser valorado por su simplicidad matemática.
+      B: es empleado por los científicos para medir el tiempo.
+      C: se caracteriza por poseer elegancia matemática.
+      D: refleja con exactitud la medida de cualquier distancia.
+      E: resulta útil para la labor realizada por los físicos. 
+        
+    solucion:
+      alternativa: D
+      razon: En algunas ocasiones empleamos este sistema pero de modo aproximado lo que va en contra de una pretendida exactitud.

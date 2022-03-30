@@ -1,0 +1,19 @@
+texto: 'No podríamos arreglárnosla en la vida sin dar por sentado las ideas de tiempo, número,
+        lenguaje, bueno y malo; pero en Filosofía investigamos esas cosas en sí mismas. El
+        objetivo es hacer un poco más profundo nuestro entendimiento del mundo y de nosotros
+        mismos. Obviamente, no es tarea fácil. Mientras más básicas son las ideas que tratamos
+        de investigar, la tarea es más difícil. Así, la Filosofía es una actividad bastante vertiginosa,
+        y sus resultados no permanecen incuestionables por mucho tiempo.'
+    
+preguntas:    
+  - pregunta: 'En el texto, la palabra VERTIGINOSA significa'
+    alternativas:
+      A: 'inestable.' 
+      B: 'veloz.' 
+      C: 'dinámica.' 
+      D: 'arriesgada.' 
+      E: 'desatinada.'
+        
+    solucion:
+      alternativa: 'C'
+      razon: 'El texto señala que la filosofía es una empresa vertiginosa, cambiante, de resultados que no permanecen incuestionables, es decir, una actividad dinámica.'

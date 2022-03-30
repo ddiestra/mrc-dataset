@@ -1,0 +1,89 @@
+texto:  'Kōji Kondō, nacido en Nagoya, Japón, el 13 de agosto de 1960, es un músico y
+        compositor japonés principalmente reconocido por sus bandas sonoras para varios
+        videojuegos producidos por Nintendo y, más recientemente, por ser el compositor de la
+        banda sonora de la serie japonesa One Piece. Es, junto con Nobuo Uematsu, y Koichi
+        Sugiyama, uno de los compositores más destacados del género.
+        Kōji Kondō es uno de los pioneros en la composición de música para videojuegos. Los
+        críticos citan como su mayor talento la habilidad de crear melodías que continúan siendo
+        agradables y discretas aun siendo repetidas durante largos períodos de tiempo y
+        reproducidas a través de equipos de sonido inferiores. Sus composiciones resultan
+        generalmente memorables; un estudio comprobó que dos tercios de la población mundial
+        reconoce el tema principal del juego Super Mario Bros casi 20 años luego de haber sido
+        compuesto.
+        Sin embargo, esta familiaridad es también la causa de las mayores críticas al trabajo
+        de Kondō: en los veinte años que lleva componiendo para videojuegos, su estilo apenas ha
+        cambiado. Los temas de Super Mario Bros compuestos en 1985 varían muy sutilmente en
+        Super Mario Sunshine (2002), a pesar de que el sonido de sus primeros juegos sonaba más
+        primitivo debido a las restricciones tecnológicas. Esta necesidad de mantener la pauta es
+        una espada de doble filo para Kondō, pues cuando ha intentado experimentar con algo
+        distinto, como en The Legend of Zelda: Ocarina of Time (1998), fue criticado por algunos
+        de sus seguidores por abandonar el estilo con el que tanto disfrutaban (cosa ridícula porque
+        Ocarina of Time tiene, a mi gusto, una de las mejores bandas sonoras de todos los tiempos).
+        El trabajo de Kōji Kondō presenta al menos tres grandes influencias: música latina,
+        jazz y música clásica, usualmente con una inclinación cinematográfica. Su influencia latina
+        se evidencia con mayor fuerza en los alegres temas compuestos para la serie Mario Bros,
+        tal como la banda sonora de Super Mario Bros 3. El alegre tema principal posee un ritmo
+        de samba lento y el tema de Browser parece provenir de un conjunto de mariachi. Esta
+        influencia se encuentra presente también en trabajos más actuales, tales como el tema del
+        valle Gerudo en The Legend of Zelda: Ocarina of Time, un tema fuertemente influenciado
+        por la música española.'
+    
+preguntas:    
+  - pregunta: ¿Cuál es el tema central del texto?
+    alternativas:
+      A: La importancia que la empresa Nintendo da a la música
+      B: Las influencias musicales que recibió Koji Kondo en su obra
+      C: Las variaciones en la obra de Kondo a propósito de Zelda
+      D: El trabajo musical de Kondo y su aporte a los videojuegos
+      E: Kōji Kondō y la creación de la música de Super Mario Bros
+    solucion:
+      alternativa: D
+      razon:  El tema central radica en el trabajo de Koji Kondo en relación a la composición
+              musical para videojuegos.
+
+  - pregunta: Se desprende del hecho de que dos tercios de la población mundial reconozca la melodía de Super Mario Bros que
+    alternativas:
+      A: Kōji Kondō trabajó para Nintendo en todos sus videojuegos.
+      B: toda la población mundial conoce de videojuegos y Super Mario.
+      C: muchas personas conocen esta obra pero no al autor de la melodía.
+      D: el trabajo de Koji Kondo ha pasado inadvertido en todo el mundo.
+      E: los videojuegos y su música nunca repercuten en la vida cotidiana.
+    solucion:
+      alternativa: C
+      razon:  En el texto se menciona que una investigación demuestra que la música de
+              Super Mario Bros. es recordada pero no se menciona a su autor, por lo tanto podemos inferir
+              que estas personas no conocen quien compuso la melodía.
+
+  - pregunta: La palabra MEMORABLE alude a una composición recordada y
+    alternativas:
+      A: fastidiosa. 
+      B: tediosa. 
+      C: afamada. 
+      D: clara. 
+      E: alegre.
+
+    solucion: 
+      alternativa: C
+      razon:  Contextualmente MEMORABLE hace alusión a recordación y fama.
+
+  - pregunta: Es incompatible sostener que Koji Kondo
+    alternativas:
+      A: 'es un pionero de la creación de música para videojuegos.'
+      B: 'ha compuesto por mucho tiempo música para Nintendo.'
+      C: 'realizó una canción sumamente compleja en Super Mario Bros.'
+      D: 'reúne elementos de música latina, clásica y jazz en su estilo.'
+      E: 'realizó una composición para Legend of Zelda: Ocarina of Time.'
+    solucion:
+      alternativa: C
+      razon:  En el texto se menciona que las composiciones de Koji Kondo son sencillas y simples. 
+
+  - pregunta: Si un compositor de música para películas jamás variara de estilo,
+    alternativas:
+      A: sus composiciones no habrían sido influenciadas por la música jazz.
+      B: nunca podría trabajar para las renombradas productoras de Hollywood.
+      C: todas sus composiciones musicales serían perfectas y afamadas.
+      D: sus composiciones aún podrían recibir críticas de algunos conocedores.
+      E: las melodías de los videojuegos japoneses jamás recibirían su influencia.
+    solucion:
+      alternativa: D
+      razon:  Como en el caso de Kondo, si cambia de estilo o permanece en el mismo, sigue recibiendo críticas.

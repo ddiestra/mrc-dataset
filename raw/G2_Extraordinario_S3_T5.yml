@@ -1,0 +1,99 @@
+texto:  'Kim Peek es considerado como una enciclopedia humana y uno de los más
+        trascendentales savants de este siglo. Nació el 11 de noviembre de 1951 presentando
+        ciertas anormalidades cerebrales que incluían una malformación del cerebelo, lo cual se
+        hacía evidente en sus problemas de coordinación y motricidad. Pero más sorprendente aún
+        era la ausencia del cuerpo calloso, el considerable tallo de tejido nervioso que normalmente
+        conecta los hemisferios cerebrales.
+        A pesar de conocer las diferencias estructurales del cerebro de Kim no es posible
+        todavía asociarlas directamente a sus capacidades de forma específica, puesto que el
+        entendimiento de las complejidades del cerebro de un savant es aún una labor en
+        desarrollo.
+        Kim padeció de lo que actualmente se conoce como el síndrome del savant, una
+        enfermedad poco frecuente en la que una persona con diversas discapacidades de
+        desarrollo, incluyendo el autismo, posee sorprendentes capacidades que se oponen en una
+        discordante yuxtaposición a su discapacidad mental en general. Este síndrome se observa
+        en aproximadamente una de cada 10 personas con autismo y en aproximadamente una de
+        cada 2,000 personas con daño cerebral o retraso mental. De los savants que se han
+        estudiado, al menos la mitad son autistas y el resto tiene otro tipo de trastornos del
+        desarrollo. Mucho sigue siendo un misterio sobre el síndrome de savant, aunque existen
+        descripciones del mismo que datan en la literatura científica del año 1789. No fue sino hasta
+        1887, sin embargo, que la coexistencia notable de la deficiencia y la superioridad se destacó
+        en los estudios.
+        Kim fue capaz de memorizar el 98% de los 12,000 libros que leyó durante su vida.
+        Cuando tenía tan sólo 18 meses de edad comenzó a memorizar los libros que le leían.
+        Desarrolló la extraña habilidad de leer dos páginas en un promedio de ocho segundos
+        utilizando cada ojo para leer una página distinta. Apenas tardaba aproximadamente una
+        hora en memorizar un libro, reteniendo de un modo preciso e instantáneo información sobre
+        datos históricos, geografía, literatura o cualquier tema de su interés. Su capacidad de
+        almacenar información era virtualmente ilimitada. No obstante, Kim parecía no entender lo
+        que retenía ya que no necesitaba recordarlo ni pensarlo, simplemente permanecía
+        almacenado en su memoria.
+        Pero, como se ha mencionado, padecía de una discapacidad de desarrollo y dependía
+        de su padre para muchas de sus necesidades básicas. Tareas simples como afeitarse,
+        vestirse y cepillarse los dientes eran un reto para Kim, mientras que memorizar obras
+        literarias completas le tomaba pocas horas.'
+    
+preguntas:  
+  - pregunta: El tema central que aborda el texto es    
+    alternativas:
+        A: las asombrosas capacidades de Kim Peek.
+        B: las características del síndrome de savant.
+        C: 'un caso del síndrome de savant: Kim Peek'
+        D: la situación paradójica típica de los savants.
+        E: la malformación del cerebelo y el autismo. 
+    solucion:
+      alternativa: C
+      razon:  Se destaca a Kim Peek como uno de los casos más sorprendentes del
+              síndrome de savant.
+
+  - pregunta: ¿Cuál de los siguientes enunciados es incompatible con el texto?
+    alternativas:
+        A: El síndrome de savant es frecuente entre autistas.
+        B: Kim Peek sentía gran curiosidad por los libros.
+        C: Kim Peek nació a mediados del siglo pasado.
+        D: El padre de Kim tenía que ayudarlo en su higiene.
+        E: Los temas de interés Kim eran bastante variados.
+    solucion:
+      alternativa:  A
+      razon:  El síndrome de savant se presenta en uno de diez autistas, no puede
+              considerarse como algo frecuente entre ellos.
+
+  - pregunta: Se infiere de lo planteado en el cuarto párrafo que la mente de Kim
+    alternativas:
+        A: demoraba cerca de dos horas en memorizar un libro.
+        B: tenía gran capacidad para abstraer varios conceptos.
+        C: era similar a un disco duro de gran almacenamiento.
+        D: tenía predilección por todas las fórmulas algebraicas.
+        E: lo conminaba a ser escrupuloso con su higiene bucal. 
+    solucion:
+      alternativa: C
+      razon:  «Kim parecía no entender lo que retenía ya que no necesitaba recordarlo
+              ni pensarlo, simplemente permanecía almacenado en su memoria.» Como en un disco
+              duro.
+
+  - pregunta: La palabra MISTERIO tiene el sentido de
+    alternativas:
+        A: arcano. 
+        B: milagro. 
+        C: aquelarre. 
+        D: hesitación. 
+        E: incógnita.
+    solucion:
+      alternativa:  E
+      razon:  La palabra misterio se hace en el marco de una presentación científica;
+              por tanto, se trata de una incógnita, algo que aún no se sabe o no se ha logrado
+              explicar.
+
+  - pregunta: Si se lograse establecer que existe una relación entre una gran capacidad de
+              almacenamiento de información y la ausencia de cuerpo calloso,
+    alternativas:
+        A: habría un buen indicio para explicar la prodigiosa capacidad para memorizar de Kim Peek.
+        B: se habría podido resolver el problema de las anormalidades cerebrales que padecía Kim Peek.
+        C: se lograría al fin explicar con bastante detalle el porqué del intrigante síndrome del savant.
+        D: Kim Peek no se habría convertido en una enciclopedia humana y no habría gozado de fama.
+        E: no habría mostrado Kim sorprendentes habilidades y a la vez, una notoria discapacidad mental.
+    solucion:
+      alternativa:  A
+      razon:  Sería un buen indicio, pues se tendría claro que lo que traería consigo la
+              ausencia de cuerpo calloso (independientemente de otros problemas que esto cause)
+              es contar con una potente memoria.

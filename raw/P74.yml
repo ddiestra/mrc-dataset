@@ -1,0 +1,60 @@
+  texto: 'Los normandos, afamados navegantes de la temprana Edad Media alcanzaron Islandia en el siglo IX; en el siglo X aparecieron en las costas de Groenlandia, tierra indudablemente americana, y en la divisoria de los siglos X y XI llegaron al país de Vinlandia, que los historiadores modernos buscaban en el litoral de América del Norte, entre Labrador y Nueva Inglaterra. Las sagas islandesas cantan las hazañas de los Ulises septentrionales reales y lo héroes de estas sagas eran personas reales. Uno de ellos Leif Ericsson, apodado El Dichoso navegó hasta Vinlandia en el año 1000 aproximadamente y so se descarta que el no menos audaz Vikingo Biarni Herulfson lo hiciera diez años antes. No es fácil precisar dónde se encontraba Vinlandia, pero es probable que en 1964 descubriera algunos vestigios de este país el investigador noruego H. Ingstad, quien cerca del pueblo de Lance o Meadow, en la isla Terranova, excavó una antigua villa escandinava: cimientos de casas, restos de una fragua y las ruinas de una cada de baños, un peine de piedra, clavos, un pedazo de bronce, montones de carbonilla y de mineral de hierro. Según la datación carbónica, esos restos se remontan a los siglos IX-XI.'
+  pregunta1: 'Vestigios descubiertos en Terranova indican que'
+  alternativas1:
+    A: H Ingstad se equivocó en las fechas.
+    B: Los normandos vivían en la edad de hierro.
+    C: Los escandinavos fueron los más antiguos exploradores europeos.
+    D: Allí estuvo una antigua villa escandinava.
+    E: B. Hurolfson llegó a América antes que Leif Ericsson.
+
+  solucion1:
+    alternativa: D
+    razon: 'No es fácil precisar donde se encontraba Vinlandia, pero es probable que en 1964 descubriera algunos vestigios de este país el investigador noruego H. Ingstad, quien cerca del pueblo de Lance o Meadow, en la isla de Terranova, excavó una antigua aldea escandinava.... haciendo una síntesis encontramos que Ingstad, descubrió en la isla Terranova una antigua villa escandinava. '
+
+  pregunta2: 'Los historiadores modernos consideran que'
+  alternativas2: 
+    A: Los normandos llegaron a Norteamérica entre los siglos X y XI d.c.
+    B: Vinlandia sólo existió en la mitología escandinava.
+    C: Vinlandia estuvo en la península del Labrador.
+    D: Los normandos no pasaron de Islandia.
+    E: Las sagas escandinavas son archivos históricos.
+  
+  solucion2:
+    alternativa: A
+    razon: '"Los normandos, afamados navegantes.... en el siglo X aparecieron en la costa de Groenlandia, tierra indudablemente americana, y en la divisoria de los siglos X y XI llegaron al país Vinlandia, que los historiadores modernos buscaban en el litoral de América del Norte" En síntesis esta parte de la lectura nos permite comprender que los normandos, según los historiadores modernos, llegaron a América entre los siglos X y XI. '
+
+  pregunta3: 'Al referirse el texto a los Ulises septentrionales cantados en las islas sagas o tradiciones islandesas, se alude a'
+  alternativas3:
+    A: Navegantes griegos.
+    B: Guerreros islandeses.
+    C: Navegantes escandinavos medievales.
+    D: Leif Ericsson.
+    E: B. Herulfson.
+  
+  solucion3: 
+    alternativa: C
+    razon: 'De la lectura comprendemos que los normandos eran los escandinavos, afamados navegantes de la edad media (medievales). Cuando el texto nos dice: Uno de ellos era apodado el Dichoso, se refiere a un navegante normado, por lo tanto, los cantos eran para dichos navegantes. '
+
+  pregunta4: 'Sobre Vinlandia el autor indica que'
+  alternativas4:
+    A: Comerciaban con Groenlandia e Islandia.
+    B: Estaba en Groenlandia.
+    C: Fue descubierta por B. Herulfson.
+    D: Era una creación de las sagas.
+    E: Fue habitada por normandos.
+
+  solucion4:
+    alternativa: E
+    razon: '"Los normandos (eran) afamados navegantes ... alcanzaron Islandia en el siglo IX; en el siglo X aparecieron en Groenlandia .. y en la divisoria de los siglos X y XI llegaron al país Vinlandia..." ¿quiénes llegaron a Vinlandia? Los normandos serían la respuesta. '
+
+  pregunta5: 'De acuerdo a los estudios de H. Ingstad, Vinlandia quedaba en lo que actualmente es:'
+  alternativas5:
+    A: Nueva Inglaterra
+    B: Groenlandia
+    C: Islandia
+    D: Labrador
+    E: Terranova
+  
+  solucion5:
+    alternativa: E
+    razon: 'No es fácil precisar donde se encontraba Vinlandia ... (pero Ingstad descubrió algunos vestigios de este país) en la tierra de Terranova. '

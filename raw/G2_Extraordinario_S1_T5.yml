@@ -1,0 +1,26 @@
+texto: 'El desarrollo y la difusión de la tecnología de los ordenadores comporta una situación
+        donde hay ganadores y perdedores. No se puede discutir que el ordenador ha aumentado
+        el poder de las organizaciones a gran escala como las fuerzas armadas o las compañías
+        aéreas o los bancos o las agencias de recaudación de impuestos. Y es igual de claro que
+        ahora el ordenador es indispensable para los investigadores de alto nivel de física y otras
+        ciencias naturales. Pero, ¿hasta qué punto el ordenador ha sido una ventaja para las 
+        demás personas? ¿Para los trabajadores metalúrgicos, los tenderos, los maestros, los
+        mecánicos de coches, los músicos, los dentistas y la mayoría de los otros en la vida de
+        los que ahora entra el ordenador? Sus asuntos privados ahora están más accesibles para
+        las instituciones poderosas. Son seguidos y controlados más fácilmente, están sujetos a
+        más exámenes, aumenta el desconcierto que oyen delante las decisiones que se toman
+        sobre ellos y a menudo son reducidos a simples objetos numéricos.'
+    
+preguntas:    
+  - pregunta: 'Resulta incompatible con el texto aseverar que los avances tecnológicos'
+    alternativas:
+      A: siempre deben ser vistos como el remedio para todos los males.
+      B: permiten el acceso a información privada de diversos ciudadanos.
+      C: son indispensables para la investigación científica de alto nivel.
+      D: aumentan el poder que ya poseen las fuerzas armadas del país.
+      E: pueden utilizarse como instrumento para controlar a los proletarios. 
+        
+    solucion:
+      alternativa: 'A'
+      razon:  Si bien tiene aspectos positivos, ¿hasta qué punto el ordenador ha
+              sido una ventaja para las demás personas?

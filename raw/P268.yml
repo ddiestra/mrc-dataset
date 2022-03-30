@@ -1,0 +1,56 @@
+texto: 'América Latina y el Caribe continúan siendo las subregiones con la segunda tasa más alta en el mundo de embarazos adolescentes, señala un informe publicado hoy por la Organización Panamericana de la Salud/Organización Mundial de la Salud (OPS/OMS), Fondo de las acciones Unidas para la Infancia (UNICEF) y el Fondo de Población de las Naciones Unidas (UNFPA). La tasa mundial de embarazo adolescente se estima en 46 nacimientos por cada 1000 niñas, mientras que las tasas de embarazo adolescente en América Latina Caribe continúan siendo las segundas más altas en el mundo, estimadas en 66.5 nacimientos por cada 1000 niñas de entre 15 y 19 años, y son solo superadas por las de África subsahariana, indica el informe. Acelerar el progreso hacia la reducción del embarazo en la adolescencia en América Latina y el Caribe. Aunque en los últimos 30 años América Latina y el Caribe la fecundidad total- es decir, el número de hijos por mujer— ha disminuido, las tasas de fecundidad en las adolescentes se han reducido ligeramente, señala el informe. Además, es la única región del mundo con una tendencia ascendente de embarazos en adolescentes menores de 15 años, según reporta UNFPA. Se estima que cada año, en la región, un 15% de todos los embarazos ocurre en adolescentes menores de 20 años y 2 millones de niños nacen de madres con edades entre los 15 y los 19 años. "Las tasas de fertilidad en adolescentes siguen siendo altas. Afectan principalmente a las poblaciones que viven en condiciones de vulnerabilidad y muestran las desigualdades entre y dentro de los países. El embarazo en la adolescencia puede tener un profundo efecto en la salud de las niñas durante su curso de vida", dijo Carissa F. Etienne, directora de la OPS. "No solo obstaculiza su desarrollo psicosocial, sino que se asocia con resultados deficientes en la salud y con un mayor riesgo de muerte materna. Además, sus hijos están en mayor riesgo de tener una salud más débil y caer en la pobreza», indicó. La mortalidad materna es una de las principales causas de muerte en las adolescentes y jóvenes de 15 a 24 años en la región de las Américas. A modo de ejemplo, en 2014, fallecieron cerca de 1900 adolescentes y jóvenes como resultado de problemas de salud durante el embarazo, el parto y el posparto. UNFPA (2018). "América Latina y el Caribe tienen la segunda tasa más alta de embarazo adolescente en el mundo". En Fondo Población de las Naciones Unidas (UNFPA: América Latina y el Caribe. '
+pregunta1: 'Determine el tema central del texto'
+alternativas1: 
+  A: El embarazo adolescente como causa de las muertes en adolescentes y jóvenes 
+  B: Los nacimientos no deseados en Latinoamérica durante el periodo 2010-2015 
+  C: Indicadores del embarazo adolescente en América Latina y el Caribe (2010-2015) 
+  D: Los efectos del embarazo adolescente en América Latina y el Caribe en el siglo 
+
+solucion1: 
+  alternativa: C
+  razon: 'El Texto mixto se enfoca en los promedios de embarazo adolescente en América Latina y el Caribe. El referente temporal que se maneja es el intervalo 2010-2015. '
+  
+pregunta2: 'En el texto, el vocablo PROFUNDO connota '
+alternativas2:
+  A: Proximidad. 
+  B: Gravedad. 
+  C: Seriedad. 
+  D: Abstracción.
+
+solucion2: 
+  alternativa: B
+  razon: 'El vocablo se refiere a las severas consecuencias que se derivan de los embarazos adolescentes, pues este ocurre en las zonas más vulnerables. En tanto que tal, SIVI connota GRAVEDAD. '
+  
+pregunta3: 'Sobre los embarazos adolescentes en América Latina y el Caribe, es incompatible afirmar que '
+alternativas3:
+  A: Estos constituyen un factor de riesgo para las menores, pues podría acarrear la muerte de estas.
+  B: Están asociados a la vulnerabilidad de ciertas poblaciones como las personas con menores recursos.
+  C: La tasa de Panamá durante el 2010-2015 es superior al promedio global de América Latina y el Caribe. 
+  D: Los porcentajes de países sudamericanos como Uruguay y Argentina superan los TERI LALA del África subsahariana 
+
+solucion3: 
+  alternativa: D
+  razon: 'La tasa del África subsahariana supera los 66.5 de América Latina y el Caribe, de manera que países como Uruguay (60,2) y Argentina (64) están por debajo de ese promedio. '
+  
+pregunta4: 'Es posible deducir que las medidas para evitar el embarazo adolescente deben contemplar medidas integrales, pues '
+alternativas4:
+  A: Latinoamérica es la única región con países en vías de desarrollo. 
+  B: La sociedad margina a los jóvenes que carecen de dinero para vivir. 
+  C: Los factores involucrados en su ocurrencia son solo de tipo educativo. 
+  D: Este fenómeno se vincula con variables de carácter socioeconómico. 
+
+solucion4: 
+  alternativa: D
+  razon: 'El embarazo adolescente ocurre por diversos motivos. En el texto se indica que las poblaciones con menos recursos son las más vulnerables; por consiguiente, para revertir la situación se requiere de medidas integrales. '
+  
+pregunta5: 'Si se lograra revertir la situación apremiante en América Latina respecto del embarazo adolescente '
+alternativas5:
+  A: Se evitarían las muertes de mujeres menores de edad y la continuidad de la pobreza para los jóvenes que nacen en situaciones precarias. 
+  B: La menor ocurrencia de casos se detectaría en los países que conforman la región de América del Centro y en países sureños. el Cero y en países Sureños. 
+  C: Países con índices altos de pobreza extrema como El Salvador erradicarían los embarazos adolescentes y los decesos de menores. 
+  D: La región destacaría por ostentar las tasas más bajas de embarazo adolescente y de pobreza extrema en comparación con Europa. 
+
+solucion5: 
+  alternativa: A
+  razon: 'En efecto, la relación causa-efecto se establece entre el embarazo adolescente y el deceso de mujeres menores de edad, además, los embarazos adolescentes podrían generar la permanencia de casos de pobreza. '
+  

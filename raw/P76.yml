@@ -1,0 +1,60 @@
+  texto: '¿Por qué el virus del VIH del SIDA surgió súbitamente como un asesino global? De acuerdo con una teoría, el virus ha infectado a la gente por siglos, pero los cambios sociales recientes han alterado su carácter. Antes de 1960 los campesinos africanos contraían formas ancestrales benignas de VIH de los primates. En razón de que el virus se expandía muy lentamente en la población, éste no podía pasar a la forma virulenta. Desde 1960 a 1975, las guerras, la sequía, el comercio y la urbanización transformaron las instituciones sociales africanas. El VIH se expandió rápidamente llegando a ser más virulento en la medida en que la transmisión se aceleraba. Desde 1975 al presente, los viajes por el mundo coloraron el VIH en una circulación más amplia. Los cambios de las prácticas sexuales y las prácticas médicas modernas, tales como la transfusión de sangre, hicieron más susceptibles a muchas poblaciones. Si los cambios sociales pueden tomar un virus benigno en mortal, el proceso podría ser reversible. Simplemente disminuyendo la velocidad de transmisión se puede conducir a las cepas más mortíferas hacia su extinción, sacándolas de circulación.'
+  pregunta1: 'Según el texto, la virulencia del VIH se debe'
+  alternativas1:
+    A: A las costumbres sexuales liberales.
+    B: A la mayor velocidad de contagio.
+    C: A los viajes de amplia circulación.
+    D: A qué pasó de África a Estados Unidos.
+    E: A nuevas cepas de virus.
+
+  solucion1:
+    alternativa: B
+    razon: '"En razón de que el virus se extendía muy lentamente en la población, este no podía pasar a la forma virulenta... El VIH se expandió rápidamente llegando a ser más virulento en la medida en que la transmisión se aceleraba. La virulencia del VIH estuvo supeditada a la velocidad de la transmisión, ello es fácil de comprender de la transcripción hecha y en especial de las palabras resaltadas. '
+
+  pregunta2: 'Las formas ancestrales del VIH eran benignas porque el virus'
+  alternativas2: 
+    A: Se contagiaba sólo entre africanos.
+    B: Se expandía muy lentamente.
+    C: Procedía de los primates.
+    D: Está ligado a los cambios sociales.
+    E: Sólo se contagiaba a través de la actividad sexual.
+  
+  solucion2:
+    alternativa: B
+    razon: '"Antes de 1960 los campesinos africanos contraían formas ancestrales". En razón de que el virus se expandía muy lentamente en la población. éste no podía pasar a la forma virulenta. En consecuencia, era benigna porque su transmisión se producía lentamente. '
+
+  pregunta3: '¿Qué relación existe entre los cambios sociales y la virulencia del VHI?'
+  alternativas3:
+    A: Los cambios sociales aceleran la expansión del virus VIH y esto incrementa su virulencia.
+    B: Los cambios sociales no tiene relación con la virulencia del VIH.
+    C: La miseria causada por las guerras y la sequía incrementa la virulencia del VIH.
+    D: La velocidad de expansión del VIH está en relación inversa con los cambios sociales.
+    E: No se ha identificado aún la relación existente entre ambos fenómenos.
+  
+  solucion3: 
+    alternativa: A
+    razon: 'Desde 1960 a 1975, las guerras, las sequías, el comercio y la urbanización transformaban las instituciones sociales africanas. El virus se expandió rápidamente llegando a ser más virulento en la medida que la transmisión se aceleraba. Es fácil comprender por lo que señala el texto que la virulencia del VIH ha dependido de la transformación de las instituciones sociales. Por tal razón este sería el sustento de la alternativa. '
+
+  pregunta4: 'Antes de 1960, el virus de VIH se caracterizaba por:'
+  alternativas4:
+    A: Su benignidad a pesar de su rápida expansión.
+    B: Existir únicamente en los primates.
+    C: Presentar menor virulencia que hoy.
+    D: Estar bajo estricto control médico sanitario.
+    E: Ser transmitido solo por las prácticas sexuales.
+
+  solucion4:
+    alternativa: C
+    razon: '"Antes de 1960 los campesinos africanos contraían formas ancestrales benignas de VIH de los primates" Esto se debía como el texto mismo señala a que su expansión era muy lenta, y lo que sucede sólo a partir de 1975 '
+
+  pregunta5: '¿Qué ocurriría si se redujera drásticamente la velocidad de expansión del virus VIH?'
+  alternativas5:
+    A: El VIH entraría en un proceso de extinción.
+    B: La virulencia del VIH se alteraría.
+    C: Cambiarían notablemente las costumbres sexuales.
+    D: El VIH volvería la localizarse en el África.
+    E: El contagio del SIDA sería más lento pero más amplio.
+  
+  solucion5:
+    alternativa: A
+    razon: 'Si los cambios sociales pueden tornar un virus benigno en mortal. el proceso podría ser reversible ello quiere decir, que podría pasar de mortal a benigno; y ¿cómo ocurriría ello? "Simplemente disminuyendo la velocidad de transmisión se pude conducir a las cepas más mortíferas hacia su extinción, sacándolas de circulación". '

@@ -1,0 +1,72 @@
+texto: "Dos exposiciones paralelas rescatan los extraordinarios dibujos procedentes de los cuadernos de bocetos de Leonardo da Vinci (1452-1519), el genio universal del Renacimiento italiano, quien en raras ocasiones se presentaba en las cortes como un pintor, sino más bien como un ingeniero, arquitecto, músico, diseñador de armas u organizador de fiestas. La muestra Leonardo da Vinci: la mecánica del hombre se puede visitar hasta el 10 de noviembre de 2013 en The Queen's Gallery, en el Palacio de Holyroodhouse, en Edimburgo; y Leonardo da Vinci. El hombre universal hasta el 1 de diciembre en las Galerías de la Academia, en Venecia. Ambas retrospectivas representan una ocasión única para admirar los dibujos del célebre artista florentino, que son extremadamente frágiles, y en el caso de la muestra veneciana sólo se pueden exponer públicamente una vez durante una generación, ya que deben ser custodiados en la oscuridad más absoluta y bajo unas exigentes condiciones ambientales. Leonardo da Vinci:  la mecánica del hombre examina los innovadores dibujos que realizó el artista sobre el cuerpo humano y demuestra que es uno de los más destacados anatomistas de la historia. La muestra reúne 30 obras que incluyen 18 hojas, entre las más preciosas de Leonardo, que forman el Manuscrito anatómico a más de 240 dibujos y 13 000 palabras rellenan estas páginas, que fueron realizadas durante el invierno de 1510 y 1511. Leonardo ilustró prácticamente cada hueso del cuerpo humano y los principales grupos musculares. Estos estudios anatómicos no fueron publicados a lo largo de su vida y permanecieron inéditos durante varios siglos.  En sus anotaciones, presentes en la exposición, describe un examen post mortem de un hombre de 100 años de edad en el que ofrece la primera descripción exacta de una cirrosis hepática y del estrechamiento de las arterias. Los cuadernos de Leonardo se exhiben junto a imágenes médicas del siglo XXI que revelan el carácter precursor del genio florentino en técnicas como el escáner IRM o la modelización informática en 3D. Leonardo da Vinci. El hombre universal muestra los excepcionales folios del maestro florentino conservados desde el año 1822 en la colección gráfica del Gabinete de los Dibujos de las Galerías de la Academia, en Venecia. Un total de 25 obras gráficas que nunca han sido mostradas al público. La exposición cuenta también con otras 27 hojas procedentes de préstamos de museos italianos y extranjeros como la Biblioteca Real de Turín, la Galería Uffizi de Florencia, la Galería Nacional de Parma, la Royal Collection del Castillo de Windsor, el Museo Británico de Londres y el Museo Ashmolean de Oxford. La colección dedicada al estudio de las proporciones del cuerpo humano incluye el célebre Hombre de Vitruvio, una representación armónica que es un símbolo de la perfección clásica del cuerpo y la mente. También se pueden admirar sus dibujos de botánica, proyectos geométricos, retratos de hombres, figuras femeninas, batallas y proyectos de armas e ingenios militares."
+pregunta1: 'Fundamentalmente, el tema central gira en torno a'
+alternativas1: 
+  A: Dos muestras en Edimburgo y Venecia que rescatan dibujos de Da Vinci.
+  B: La forma meticulosa en que Leonardo da Vinci dibujó la anatomía humana.
+  C: Un conjunto de dibujos inéditos que fueron hechos por Leonardo da Vinci.
+  D: El carácter precursor de Leonardo da Vinci respecto de los escáneres IRM.
+  E: La armonía alcanzada por Da Vinci en la representación del cuerpo humano.
+
+solucion1: 
+  alternativa: A
+  razon: 'El texto gira en torno a dos exposiciones en las que se muestran dibujos de Leonardo da Vinci: una se ubica en Edimburgo, y la otra, en Venecia.'
+
+pregunta2: 'En el texto, la palabra INGENIO adquiere el sentido de'
+alternativas2:
+  A: Prodigio.  
+  B: Talento.  
+  C: Facultad.
+  D: Ilusión.  
+  E: Artefacto
+
+solucion2: 
+  alternativa: E
+  razon: 'La palabra en cuestión hace referencia a máquinas militares imaginadas y representadas por Da Vinci.  En consecuencia, el sentido de INGENIO es MÁQUINA o artefacto.'
+
+pregunta3: ' Se puede colegir del texto que la notable fama de Da Vinci como creador pictórico'
+alternativas3:
+  A: Empieza cuando todos sus dibujos se exhibieron en Italia.
+  B: Es equiparable a su habilidad como organizador de fiestas.
+  C: Jamás fue promovida por este prodigioso artista italiano.
+  D: Se inicia con la exposición de sus dibujos en Edimburgo.
+  E: Solo fue eclipsada por su fama como diseñador de armas.
+
+solucion3: 
+  alternativa: C
+  razon: 'Da Vinci se presentaba a sí mismo como arquitecto, organizador de fiestas, músico, etc., pero jamás como pintor. De lo anterior es posible colegir que su fama mundial como creador pictórico nunca fue promovida por él mismo.'
+
+pregunta4: '¿Cuál es la idea principal del texto?'
+alternativas4:
+  A:  Los dibujos exhibidos en las dos muestras artísticas están en lugares que cuentan con condiciones ambientales rigurosas, dada la notoria fragilidad de la muestra.
+  B:  Dos muestras, una en el Palacio de Holyroodhouse (Edimburgo) y otra en las Galerías de la Academia (Venecia), rescatan dibujos de Leonardo da Vinci.
+  C:  Leonardo da Vinci. El hombre universal presenta al público un total de 25 obras que nunca antes han sido mostradas y que se conservan desde 1822.
+  D:  La colección en que Da Vinci se dedica a representar la armonía de la anatomía humana destaca por la obra Hombre de Vitruvio, un símbolo del Renacimiento.
+  E:  'Leonardo da Vinci: la mecánica del hombre examina los innovadores dibujos del pintor y demuestra que es uno de los más destacados anatomistas de la historia.'
+
+solucion4: 
+  alternativa: B
+  razon: 'Las dos muestras artísticas rescatan dibujos del maestro florentino (muchos de estos nunca antes vistos): una de ellas se ubica en Edimburgo, y la otra, en Venecia.'
+
+pregunta5: 'Resulta incompatible con el desarrollo textual afirmar que la muestra que se realiza en Venecia'
+alternativas5:
+  A: Se llevará a cabo de forma sostenida y perpetua.
+  B: Se realizará solamente hasta el 1 de diciembre.
+  C: Presenta esbozos de armas e ingenios militares.
+  D: Permite admirar dibujos de botánica y retratos.
+  E: Incluye dibujos prestados de museos italianos.
+
+solucion5: 
+  alternativa: A
+  razon: 'La muestra realizada en Venecia, dada la delicadeza de los dibujos, tendrá un tiempo de duración limitado, pues contiene obras que «[…]  sólo se pueden exponer públicamente una vez durante una generación».'
+
+pregunta6: 'Si Leonardo da Vinci hubiese carecido de interés respecto de la anatomía humana, posiblemente'
+alternativas6:
+  A: El valor ecuménico de su legado artístico como pintor renacentista y genio creativo se vería notoriamente mellado en la actualidad.
+  B: Sus dibujos inéditos relacionados con sus proyectos geométricos, batallas y material de guerra permanecerían ocultos por mucho tiempo.
+  C: Jamás se hubiera presentado ante las cortes como arquitecto y diseñador de artefactos de guerra, entre otros productos creativos.
+  D: La caracterización fidedigna de la cirrosis hepática y el estrechamiento arterial padecidos por un anciano jamás se habría realizado.
+  E: Los museos italianos carecerían de muestras abundantes para exponer en exhibiciones públicas que atraigan el interés turístico.
+
+solucion6:
+  alternativa: D
+  razon: 'La obsesión de Da Vinci por la anatomía humana devino en la primera descripción minuciosa de una cirrosis hepática y el estrechamiento arterial. De no haber estado interesado por aquella, esta descripción no se hubiera llevado a cabo.'

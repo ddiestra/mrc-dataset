@@ -1,0 +1,73 @@
+texto:
+    Cuando un animal emite un sonido y se desplaza al mismo tiempo, genera un cambio de frecuencia de onda conocido como efecto Doppler que puede ser detectado por posibles depredadores. Un estudio de la Universidad de Extremadura ha investigado mediante modelos matemáticos cómo este efecto puede ser minimizado por ciertas especies de cetáceos, que tratan de zafarse del ataque de las orcas. Según el coordinador de la investigación, Daniel Patón, profesor de la Universidad de Extremadura, «las orcas son auténticas centrales de escucha del sonido, ya que su oído detecta un enorme intervalo de frecuencias':' desde infrasonidos por debajo de 200 Hz hasta sonidos superiores a 20 000 Hz. Cualquier variación en las múltiples frecuencias de sonido que hay en el mar les advierte de la presencia de un animal. Por eso, los cetáceos intentan minimizar su detección por parte de las orcas y los tiburones a base de adaptar su señal a la velocidad a la que se desplacen en ese momento».
+    A partir del análisis matemático de las llamadas de ecolocalización de 69 especies de cetáceos, los investigadores han buscado un patrón común en la gran variabilidad de comunicación de estas especies, que constituyen sin duda el grupo animal de mayor complejidad acústica que existe. El modelo matemático ha sido realizado teniendo en cuenta la temperatura del agua y su salinidad, así como la profundidad a la que nadan los cetáceos, su velocidad de natación y la frecuencia fundamental de sus emisiones acústicas. Los investigadores han descubierto que la mayoría de las especies mantiene baja la frecuencia de onda de su movimiento y que solo 15 de ellas tienen un efecto Doppler alto. En estos casos, se trata de animales que cuentan con otras estratagemas. Por ejemplo, las ballenas hocicudas o los zifios permanecen completamente mudos por encima de los 200 metros de profundidad, que es el área de caza de las orcas. Y otras especies son más veloces que las temibles ballenas asesinas. Los datos que aporte este estudio mejorarán la detección de cetáceos, y podrían ser aplicados para evitar las colisiones de estos
+    
+#1
+pregunta1: El término ESTRATAGEMA adquiere el sentido de
+
+alternativas1: 
+    A: engaño.
+    B: embuste.
+    C: hechizo.
+    D: ingenio.
+    E: recurso.
+
+solucion1: 
+    alternativa: E
+    razon: El término es usado para referirse a las formas en que algunos cetáceos se permiten evitar a las peligrosas orcas; en tal sentido, estratagema es equivalente a recurso que les permite a los cetáceos escapar de los depredadores.
+
+#2
+pregunta2: Determine el tema central del texto.
+
+alternativas2:
+    A: El estudio del uso de emisiones acústicas en cetáceos para hacer taxonomías.
+    B: Los recursos usados por ciertos cetáceos para evitar ser cazados por las orcas.
+    C: La investigación de la notoria complejidad acústica de 69 especies de cetáceos.
+    D: El análisis matemático de frecuencias acústicas menores a 200 Hz en el mar.
+    E: Las orcas y su habilidad para captar cualquier variación acústica en el océano. 
+
+solucion2: 
+    alternativa: A
+    razon: El tema central aborda la capacidad de los cetáceos para escapar a la aguzada capacidad sensorial de las orcas para detectarlos procesando variaciones de frecuencia en el mar, además de la permanencia en silencio.
+
+#3
+pregunta3: Se infiere que un ser humano, capaz de procesar energía acústica en un rango de 20 Hz a 20 000 Hz como máximo,
+
+alternativas3: 
+    A: tiene condiciones acústicas para pasar desapercibido por las peligrosas orcas.
+    B: carece de capacidad para detectar los ultrasonidos emitidos por los cetáceos.
+    C: puede evitar el efecto Doppler generando variaciones fónicas fuera del océano.
+    D: son incapaces de investigar minuciosamente los efectos de la ecolocalización.
+    E: presentan muchas limitaciones para captar todas las emisiones de los cetáceos.
+
+solucion3: 
+    alternativa: B
+    razon: Los seres humanos presentan una barrera acústica para percibir sonidos. Resulta imposible para estos procesar datos de energía acústica por encima de los 20 000 Hz, los cuales son emitidos por los cetáceos estudiados.
+
+#4
+pregunta4: Resulta incompatible con el desarrollo textual afirmar que los cetáceos
+
+alternativas4: 
+    A: únicamente cuentan con el recurso de variación de frecuencias para escapar.
+    B: evitan el efecto Doppler para escapar del ataque de depredadores como la orca.
+    C: procuran minimizar su detección por las orcas mediante regulaciones acústicas.
+    D: han motivado un minucioso estudio matemático de su variabilidad comunicativa.
+    E: constituyen el grupo animal con mayor complejidad acústica en todo el planeta. 
+
+solucion4: 
+    alternativa: A
+    razon: Los cetáceos pueden quedarse completamente mudos para evitar ser detectados, por lo que resulta incompatible afirmar que únicamente cuentan con la variación de frecuencias.
+
+#5
+pregunta5: Si las variaciones de frecuencias le impidieran a los cetáceos anteponerse a la detección por parte de depredadores, posiblemente
+
+alternativas5: 
+    A: el estudio matemático de variaciones acústicas tendría que replantearse.
+    B: serían un blanco fácil para estos, y reforzarían el silencio como recurso.
+    C: su versatilidad acústica sería exponencialmente compleja e inaprensible.
+    D: su papel adaptativo en pro de la supervivencia sea realmente poderoso.
+    E: los casos de cetáceos estudiados aumente de acuerdo con su velocidad. 
+
+solucion5: 
+    alternativa: B
+    razon: Las variaciones de frecuencia sirven para poder escapar de los depredadores. Si estas variaciones fueran inútiles para lograr tal objetivo, los cetáceos serían captados fácilmente, y con ello el recurso del silencio se erigiría como el necesario.

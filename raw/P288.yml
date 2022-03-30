@@ -1,0 +1,37 @@
+texto: 'El cáncer es un conjunto de más de 200 enfermedades diferentes caracterizadas por un crecimiento celular incontrolado. Se estima que una de cada tres personas desarrollará algún tipo de cáncer a lo largo de su vida, y en la actualidad representa la primera causa de muerte en la mayor parte de los países europeos, habiendo superado a las enfermedades cardiovasculares. Esto hace que su estudio constituya una prioridad, con el objeto de desarrollar nuevos métodos de diagnóstico precoz, tratamientos específicos o medidas de prevención. El cáncer surge por la acumulación progresiva de mutaciones en nuestro genoma. A lo largo de nuestra vida, los más de 100 billones de células que constituyen nuestro organismo van acumulando mutaciones. Cada día se producen cientos de mutaciones en una célula, las cuales alteran la secuencia de algunas de las más de 6 mil millones de bases que constituyen nuestro genoma diploide. Por suerte, la mayor parte de ellas son corregidas por los sistemas de reparación del DNA, un conjunto de cientos de proteínas que se encargan de detectar, eliminar y corregir la mayor parte de estas mutaciones. Sin embargo, estos sistemas no son infalibles, por lo que algunas de estas mutaciones no son reparadas y quedan fijadas en el genoma.'
+pregunta1: 'Según el contenido del texto, en nuestro organismo, algunas proteínas tienen como función'
+alternativas1: 
+  A: Detectar, eliminar y corregir las mutaciones de algunas células.
+  B: Recibir una copia de los genomas, incluyendo las mutaciones.
+  C: Ir acumulando cientos o miles de mutaciones a lo largo de la vida.
+  D: Hacer que la célula comience a dividirse de manera autónoma.
+  E: Mutar su función, por lo que se habla de supresor tumoral.
+
+solucion1: 
+  alternativa: A
+  razon: 'El texto plantea que cada día se producen cientos de mutaciones en una célula y que la mayor parte de ellas son corregidas por los sistemas de reparación del DNA, un conjunto de cientos de proteínas que se encargan de detectar, eliminar y corregir la mayor parte de estas mutaciones. Por ello, según el contenido del texto, en nuestro organismo, algunas proteínas tienen como función detectar, eliminar y corregir las mutaciones de algunas células. '
+
+pregunta2: 'El texto trata sobre'
+alternativas2:
+  A: Una breve descripción, las causas y el diagnóstico del cáncer
+  B: El crecimiento celular incontrolado de algunas células.
+  C: El cáncer como la primera causa de muerte en Europa.
+  D: Nuevos métodos para diagnosticar y prevenir el cáncer.
+  E: La acumulación progresiva de mutaciones del genoma.
+
+solucion2: 
+  alternativa: A
+  razon: 'En el texto se habla sobre la enfermedad del cáncer. Nos señala una breve descripción, su incidencia, sus causas y su diagnóstico necesario como prevención. Por ello, el texto trata sobre una breve descripción, las causas y el diagnóstico del cáncer.  '
+
+pregunta3: 'En el texto, el término PRECOZ significa'
+alternativas3:
+  A: Reciente.
+  B: Naciente.
+  C: Temprano.
+  D: Ultimo.
+  E: Actual.
+
+solucion3: 
+  alternativa: C
+  razon: 'En el texto se pone de manifiesto que el estudio del cáncer constituye una prioridad, con el objeto de desarrollar nuevos métodos de diagnóstico precoz, tratamientos específicos o medidas de prevención. En tal sentido, el término precoz se entiende como aquel diagnóstico que se produce de forma muy temprana o en las primeras fases del proceso. Por ello, el término precoz significa temprano. '
+

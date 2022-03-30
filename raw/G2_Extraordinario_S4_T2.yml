@@ -1,0 +1,21 @@
+texto:  'Una utopía es una visión de la sociedad perfecta sin el establecimiento de los medios
+        para construirla. La motivación habitual del utopismo son los defectos (reales o imaginarios)
+        de las sociedades del momento, que aquél crítica de una manera más o menos velada. Sin
+        embargo, la fantasía utópica no es necesariamente estéril, una utopía es una especie de
+        experimento o simulación meditada que suscita el examen crítico de cuestiones de este
+        tipo: ¿Qué pasaría si se modificaran e incluso eliminaran tales y cuáles instituciones? Es
+        por eso que algunas utopías, desde la de Tomás Moro (1518) en adelante, implicaron
+        propuestas que desencadenaron movimientos y reformas sociales.'
+    
+preguntas:    
+  - pregunta: Resulta incoherente afirmar que las utopías
+    alternativas:
+        A: implican la visión de un modelo insuperable de sociedad.
+        B: parten de las falencias reales o ficticias de las sociedades.
+        C: involucran un análisis o examen crítico de posibilidades.
+        D: pueden desencadenar movimientos y reformas sociales.
+        E: explicitan los mecanismos para lograr la sociedad perfecta.
+    solucion:
+      alternativa: E
+      razon:  Una utopía es una visión de la sociedad perfecta sin el establecimiento
+              de los medios para construirla.

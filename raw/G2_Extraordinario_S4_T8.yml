@@ -1,0 +1,89 @@
+texto:  'La piedra de Rosetta es una losa de basalto negro que fue hallada en 1799 cerca de
+        la aldea de Rosetta, durante la ocupación de Egipto por las tropas de Napoleón Bonaparte.
+        Es un fragmento de estela, fechada en el 196 A.C. en la que aparecen tres inscripciones
+        diferentes: los primeros catorce renglones en caracteres jeroglíficos (utilizados en Egipto
+        en los monumentos), los treinta y dos centrales en escritura demótica (una escritura
+        simplificada y popular empleada en Egipto desde alrededor del año 1000 A.C.) y los
+        cincuenta y cuatro restantes en griego. Gracias a ella, en 1822, el investigador Jean
+        François Champollion (1790-1832) descifró, después de más de diez años de enormes
+        esfuerzos, el misterio, hasta aquel momento «científicamente insoluble», de los jeroglíficos
+        egipcios.
+        Según Champollion, la escritura egipcia «es un sistema complejo, una escritura a la
+        vez enteramente figurada, simbólica y fonética, en un mismo texto, en una misma frase, en
+        la misma palabra». Inicialmente había signos que representaban un objeto material y
+        también una idea relacionada con él (un disco representaba al sol y al día). Enseguida estos
+        ideogramas o signos-palabra sirvieron para transcribir además el valor fonético de la
+        palabra original y poder representar así otra homófona (la palabra «escarabajo» tiene las
+        mismas consonantes que el verbo «convertirse»). Las vocales no se escribían: el sistema
+        jeroglífico reproduce el esqueleto consonántico de las palabras. Un mismo signo puede
+        representar ideas distintas y palabras diferentes pueden pronunciarse de la misma manera,
+        por lo que las confusiones no son difíciles.
+        La escritura jeroglífica –afirma Champollion– había utilizado también, desde tiempos
+        insondables, un alfabeto fonético en el que los signos correspondían al sonido inicial de la
+        palabra que representaban; esto era necesario para poder transcribir (aunque de forma más
+        o menos burda) nombres extranjeros a la lengua egipcia. Champollion identifica, incluso,
+        que este alfabeto fonético fue el modelo sobre el que se basaron los alfabetos de las
+        naciones asiáticas occidentales, especialmente el hebreo, caldeo y sirio.'
+    
+preguntas:    
+  - pregunta: ¿Cuál es el tema central del texto?
+    alternativas:
+        A: Napoleón y la ayuda política para descifrar la escritura egipcia
+        B: La lengua egipcia, sus particularidades y su gran influencia fonética
+        C: La complejidad del lenguaje egipcio y su imposibilidad de traducción
+        D: La piedra de Rosetta y el lenguaje egipcio descifrado por Champollion
+        E: Las representaciones usadas en los signos de la escritura griega antigua
+    solucion:
+      alternativa: D
+      razon:  El texto desarrolla la idea de cómo la piedra de Rosetta sirvió para que
+              Champollion descifre el lenguaje egipcio.
+
+  - pregunta: La expresión TIEMPOS INSONDABLES connota
+    alternativas:
+        A: actualidad. 
+        B: medianidad. 
+        C: fatuidad.
+        D: antigüedad. 
+        E: encono.
+    solucion:
+      alternativa: D
+      razon:  La expresión TIEMPOS INSONDABLE connota algo de difícil datación
+              por su antigüedad.
+
+  - pregunta: ¿Cuál de los siguientes términos sería un antónimo contextual de INSOLUBLE?
+    alternativas:
+        A: Salubre 
+        B: Sólido 
+        C: Asequible
+        D: Ostensible 
+        E: Irrealizable
+    solucion:
+      alternativa: C
+      razon:  El sentido contextual de INSOLUBLE es sin solución, por lo tanto su
+              antónimo es algo realizable, ASEQUIBLE.
+
+  - pregunta: Según el texto, un idioma que permitió que se descifre la escritura egipcia fue el
+    alternativas:
+        A: francés. 
+        B: arameo. 
+        C: hebreo. 
+        D: griego. 
+        E: latín.
+    solucion:
+      alternativa: D
+      razon:  Se puede inferir de lo expuesto en el texto que fue el griego, pues la
+              piedra contenía inscripciones en jeroglíficos egipcios, demótico y griego; el único
+              lenguaje conocido era el griego.
+
+  - pregunta: Es incompatible con el texto sostener que
+    alternativas:
+        A: la piedra de Rosetta se llamó así por el lugar donde se descubrió.
+        B: los científicos tardaron mucho tiempo para descifrar el idioma egipcio.
+        C: la escritura egipcia puede representar ideas distintas y ser confuso.
+        D: el alfabeto fonético egipcio fue modelo para el hebreo, caldeo y sirio.
+        E: Champollion tardó un lustro en descifrar el idioma de los egipcios.
+    solucion:
+      alternativa: E
+      razon:  En el texto se menciona que Champollion tardó más de diez años en
+              descifrar el idioma de los egipcios.
+    

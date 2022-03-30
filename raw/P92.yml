@@ -1,0 +1,60 @@
+  texto: 'La epilepsia se manifiesta mediante movimientos convulsivos que desde las épocas más remotas han impresionado a la imaginación. Hoy en día se sabe que no es origen psicológico o psíquico, sino que se debe alteraciones orgánicas en zonas precisas del cerebro situadas en las circunvalaciones cerebrales de superficie. Las convulsiones están relacionadas con un aumento súbito de las excitaciones eléctricas que tienen origen al nivel de las neuronas corticales. Estas transmiten la excitación a los miembros. Van acompañadas de pérdidas del conocimiento más o menos prolongado y de relajamiento de los esfínteres. Pero son frecuentes las crisis menores, caracterizadas por una corta ausencia de algunos segundos, que se traduce en la pérdida momentánea del conocimiento sin movimientos desordenados. Las ausencias son sustitutivas de las crisis mayores. Gracias a los barbitúricos y a otras sustancias, la epilepsia puede ser completamente controlada en la inmensa mayoría de los casos y el epiléptico puede hacer vida normal. Numerosas epilepsias son debidas a lesiones inflamatorias provocadas en la infancia por infecciones víricas o en los bebes por traumatismo hoy ya no se concede a la epilepsia esencial la gravedad con que largo tiempo se la consideró. Ha dejado de hacerse de ella una tara y de echar la culpa de la misma al alcoholismo de los antecesores.'
+  pregunta1: 'Las convulsiones epilépticas se deben al repentino incremento de excitaciones'
+  alternativas1:
+    A: Químicas
+    B: Corticales
+    C: Eléctricas
+    D: Psíquicas
+    E: Orgánicas
+
+  solucion1:
+    alternativa: C
+    razon: '“Las convulsiones están relacionadas con el aumento súbito de las excitaciones eléctricas que tienen origen al nivel de las neuronas corticales”. De las palabras resaltadas entendemos que las convulsiones epilépticas se deben al aumento repentino de las excitaciones eléctricas. '
+
+  pregunta2: 'Las crisis epilépticas menores van acompañadas de'
+  alternativas2: 
+    A: Movimientos desordenados
+    B: Breve pérdida de la conciencia
+    C: Relajamiento de los esfínteres
+    D: Alteraciones orgánicas
+    E: Amnesia severa y generalizada
+  
+  solucion2:
+    alternativa: B
+    razon: '“Pero son frecuentes las crisis menores, caracterizadas por una ausencia de algunos segundos, que se traduce en la pérdida momentánea del conocimiento sin movimientos desordenados. '
+
+  pregunta3: 'Actualmente la epilepsia es una enfermedad que puede ser'
+  alternativas3:
+    A: Controlada
+    B: Curada
+    C: Erradicada
+    D: Fatal
+    E: Diseminada
+  
+  solucion3: 
+    alternativa: A
+    razon: '“Gracias a los barbitúricos y a otras sustancias, la epilepsia puede ser completamente controlada en la inmensa mayoría de los casos y el epiléptico puede hacer vida normal. '
+
+  pregunta4: 'Las excitaciones eléctricas son transmitidas a los miembros por'
+  alternativas4:
+    A: Sucesivas convulsiones
+    B: Los núcleos neuronales
+    C: Circunvoluciones cerebrales
+    D: Las neuronas corticales
+    E: Efecto de los barbitúricos
+
+  solucion4:
+    alternativa: D
+    razon: '“Las convulsiones están relacionadas con un aumento súbito de las excitaciones eléctricas que tienen origen al nivel de las neuronas corticales. Estas transmiten la excitación a los miembros. '
+
+  pregunta5: '¿Cuál de las siguientes expresiones no es verdadera según el texto?'
+  alternativas5:
+    A: La persona epiléptica puede hacer una vida normal
+    B: Las convulsiones son ajenas al alcoholismo
+    C: La epilepsia es actualmente controlable
+    D: No son emocionales las causas de la epilepsia
+    E: La relajación de los esfínteres es consecuencia de las “ausencias”
+  
+  solucion5:
+    alternativa: E
+    razon: 'De las cinco alternativas las cuatro primeras resultan evidentemente ciertas o verdaderas; en tanto que la quinta resulta falsa en tanto que la lectura dice “Las convulsiones… (van) acompañadas de relajamiento de los esfínteres y que las ausencias son sustitutivos de las crisis mayores”. Por lo tanto, la relajación de los esfínteres no es consecuencia de las “ausencias”. '

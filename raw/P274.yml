@@ -1,0 +1,84 @@
+texto: 'El respeto que siente el hombre por el conocimiento es una de sus características más peculiares. En latín conocimiento se dice scientia y ciencia llegó a ser el nombre de la clase de conocimiento más respetable. ¿Qué distingue al conocimiento de la superstición, la ideología o la pseudociencia?  La Iglesia Católica excomulgó a los copernicanos, el Partido Comunista persiguió a los mendelianos por entender que sus doctrinas eran pseudocientíficas. La demarcación entre ciencia y pseudociencia no es un mero problema de filosofía de salón; tiene una importancia social y política vital. Muchos filósofos han intentado solucionar el problema de la demarcación en los términos siguientes: un enunciado constituye conocimiento si cree en él, con suficiente convicción, un número suficientemente elevado de personas.  Pero la historia del pensamiento muestra que muchas personas han sido convencidos creyentes de nociones absurdas. Si el vigor de la creencia fuera un distintivo del conocimiento tendríamos que considerar como parte de ese conocimiento a muchas historias sobre demonios, ángeles, diablos, cielos e infiernos. Por otra parte, los científicos son muy escépticos incluso con respecto a sus mejores teorías. La de Newton es la teoría más poderosa que la ciencia ha producido nunca, pero el mismo Newton nunca creyó que los cuerpos se atrajeran entre sí a distancia. Por tanto, ningún grado de convencimiento con relación a ciertas creencias las convierte en conocimiento. Realmente lo que caracteriza a la conducta científica es un cierto escepticismo incluso con relación a nuestras teorías más estimadas. La profesión de fe ciega en una teoría no es una virtud intelectual sino un crimen intelectual. De este modo un enunciado puede ser pseudocientífico, aunque sea eminentemente plausible y aunque todo el mundo lo crea, o puede ser científicamente valioso, aunque sea increíble y nadie crea en él.  Una teoría puede tener un valor científico incluso eminente, aunque nadie la comprenda y, aún menos, crea en ella. El valor cognoscitivo de una teoría nada tiene que ver con su influencia psicológica sobre las mentes humanas. Creencias, convicciones, comprensiones... son estados de la mente humana.  Pero el valor científico y objetivo de una teoría es independiente de la mente humana que la crea o la comprende.  Su valor científico depende solamente del apoyo objetivo que prestan los hechos a esa conjetura.'
+pregunta1: 'El tema central que el autor expone es'
+alternativas1: 
+  A: El sustento moral que determina la aparición de una teoría científica.
+  B: El valor cognoscitivo que una teoría ostenta al margen de su creador.
+  C: La distinción entre el conocimiento científico y el pseudocientífico.
+  D: La comprensión cabal que hace de una teoría un saber aceptado.
+  E: Los motivos que determinaron la persecución de los mendelianos.
+
+solucion1: 
+  alternativa: C
+  razon: 'En el texto el autor establece una diferenciación entre ciencia y pseudociencia'
+
+pregunta2: 'En el texto, la expresión FILOSOFÍA DE SALÓN alude a una actividad'
+alternativas2:
+  A: Relevante para la sociedad en la cual se desarrolla.
+  B: De tipo pseudocientífico y arbitrariamente dependiente.
+  C: Intelectual que cuenta con un estatus social elevado.
+  D: Eminentemente objetiva que es aceptada por todos.
+  E: Puramente reflexiva y sin ninguna aplicación práctica.
+
+solucion2: 
+  alternativa: E
+  razon: 'El autor usa la expresión para excluir la actividad filosófica que se encuentra al margen de las consecuencias sociales que puede tener una distinción entre ciencia y pseudociencia'
+
+pregunta3: 'Determine la idea principal del texto'
+alternativas3:
+  A: Muchos filósofos sostienen que un enunciado constituye un conocimiento científico si un número elevado de individuos lo aceptan y lo comparten con suficiente convicción.
+  C: La diferencia entre ciencia y pseudociencia reside en que la primera depende del apoyo objetivo de los hechos mientras que la segunda está relacionada con estados de la mente.
+  C: La aceptación y la defensa viscerales de los asertos más innovadores y sólidos de una teoría científica constituyen un crimen intelectual más que una capacidad intelectual virtuosa.
+  D: La demarcación entre ciencia y pseudociencia ha constituido un problema sin resolver por parte de los miembros del Partido Comunista que rechazaban la teoría de Gregorio Mendel.
+  E: Los científicos actúan con mucha cautela respecto de sus teorías mejor elaboradas, como lo demuestra la incredulidad de Newton respecto de la atracción de cuerpos a distancia.
+
+solucion3: 
+  alternativa: B
+  razon: 'En efecto, el autor del texto sostiene que la ciencia y pseudociencia se diferencian en el apoyo objetivo de la primera (al margen de la influencia psicológica que esta pueda tener) y el efecto que tiene en la mente humana la segunda.'
+
+pregunta4: 'Es incompatible con lo sostenido por el autor del texto aseverar que la aceptación mayoritaria de un tipo particular de conocimiento'
+alternativas4:
+  A: Es posible que evidencie un influjo de tipo psicológico.
+  B: Abre la posibilidad de que este sea pseudocientífico.
+  C: Se relaciona muchas veces con creencias absurdas.
+  D: Determina de forma irrecusable su estatus científico.
+  E: Es definible como parte de un conjunto de creencias.
+
+solucion4: 
+  alternativa: D
+  razon: 'El enunciado en (D) debido a que, según la propuesta del autor, muchas creencias ampliamente aceptadas (como la existencia de ángeles y demonios) no forman parte del conocimiento científico.'
+
+pregunta5: ' En el texto, la palabra PODEROSA adquiere el sentido de'
+alternativas5:
+  A: Sólida.
+  B: Grande.
+  C: Ingente.
+  D: Mirífica.
+  E: Inusitada.
+
+solucion5: 
+  alternativa: A
+  razon: 'En este contexto, la palabra hace alusión a una teoría asentada sobre bases teóricas firmes, esto es, una teoría sólida.'
+
+pregunta6: 'Si tanto la ciencia como la pseudociencia fueran aceptadas masivamente y determinarán un influjo en la mente de quienes la aceptan, probablemente'
+alternativas6:
+  A: El método científico sería insoslayable para creer en algo.
+  B: Newton habría tenido más razones para dudar de su teoría.
+  C: El apoyo objetivo en la evidencia fáctica sería inevitable.
+  D: Se superaría la confirmación a partir de los hechos reales.
+  E: El deslinde entre una y otra sería sumamente impreciso.
+
+solucion6: 
+  alternativa: E
+  razon: 'Justamente la aceptación generalizada no hace que un conocimiento sea considerado científico, tampoco los efectos psicológicos que pudiera generar en quienes lo asumen como válido.  Si la ciencia se equiparara en esos términos con la pseudociencia, la divergencia entre una y otra se tornaría sumamente opaca.'
+
+pregunta7: 'Si la creencia en los ángeles fuera aceptada por un conjunto minúsculo de personas,'
+alternativas7:
+  A: Tendría que ser considerada como un conocimiento cimentado de forma sólida.
+  B: Permitiría la inclusión de esta como un ejemplo claro de escepticismo científico.
+  C: Al carecer de un apoyo objetivo en los hechos, seguiría siendo pseudocientífica.
+  D: Sería menester considerarla científica pues dejaría de ser una creencia absurda.
+  E: El autor del texto la soslayaría como ejemplo de consideraciones inverosímiles.
+
+solucion7:
+  alternativa: C
+  razon: 'El hecho de que la creencia en los ángeles sea asumida por pocas personas no determina que sea parte de la ciencia, ya que el deslinde real se define a partir del apoyo objetivo que la ciencia realiza en los hechos.'

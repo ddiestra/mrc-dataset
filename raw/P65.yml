@@ -1,0 +1,60 @@
+  texto: 'No estoy para responder- respondió Sancho- porque me parece que hablo por las espadas. Subamos y apartémonos de aquí, que yo pondré silencio en mis rebuznos; pero no en dejar de decir que los caballeros andantes huyen, y dejan a sus buenos escuderos molinos como alheña.No huye el que se retira- respondió Don Quijote- porque has de saber, Sancho, que la valentía que no se funda sobre la base de la prudencia se llama temeridad, y las hazañas del temerario más se atribuyen a la buena fortuna que a su ánimo. Y así, yo confieso que me he retirado, pero no huido; y en esto he imitado a muchos valientes que se han guardado para tiempos mejores y de esto están las historias llenas; las cuales, por no serte a ti de provecho ni a mí gusto, no te las refiero ahora  '
+  pregunta1: 'Según Don Quijote, es valiente el que:'
+  alternativas1:
+    A: Se aparta siempre del peligro
+    B: Se enfrenta siempre contra cualquier peligro.
+    C: Confía en su ánimo antes que en su suerte.
+    D: Sabe medir sus fuerzas frente al peligro.
+    E: Imita a valientes de tiempos mejores.
+
+  solucion1:
+    alternativa: C
+    razon: 'La valentía que no se funde sobre la base de la prudencia se llama temeridad, y las hazañas del temerario más se atribuyen a la buena fortuna que al ánimo. De ello se deduce que los valientes si se fundan en su ánimo. '
+
+  pregunta2: 'El triunfo de los temerarios debe ser atribuido a:'
+  alternativas2: 
+    A: Su valentía
+    B: La buena suerte
+    C: Su arrojo
+    D: Su coraje
+    E: Su fuerza de voluntad
+  
+  solucion2:
+    alternativa: B
+    razon: 'Las hazañas del temerario más se atribuyen a la buena fortuna. De ello entendemos que los temerarios se funden en su buena suerte. '
+
+  pregunta3: 'Al haber sido abandonado por Don Quijote en medio del peligro, Sancho considera qeu los caballeros andantes son:'
+  alternativas3:
+    A: Indolentes.
+    B: Desconsiderados.
+    C: Cobardes.
+    D: Temerarios.
+    E: Inhumanos.
+  
+  solucion3: 
+    alternativa: C
+    razon: '... yo pondré silencio en mis rebuznos; pero no en dejar de decir que los caballeros andantes huyen... Por el contrario de este fragmento Sancho está atribuyendo a Don Quijote el ser cobarde por cuanto dicen huyen. '
+
+  pregunta4: 'Según Don Quijote, la valentía se debe basar en la prudencia para:'
+  alternativas4:
+    A: Conseguir siempre su triunfo.
+    B: Seguir el ejemplo de otros valientes.
+    C: No ser considerada cobardía.
+    D: No enfrentarse inútilmente.
+    E: No caer en la temeridad
+
+  solucion4:
+    alternativa: E
+    razon: 'La valentía que no se funda en la base de la prudencia se llama temeridad. Por tanto, con el objetivo de no caer en la temeridad, la valentía necesita apoyarse en la prudencia. '
+
+  pregunta5: 'Según confiesa Don Quijote, se retiró dejando a Sancho sin importarle que fuese golpeado por sus enemigos.'
+  alternativas5:
+    A: Para imitar a otros caballeros.
+    B: Porque a veces es prudente retirarse.
+    C: Porque Sancho se retrasó demasiado.
+    D: Para evitar que a él también lo golpeen.
+    E: Porque el propio Sancho tuvo la culpa.
+  
+  solucion5:
+    alternativa: B
+    razon: 'En una parte de la lectura Don Quijote nos da a entender que la verdadera valentía se funde en el ánimo, y, la temeridad es la imprudencia por ello agrega. Y así, yo confieso que me he retirado, pero no huido. Con lo cual nos quiere decir que se ha retirado por prudencia. '

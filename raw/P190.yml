@@ -1,0 +1,59 @@
+  texto: 'Aunque la ciencia moderna sólo existe hace unos pocos cientos de años, casi no hay un solo aspecto de la vida cotidiana, en el mundo occidental, que no haya sido transformado por ella. La aplicación del conocimiento ha dado como resultado adelantos en la agricultura y en la industria, en las comunicaciones y en los transportes, en la salud y la higiene, y en nuestro nivel de vida en general. La domesticación de la potencia del vapor y del agua para el funcionamiento de nuestras maquinarias y la desviación de cursos de agua para convertir desiertos en viñedos, son solamente dos ejemplos de los usos prácticos de la ciencia. Claro que algunos de los resultados prácticos de la ciencia no son tan alegres. El enorme aumento del poder destructivo de las armas ha hecho que se convierta en una amenaza para la civilización misma. Sin embargo, a pesar de estos aspectos infortunados de las conquistas científicas, en conjunto, el desarrollo de la ciencia y sus aplicaciones han sido beneficiosas para la humanidad. Por terribles que sean los estragos de las explosiones atómicas, el sacrificio de vidas humanas que implican parece ser mucho menor que el de las grandes plagas que antiguamente se esparcían por Europa y diezmaban su población. COPY, Irving Introducción a la lógica'
+  pregunta1: '¿Qué aspecto de la ciencia es más significativo según el autor?'
+  alternativas1: 
+    A: Su aplicación práctica
+    B: Su naturaleza negativa
+    C: Su positividad real
+    D: Su carácter natural
+    E: Su valor intrínseco
+  solucion1: 
+    alternativa: A
+    razon: '¿Qué aspecto de la ciencia es más significativo según el autor? Su aplicación práctica. En el texto se enfatiza que el mejoramiento de la vida humana sólo ha sido posible con la aplicación del conocimiento científico: así, por ejemplo, agricultores e industriales aplican nuevas técnicas científicas para mejorar la calidad y la cantidad de sus cosechas y productos respectivamente. '
+
+
+  pregunta2: 'La ciencia moderna ha logrado influenciar en todos los aspectos de la vida, a pesar de'
+  alternativas2: 
+    A: El mundo occidental
+    B: La aplicación del conocimiento
+    C: La amplitud del mundo real
+    D: Su reciente aparición
+    E: Los adelantos de la agricultura
+  solucion2: 
+    alternativa: D
+    razon: 'La ciencia moderna ha logrado influenciar en todos los aspectos de la vida, a pesar de su reciente aparición. Si bien la ciencia moderna no posee una larga existencia, ha ejercido en cambio una gran influencia en la vida actual. Una muestra de ello es la curación de enfermedades que antes resultaban mortales. '
+
+  pregunta3: 'Un ejemplo de la aplicación práctica de la ciencia seda:'
+  alternativas3:
+    A: Superar la inclemencia del tiempo
+    B: Crear potencia de vapor de agua
+    C: Generar agua y vapor industrial
+    D: Domesticar la potencia del agua
+    E: Crear industria y agricultura
+
+  solucion3:
+    alternativa: D
+    razon: 'Un ejemplo de la aplicación práctica de la ciencia seria domesticar la potencia del agua. Entre los beneficios saltantes de la aplicación científica se menciona la domesticación de la fuerza del agua que ha permitido al agricultor poder irrigar sus cultivos e impulsar así la labor agrícola. '
+
+  pregunta4: 'El fragmento sostiene principalmente que:'
+  alternativas4:
+    A: Los objetivos que posee la ciencia no son positivos.
+    B: Los usos de la ciencia tienen un carácter indeterminado
+    C: A pesar de sus aspectos negativos, la ciencia es en esencia beneficiosa
+    D: Las guerras son causadas, entre otras cosas, por la ciencia
+    E: La ciencia moderna tiene unos pocos cientos de años
+
+  solucion4:
+    alternativa: C
+    razon: 'El fragmento sostiene principalmente que, a pesar de sus efectos negativos, la ciencia es en esencia beneficiosa. Se argurnenta en el contenido textual que, si bien el poder destructivo de las armas es producto de la aplicación científica, esto no es motivo para desmerecer el carácter provechoso de la ciencia, que se evidencia en el mejoramiento del nivel general de vida. '
+
+  pregunta5: 'La razón inmediata que ha puesto en peligro a la civilización humana es:'
+  alternativas5:
+    A: Los resultados prácticos generados por la ciencia
+    B: El desarrollo exagerado de la tecnología
+    C: El acrecentamiento desmesurado de la ciencia
+    D: La amenaza de una tercera guerra mundial
+    E: El aumento del poder destructivo de las armas
+
+  solucion5:
+    alternativa: E
+    razon: 'La razón inmediata. que ha puesto en peligro a la civilización humana es el aumento del poder destructivo de las armas. El autor reconoce que, si bien la ciencia ha sido provechosa en sentido general, también ha sido aplicada en forma negativa. Por ejemplo, en base a ella se ha creado armas cada vez más destructivas cuyo efecto resultaría catastrófico para la humanidad. '

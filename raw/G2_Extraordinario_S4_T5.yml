@@ -1,0 +1,23 @@
+texto:  'Healy (1976, 1980) realizó una serie de experimentos que apoyan la idea del
+        reconocimiento global de la palabra. En sus trabajos, daba a los lectores un pasaje, con la
+        instrucción de leerlo a su ritmo habitual de lectura y, al mismo tiempo, tachar todas las letras
+        «t» que aparecieran en el mismo. Los resultados mostraron que los lectores tendían a pasar
+        por alto la aparición de la letra buscada y que un porcentaje elevado de los errores
+        cometidos se producía cuando la letra aparecía en una palabra muy frecuente en el idioma,
+        como la palabra «the» en inglés. En opinión de Healy, estos datos apoyan su hipótesis de
+        que la palabra se lee como una unidad, como una forma global y que, por lo tanto, los
+        elementos individuales –las letras– se pierden, sobre todo en el caso de palabras muy
+        frecuentes.'
+    
+preguntas:    
+  - pregunta: Resulta compatible con la investigación de Healy sostener que
+    alternativas:
+        A: carece de relevancia para la lingüística.
+        B: le permitió corroborar su hipótesis inicial.
+        C: usó una palabra poco empleada en inglés.
+        D: estuvo dirigida a personas analfabetas.
+        E: fue llevada a cabo en pleno siglo XXI.
+    solucion:
+      alternativa: B
+      razon:  En opinión de Healy, estos datos apoyan su hipótesis de que la palabra
+              se lee como una unidad.

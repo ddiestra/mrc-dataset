@@ -1,0 +1,35 @@
+texto:  Una teoría científica puede ser reconocida como errónea si hay un error lógico en sus
+        deducciones, o puede ser reconocida como inadecuada si un hecho no encaja en sus
+        consecuencias. Pero jamás puede demostrarse la verdad de una teoría. Y ello porque
+        jamás se sabe si en el futuro no se descubrirá alguna experiencia que contradiga sus
+        consecuencias; y siempre puede pensarse en otros sistemas de pensamiento, capaces de
+        conectar los mismos hechos tomados en consideración. Si se dispone de dos teorías,
+        ambas compatibles con el material dado, entonces no existe más criterio para preferir una
+        a la otra que la mirada intuitiva del investigador.
+    
+preguntas:    
+  - pregunta: Se infiere que ante la imposibilidad de demostrar la verdad de una teoría
+    alternativas:
+      A: pueden existir controversias en la ciencia.
+      B: todo depende de los prejuicios del público.
+      C: jamás podemos formular juicios prudentes.
+      D: no podemos extraer conclusiones lógicas.
+      E: todos los sistemas son pseudocientíficos. 
+        
+    solucion:
+      alternativa: A
+      razon:  La mirada intuitiva del investigador puede generar controversias al no
+              existir un criterio absoluto de verdad.
+
+  - pregunta: Si un científico formulara un criterio absoluto para emitir juicios verdaderos
+              sobre la realidad
+    alternativas:
+      A: los sistemas teóricos ya no concordarían con la realidad.
+      B: haría desaparecer inmediatamente todo sistema filosófico.
+      C: los hechos futuros ya no tendrían vínculo con el pasado.
+      D: se encontraría en las antípodas de la posición del autor.
+      E: sería imposible poder derivar consecuencias de las teorías.
+    solucion:
+      alternativa:  D
+      razon:  El autor niega tajantemente la posibilidad de formular un criterio
+              absoluto de verdad.

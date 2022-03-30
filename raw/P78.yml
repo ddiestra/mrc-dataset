@@ -1,0 +1,48 @@
+  texto: 'En sus estudios sobre animales, los etólogos han desarrollado técnicas de campo que les permiten observar y registrar el comportamiento de manera muy objetiva y detallada, sin nociones preconcebidas. El etólogo se interna en el ambiente salvaje de los animales y espera hasta que éstos lo acepten como parte de su hábitat; luego empieza a anotar secuencias de comportamientos, observando qué precede a cada uno de los actos y cuáles son sus consecuencias. Sobre el terreno mismo o tal vez más tarde, mediante el análisis por computadoras, se extraerán los esquemas de esas secuencias, describiendo, por ejemplo, todos los elementos que intervienen en un ataque: la postura, la expresión facial, comportamiento ocular, los efectos del sonido, etc. Una vez que el esquema ha sido identificado y señalado a un observador, las acciones aparentemente caprichosas de los animales adquieren un significado nuevo para él: literalmente las ve de otra manera.'
+  pregunta1: 'La razón por la que el etólogo se interna en el ambiente salvaje de los animales se debe a que'
+  alternativas1:
+    A: Cuando más cerca se observa a los animales, éstos actúan mejor
+    B: El hábitat de los animales debe ser respetado
+    C: La observación no debe interferir en el comportamiento animal
+    D: Los animales son más espontáneos cuando el observador es acucioso
+    E: Se observan mucho mejor las consecuencias del comportamiento.
+
+  solucion1:
+    alternativa: C
+    razon: 'La razón o motivación que tiene el etólogo es observar y registrar el comportamiento de forma muy objetiva y detallada, para lo cual "se interna en el ambiente salvaje de los animales y espera que éstos lo acepten como parte de un hábitat". Por lo tanto, su observación no debe interferir en el comportamiento animal. '
+
+  pregunta2: 'La información que el etólogo da a las computadoras está conformada por'
+  alternativas2: 
+    A: La suma de observaciones controladas mediante el comportamiento animal.
+    B: Una sistematización del comportamiento del hábitat
+    C: Una serie de observaciones sistemáticas del hábitat
+    D: El conjunto de datos observados en los esquemas
+    E: Los datos obtenidos mediante la observación sistemática
+  
+  solucion2:
+    alternativa: E
+    razon: '"Luego empieza a anotar secuencias de comportamientos, observando qué precede a cada uno de los actos y cuáles son sus consecuencias" "sobre el terreno mismo o tal vez más tarde, mediante un análisis por computadora se extraerán los esquemas de esas secuencias. '
+
+  pregunta3: 'De la lectura del texto podemos inferir que los etólogos estudian'
+  alternativas3:
+    A: El comportamiento y actitud natural de los animales
+    B: Las formas de reacción a los estímulos animales
+    C: Los elementos que intervienen en el ataque del animal
+    D: El comportamiento animal en la forma más subjetiva
+    E: Los esquemas del comportamiento animal más salvaje
+  
+  solucion3: 
+    alternativa: A
+    razon: 'En sus estudios sobre animales los etólogos han desarrollado técnicas de campo que les permiten observar y registrar el comportamiento de manera objetiva. Por lo tanto, se deduce que los etólogos están dedicados a conocer cómo se comportan los animales en situación normal o natural. '
+
+  pregunta4: 'Una idea que el texto no expresa es que'
+  alternativas4:
+    A: Sobre el terreno mismo se puede extraer esquemas del comportamiento
+    B: Se pueden observar las secuencias del comportamiento animal
+    C: El hábitat condiciona el comportamiento de los animales
+    D: Mediante el análisis por computadoras se puede analizar el comportamiento
+    E: El comportamiento aparentemente caprichoso del animal se puede ver de otra manera
+
+  solucion4:
+    alternativa: C
+    razon: 'Esta Pregunta. nos pide descubrir aquella alternativa que no ha sido señalada en el texto. Lo que no se dice es que "el hábitat condiciona el comportamiento de los animales." '

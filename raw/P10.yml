@@ -1,0 +1,16 @@
+texto:
+    'Preguntaron a un proletario en el tribunal qué fórmula elegía para su juzgamiento: la religiosa o la laica. "No tengo trabajo", contestó. No fue aquello simple distracción comentó el señor K. Con su respuesta, aquel hombre quiso dar a entender que se hallaba en una situación en que ese tipo de Preguntas, y tal vez incluso el mismo proceso, carecía de sentido. BRECHT, Bertolt Historias de Almanaque'
+    
+#1
+pregunta1: ¿Cuál es el mensaje que el texto trasmite?
+
+alternativas1: 
+    A: La impertinencia de la actitud religiosa o laica.
+    B: La necesidad de definir prioridades en la vida.
+    C: La vida no tiene por qué carecer de sentido.
+    D: Las Preguntas precipitadas son metafísicas.
+    E: La condición humana vale más que la justicia.
+
+solucion1: 
+    alternativa: B
+    razon: 'El mensaje que transmite el autor es la necesidad de definir prioridades en la vida. Las ideas vertidas nos quieren explicar la trivialidad que significó para el proletario la Pregunta. hecha por el juez. Su respuesta aparentemente incongruente "no tengo trabajo" refleja la prioridad que tiene en su vida: sobrevivir. Por tanto, en la vida es necesario definir prioridades como la de trabajar, para el proletario; la de investigar, para un intelectual, etc.'

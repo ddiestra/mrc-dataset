@@ -1,0 +1,34 @@
+texto: 'Hace unos meses, el conocido exjugador de la NBA Shaquille O’Neal nos sorprendió declarando que él creía que la Tierra era plana. Su argumento era tan simple como contundente. El deportista ha conducido muchas veces a través de Estados Unidos y lo había visto todo llano. El método científico se basa en hacer una observación, formular una hipótesis, hacer unos experimentos y, según el resultado, establecer leyes o plantear una nueva hipótesis. O’Neal hace un amago de utilizar este procedimiento, el problema es que se salta el paso de la experimentación y convierte la hipótesis en ley sin someterla a ninguna prueba. A veces pensamos que el viaje de Colón fue la demostración más clara de la forma esférica de nuestro planeta, algo que fue confirmado posteriormente por Magallanes y Elcano. Aunque este solo siguió la propuesta de la ruta a las Indias que había dejado escrita el astrónomo italiano Paolo dal Pozzo Toscanelli. Pero si en vez de cruzarse la llanura de Kansas en coche, salieran a la playa, en un día despejado, la estrella de la NBA y muchos de quienes resuelven que la Tierra es plana, verían que a medida que se aleja un barco en el horizonte lo primero que deja de verse es el casco, mientras que la parte superior se mantiene en el horizonte. Esto no tendría explicación si el mar fuera tan plano como aparenta, pero sí que la tiene si el mar está sobre una esfera. Los griegos lo sabían y también la midieron. Hoy, con un palo y una regla, cualquiera puede parar el coche en mitad de la llanura de Kansas el día del solsticio de verano a las 12:00 y medir la sombra. Si la medida no es cero, la Tierra no es plana, es esférica como una pelota de baloncesto. '
+pregunta1: 'Determine el tema central del texto '
+alternativas1: 
+  A: La creencia en la pseudociencia de los terraplanistas 
+  B: Las opiniones fundadas sobre la figura de la Tierra 
+  C: La importancia de la certidumbre para los individuos 
+  D: Las consecuencias perniciosas del escepticismo 
+
+solucion1: 
+  alternativa: A
+  razon: 'En efecto, en el texto se presenta centralmente cómo el conocimiento certero es alcanzado mediante cuestionamientos constantes, asumidos por el propio individuo. Es decir, este actúa con rigor para conseguir un grado de certeza. '
+  
+pregunta2: 'Tal como se emplea en el texto, el vocablo AMAGO connota'
+alternativas2:
+  A: ciencia. 
+  B: error. 
+  C: método. 
+  D: anuncio. 
+
+solucion2: 
+  alternativa: B
+  razon: 'La palabra AMAGO se usa para referirse a la carencia de un método experimental objetivo en el procedimiento del basquetbolista, ya que este se salta varios pasos. En tanto que tal, el vocablo se asocia con el ERROR. '
+  
+pregunta3: 'Es incompatible con el desarrollo del texto, acerca del razonamiento realizado por el famoso basquetbolista mencionado en el texto, afirmar que'
+alternativas3:
+  A: se enmarca en un procedimiento simple y muy diferente al trabajo de la teoría científica. 
+  B: condujo a que este plantee una propuesta superada hace muchos siglos atrás por los griegos. 
+  C: constituye una prueba evidente de que la ciencia estándar puede incurrir en un error grave. 
+  D: es una muestra de que las propuestas más absurdas pueden ser asumidas en la actualidad. 
+
+solucion3: 
+  alternativa: C
+  razon: 'En el texto se indica que los procedimientos intuitivos de Shaquille O’Neal están alejados de la práctica científica real, pues este se ha saltado varios pasos. '
+  

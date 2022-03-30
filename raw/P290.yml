@@ -1,0 +1,56 @@
+texto: 'Un brote epidémico es una clasificación usada en la epidemiología para denominar la aparición repentina de una enfermedad debida a una infección en un lugar específico y en un momento determinado. Por su parte, se cataloga como epidemia cuando una enfermedad se propaga activamente debido a que el brote se descontrola y se mantiene en el tiempo. De esta forma, aumenta el número de casos en un área geográfica concreta. Para que se declare el estado de pandemia se tienen que cumplir dos criterios: que el brote epidémico afecte a más de un continente y que los casos de cada país ya no sean importados sino provocados por trasmisión comunitaria.  El 30 de enero, la Organización Mundial de la Salud declaró el Estado de Emergencia Global por el coronavirus. Al respecto, el actual director general, el etíope Tedros Adhanom, afirmaba que una de las preocupaciones del organismo es que el COVID-19 se propague «a países con sistemas de salud más débiles (que los de China), que no están lo suficientemente preparados para hacerle frente». Este gráfico de Statista muestra los resultados del índice "Seguridad Sanitaria Global", métrica usada en un estudio que compara a los países según su capacidad de respuesta ante una epidemia o pandemia, como en lo respectivo a si podrían prevenirla o los recursos de su sistema de salud para tratar a los enfermos. Tal y como se ve en el mapa, el continente más débil ante la propagación global de una enfermedad sería el africano. Dentro de Europa, España ocupa el puesto número 15 de la clasificación global, con 65,9 puntos de los 100 posibles. El Estado mejor preparado es Estados Unidos, con 83,5 puntos.'
+pregunta1: 'Determine el tema central del texto'
+alternativas1:
+  A: La reacción de diferentes países ante el COVID-19, según un estudio. 
+  B: Las principales diferencias entre brote, epidemia y pandemia en 2019. 
+  C: Los países mejor preparados ante una eventual pandemia mundial. 
+  D: La capacidad para reaccionar ante una epidemia o pandemia en 2019.
+
+solucion1:
+  alternativa: D
+  razon: 'El texto y la imagen principalmente muestran la capacidad de respuesta ante una eventual pandemia o epidemia en el año 2019.  '
+
+pregunta2: 'El término REPENTINO implica:'
+alternativas2:
+  A: Imprevisibilidad. 
+  B: Desenfreno. 
+  C: Impetuosidad. 
+  D: Inclemencia. 
+
+solucion2:
+  alternativa: A
+  razon: 'La palabra REPENTINO hace referencia a lo inesperado de su aparición. Por tanto, está vinculado con IMPREVISIBILIDAD.  '
+
+pregunta3: 'Tomando en cuenta la infografía y el texto, se infiere que ante una epidemia, un país africano como Tanzania '
+alternativas3:
+  A: Es posible que tenga menor capacidad de reacción que uno europeo como Dinamarca. 
+  B: Solo incrementaría sus niveles de mortalidad debido a la dejadez de sus autoridades. 
+  C: Se posicionaría en varios puestos por debajo de Somalia, debido a su condición económica. 
+  D: Sería apoyado por países opulentos con el fin de detener los efectos letales de una epidemia perniciosa.
+
+solucion3:
+  alternativa: A
+  razon: 'El texto indica que los países africanos son los menos preparados para enfrentar una epidemia. Por ello, uno como Tanzania tendría más dificultades que uno como Dinamarca. '
+
+pregunta4: 'Se condice con la imagen que los países sudamericanos '
+alternativas4:
+  A: Son, junto con los europeos, los mejor preparados para enfrentar una crisis. 
+  B: En el ranking, se encuentran indefectiblemente entre el puesto 10 y el 193. 
+  C: Presentarían idénticos problemas que los asiáticos ante una inminente crisis. 
+  D: En su mayoría se encuentran medianamente preparados para una pandemia.
+
+solucion4:
+  alternativa: D
+  razon: 'Como se observa en la imagen, casi todos los países sudamericanos se encuentran con una preparación media. '
+
+pregunta5: 'Si una epidemia que se inició en un continente llegara a otro por medio del turismo, '
+alternativas5:
+  A: Sin duda, esta sería denominada pandemia por Tedros Adhanom. 
+  B: Países como EE.UU. serían indiferentes ante tal acontecimiento. 
+  C: Aún habría reticencias en considerarla como una real pandemia. 
+  D: Podrían colapsar los sistemas de salud y previsión del mundo.
+
+solucion5:
+  alternativa: C
+  razon: 'El texto explica que se requieren dos criterios, la propagación a más de un continente y que los casos por país ya no sean importados, sino generados en los mismos países. En este caso, se tendría que corroborar el segundo criterio para llamar al COVID-19 una pandemia.  '
+

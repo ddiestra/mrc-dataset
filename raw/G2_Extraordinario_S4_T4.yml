@@ -1,0 +1,28 @@
+texto:  'El pueblo egipcio no conocía aún instrumentos que le permitieran medir y obtener los
+        cálculos precisos necesarios para construir grandes edificaciones. Para construir las
+        pirámides, por ejemplo, la de Keops, necesitaron el trabajo de miles de hombres durante
+        más de veinte años, que colocaron 6,5 millones de toneladas de piedra caliza. Sin embargo,
+        la clave del éxito se debió a dos tareas previas a la construcción de la pirámide: la nivelación
+        y la orientación. Para obtener la nivelación exacta del terreno, cavaban unas fosas
+        comunicantes entre sí por todo el solar y las llenaban posteriormente con agua. De esta
+        manera, el agua indicaba el plano horizontal del terreno, que se quedaba marcado en las
+        paredes del canal. Con la misma precisión, se determinaba la orientación de los puntos
+        cardinales, que correspondían a las caras de las pirámides, siendo la cara norte donde se
+        situaba la entrada. Para ello, construían un muro alrededor de una circunferencia con una
+        altura tal que cualquier persona que se introdujera en su interior viera únicamente el cielo.
+        Desde el centro de ese círculo, un sacerdote observaba las estrellas y, según el lugar de
+        aparición de las mismas sobre el muro, podía deducirse la orientación cardinal.'
+            
+preguntas:    
+  - pregunta:   ¿Cuál de los siguientes enunciados es incongruente con el texto?
+    alternativas:
+        A: Los egipcios carecían de instrumentos precisos para la edificación.
+        B: En las pirámides de Keops se emplearon toneladas de piedra caliza.
+        C: En las pirámides, la entrada siempre se colocaba mirando al norte.
+        D: Los sacerdotes se encargaban de las observaciones astronómicas.
+        E: Los egipcios desconocían como determinar los puntos cardinales.
+    solucion:
+      alternativa: E
+      razon:  'Con la misma precisión, se determinaba la orientación de los puntos
+              cardinales, que correspondían a las caras de las pirámides, siendo la cara norte donde
+              se situaba la entrada'

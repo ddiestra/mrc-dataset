@@ -1,0 +1,19 @@
+texto:  'Hay importantes diferencias entre las ciencias naturales y sociales; no obstante, todos
+        los campos de la investigación científica moderna referidos al mundo real o fáctico
+        constituyen un mismo sistema que involucra, entre otros, una comunidad de investigadores,
+        un contexto filosófico, una problemática específica, un caudal de conocimientos (teorías,
+        hipótesis y datos obtenidos por los miembros de la comunidad), un conjunto objetivos
+        propios de los miembros de la comunidad y un conjunto de procedimientos explícitos,
+        uniformes y criticables donde destaca, en primer lugar, el método científico general.'
+    
+preguntas:    
+  - pregunta: 'Resulta incompatible afirmar que la investigación científica'
+    alternativas:
+        A: involucra una comunidad científica.
+        B: es ajena a todo principio filosófico.
+        C: parte de conocimientos previos.
+        D: tiene procedimientos estandarizados.
+        E: procede según un método general.
+    solucion:
+      alternativa: B
+      razon:  Según el texto la investigación científica involucra un contexto filosófico.

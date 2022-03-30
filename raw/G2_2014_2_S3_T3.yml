@@ -1,0 +1,88 @@
+texto:
+    Una de las principales características de los analfabetos matemáticos o personas anuméricas es la tendencia a sobrestimar la frecuencia de las coincidencias. Generalmente le dan mucha importancia a todo tipo de correspondencias, y, en cambio, le dan muy poca importancia a evidencias estadísticas menos relumbrantes, pero absolutamente concluyentes. Si adivinan el pensamiento de otra persona, o tienen un sueño que parece que ha ocurrido, o leen que, pongamos por caso, la secretaria del presidente Kennedy apellidaba Lincoln y que la secretaria del presidente Lincoln apellidaba Kennedy, lo consideran una prueba de cierta armonía maravillosa y misteriosa que rige de algún modo su universo personal.
+    Pocas experiencias me descorazonan más que encontrarme con alguien que parece inteligente y abierto, que de pronto me pregunta por mi signo del zodiaco y que luego empieza a encontrar características de mi personalidad que encajan con ese signo, independientemente de qué signo le haya dicho yo. El siguiente resultado, bien conocido en probabilidad, es una buena ilustración de la sorprendente probabilidad de las coincidencias.
+    Incluyendo el 29 de febrero, el año tiene 366 días. Tendríamos que reunir 367 personas para estar seguros de que por lo menos dos personas del grupo han nacido el mismo día. Ahora bien, ¿qué pasa si nos contentamos con tener una probabilidad de solo el 50%? ¿Cuántas personas debe haber en el grupo para que la probabilidad de que por lo menos dos de ellas hayan nacido el mismo día sea una mitad? A primera vista uno diría que 183.5, esto es, 184 personas. La respuesta sorprendente es que solo hacen falta veintitrés. En otras palabras, exactamente la mitad de las veces que se reúnen veintitrés personas elegidas al azar, dos o más de ellas han nacido el mismo día.
+   
+#1
+pregunta1: ¿Cuál es el tema central del texto?
+
+alternativas1: 
+    A: Las múltiples interpretaciones de una coincidencia
+    B: La interpretación tendenciosa de las coincidencias
+    C: La astrología como nítido ejemplo de seudociencia
+    D: El estudio riguroso de la teoría de la probabilidad
+    E: La probabilidad de encontrar individuos coetáneos 
+
+solucion1: 
+    alternativa: B
+    razon: Se señala que se sobrestiman las coincidencias, llegando incluso a creer que son una manifestación de cierta armonía maravillosa y misteriosa.
+
+#2
+pregunta2: La idea principal del texto afirma que
+
+alternativas2: 
+    A: la teoría de la probabilidad es un campo de estudio riguroso.
+    B: los analfabetos matemáticos son difusores de la astrología.
+    C: la creencia en las predicciones del horóscopo es irracional.
+    D: los individuos anuméricos sobrevaloran las coincidencias.
+    E: las personas anuméricas destacan por su talante crítico.
+
+solucion2: 
+    alternativa: D
+    razon: El texto vincula el anumerismo con la sobrestimación infundada de las coincidencias.
+
+#3
+pregunta3: En el segundo párrafo, la palabra DESCORAZONAN connota
+
+alternativas3: 
+    A: despecho.
+    B: dilección.
+    C: apostasía.
+    D: renuencia.
+    E: decepción.
+
+solucion3: 
+    alternativa: E
+    razon: El autor muestra el contraste entre la aparente inteligencia de su interlocutor hipotético y la creencia en supercherías del mismo.
+
+#4
+pregunta4: Se infiere que la coincidencia alusiva a las fechas de cumpleaños
+
+alternativas4: 
+    A: sorprende por el pequeño número de personas requeridas para que ocurra.
+    B: sería interpretada como una señal por alguien que sepa de probabilidades.
+    C: muestra la incapacidad de la teoría de la probabilidad para explicarlo todo.
+    D: es asombrosa porque varias personas cumplen años el veintiocho de julio.
+    E: constituye una muestra del providencialismo sostenido por el autor del texto.
+
+solucion4: 
+    alternativa: A
+    razon: Una persona que ignora el concepto de probabilidad puede creer que al tratarse de una reunión de solo veintitrés personas, la coincidencia en los cumpleaños de dos o más sujetos revela alguna forma de armonía mágica.
+
+#5
+pregunta5: Si las personas interiorizaran aceptablemente el concepto de probabilidad,
+
+alternativas5: 
+    A: la matemática adquiriría el caro estatus de ciencia empírica.
+    B: las predicciones astrológicas habrían de adquirir infalibilidad.
+    C: la información seudocientífica desaparecería definitivamente.
+    D: desconfiarían inclusive de los resultados de las matemáticas.
+    E: tendrían menor predisposición a sobrestimar las coincidencias.
+
+solucion5: 
+    alternativa: E
+    razon: El texto sostiene que la falta de conocimiento y la carencia de espíritu crítico nos incitan a creer de manera infundada en la predestinación.
+    
+#6
+pregunta6: Una idea incompatible con lo sostenido por el autor es que
+
+alternativas6: 
+    A: si alguien sueña con un accidente que días después ocurre, esto no se puede explicar científicamente.
+    B: a menor conocimiento matemático más probable es que incurran las personas en explicaciones de carácter pseudocientífico.
+    C: no se requiere contar con 184 personas para que sea probable que dos de las personas del grupo hayan nacido el mismo día.
+    D: los analfabetos matemáticos suelen impresionarse por las más triviales coincidencias.
+    E: si alguien te pregunta por tu signo zodiacal es probable que no sepa de probabilidades.
+
+solucion6: 
+    alternativa: A
+    razon: Que uno sueñe con un evento que ocurre frecuentemente, como es el caso de un accidente automovilístico, es una coincidencia. Este tipo de casos y otros es lo que justamente el autor pretender explicar científicamente.

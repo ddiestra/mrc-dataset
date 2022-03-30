@@ -1,0 +1,60 @@
+  texto: 'Nadie sabe qué origina la enfermedad de Alzheimer. Algunos investigadores conjeturan que podría tratarse de esos "virus lentos". Sin embargo, hasta ahora no se ha identificado ninguno específicamente.Otros piensan que esta enfermedad es de origen genético, o al menos en parte. Algunos han estudiado la relación entre la herencia biológica y el padecimiento de la enfermedad, encontrando que cuando más joven sea la persona cuando comienza a sentir sus efectos, mayores serán las posibilidades de que la contraigan los parientes. Cualquiera sea la causa, los pacientes tienen carencia de la sustancia cerebral acetilcolina, responsable de la comunicación entre neuronas. Así se ha tratado de administrarles cápsulas de colina en la dieta, con resultados desalentadores. Mejores resultados se han tenido con fisostigmina por vía intravenosa y por vía oral, con resultados similares: una mejoría leve. Más aún, en algunos casos se han combinado la fisostigmina con la lecitina, alcanzando un periodo mayor de mejoría. Sin embargo, los médicos no cantan victoria. Últimamente, el tratamiento ha consistido en inyectar directamente al cerebro el cloruro de betanecol ya que éste "remeda" la acción de la acetilcolina, obteniéndose resultados mejores.En síntesis, los últimos diez años han permitido importantes logros en el conocimiento de la enfermedad, pero es preciso llevar a cabo muchos más experimentos. Se espera que en los próximos diez años se disponga de medicamentos realmente eficaces para tratar este mal.'
+  pregunta1: 'De acuerdo a los avances científicos, esta enfermedad.'
+  alternativas1:
+    A: Tiene diagnóstico equivocado
+    B: Tiene pronóstico recuperativo
+    C: Es propia de la edad
+    D: Aún es incurable
+    E: Es de origen genético
+
+  solucion1:
+    alternativa: D
+    razon: 'Habiéndose aplicado algunas sustancias, lo único que se ha hecho obtener resultados mejores. Además, se dice que: Se espera que en los próximos diez años se disponga de medicamentos realmente eficaces para tratar este mal. De este último se entiende que aún no hay forma de curar esta enfermedad. '
+
+  pregunta2: 'La enfermedad de Alzheimer se localiza en:'
+  alternativas2: 
+    A: Un lóbulo cerebral
+    B: La sangre
+    C: Los genes
+    D: El ADN
+    E: Las neuronas
+  
+  solucion2:
+    alternativa: E
+    razon: 'Cualquiera, sea la causa, los pacientes tienen carencia de la sustancia cerebral acetilcolina responsable de la comunicación entre neuronas. Por lo tanto, la localización de esta enfermedad se encuentra en las neuronas. '
+
+  pregunta3: 'En algunos casos se administra cloruro de betanecol a los pacientes, ya que esta sustancia puede.'
+  alternativas3:
+    A: Sustituir la acción de la acetilcolina.
+    B: Remedar la acción del cerebro.
+    C: Producir acetilcolina
+    D: Combinarse con la fisostigmina.
+    E: Ser abundante en lecitina
+  
+  solucion3: 
+    alternativa: A
+    razon: 'Sin embargo, los médicos no cantan victoria. Últimamente, el tratamiento ha consistido en inyectar directamente al cerebro el cloruro de betanecol ya que este "remeda" la acción de la acetilcolina. Es decir, que la primera sustancia cumple con funciones parecidas a la que tiene la acetilcolina. '
+
+  pregunta4: 'La relación entre la edad del paciente y la posibilidad de presencia de la enfermedad en los parientes es:'
+  alternativas4:
+    A: Directa
+    B: Casual
+    C: Causal
+    D: Inversa
+    E: Circunstancial
+
+  solucion4:
+    alternativa: D
+    razon: 'Cuanto más joven la persona comience a sentir sus efectos, mayor serán las posibilidades de que la contraigan los parientes. Esto implica que a menor edad mayor posibilidad de que los parientes también la padezcan. '
+
+  pregunta5: '¿Qué es lo que produce la enfermedad de Alzheimer?'
+  alternativas5:
+    A: Un virus lento
+    B: La falsa de acetilcolina
+    C: Una causa desconocida
+    D: La herencia biológica
+    E: El avance de la edad
+  
+  solucion5:
+    alternativa: C
+    razon: 'El texto dice: Nadie sabe que origina la enfermedad de Alzheimer. Por lo tanto, su causa es desconocida, aunque existan algunas conjeturas. '

@@ -1,0 +1,60 @@
+
+  texto: 'Se habla mucho sobre la importancia de una dieta sana, baja en colesterol; sobre la necesidad de mantener una actividad física permanente. Pero suele dejarse de lado algo que quizá es más importante: la actividad mental. Recordemos que "lo que no se usa, se atrofia", y esto es válido también para nuestro cerebro. Muchos neurocientíficos y psiquiatras están convencidos de que cuanto más la desafiemos, cuanto mayores retos le impongamos, más tiempo se mantendrá nuestra mente en buenas condiciones. Ya no se considera una regla general que las personas sufran el deterioro de su capacidad mental a medida que envejecen. Una mente acostumbrada al placer de la lectura difícil, así no tenga un trabajo fijo, continuará lúcida y creativa durante la vejez. El grave error consiste precisamente en dejar de ejercitarla. La historia está copada de ejemplos de grandes intelectuales que a pesar de sus ochenta años de edad, siguieron mostrando una admirable lucidez. Y esto, simplemente, porque su vida misma fue un constante reto, lo que les demandaba, necesariamente, un esfuerzo mental permanente. Revista "Actualidad Psicológica"'
+  pregunta1: 'Si no estuviéramos acostumbrados al placer de la lectura difícil, entonces'
+  alternativas1: 
+    A: Sufriríamos grandes trastornos físicos
+    B: Nuestra mente no mantendría su lucidez
+    C: Padeceríamos de desequilibrios psicológicos
+    D: Nuestros conocimientos serían escasos
+    E: Nuestro cerebro se atrofiaría totalmente
+  solucion1: 
+    alternativa: B
+    razon: 'Si no estuviéramos acostumbrados al placer de la lectura difícil, entonces nuestra mente no mantendría su lucidez. La lectura difícil es una forma de ejercitar nuestra mente. Esto quiere decir que aquel que lee por placer no sólo tiene la satisfacción de gozar ante un buen libro, sino que además está contribuyendo con su propia salud mental. Si, por el contrario, la persona no cultiva esta buena costumbre, tarde o temprano perderá la lucidez. '
+
+
+  pregunta2: 'Muchos grandes personajes mostraron una admirable lucidez debido a'
+  alternativas2: 
+    A: Un constante ejercicio mental
+    B: Los años de lucidez intelectual
+    C: La importancia dada a la actividad física
+    D: Un esfuerzo excesivo de sus cerebros
+    E: Las experiencias obtenidas en sus vidas
+  solucion2: 
+    alternativa: A
+    razon: 'Muchos grandes personajes mostraron una admirable lucidez debido a un constante ejercicio mental. La permanencia de la lucidez depende, como ya dijimos, de que nos acostumbremos a imponerle a nuestra mente retos cada vez más difíciles, para que se desarrolle y se mantenga a pesar del transcurso de los años, como se ha constatado en el caso de muchos personajes distinguidos. '
+
+  pregunta3: 'La afirmación: lo que no se usa se atrofia", se traduce como'
+  alternativas3:
+    A: La generalización del deterioro a nivel físico de un órgano
+    B: La particularización de aquellos que utilizan a medias sus órganos
+    C: La inactividad genera el decaimiento de las capacidades humanas
+    D: La demacrada salud es producto de la dejadez y autoconfianza
+    E: Una relación de causa a efecto entre las actividades que se realizan
+
+  solucion3:
+    alternativa: C
+    razon: 'La afirmación "lo que no se usa se atrofia" se traduce como la inactividad genera el decaimiento de las capacidades humanas. Como se sabe, la ejercitación continua no sólo es buena para los músculos, sino también para la mente. Por ejemplo, si dejáramos de utilizar nuestras piernas por un largo período, éstas correrían el riesgo de quedar tullidas o inutilizadas. De la misma manera, el no ejercitar nuestra mente en base a la lectura de textos selectos, cuyo contenido demande cierta dificultad, generaría la atrofia de las capacidades mentales. '
+
+  pregunta4: 'Que las personas "sufran el deterioro de su capacidad mental a medida que envejecen", para el autor'
+  alternativas4:
+    A: Evidencia un mensaje científico
+    B: Constituye una regla absoluta
+    C: Muestra el abandono de los objetivos
+    D: Es producto de la necesidad de aprender
+    E: Constituye un error del saber común
+
+  solucion4:
+    alternativa: E
+    razon: 'Que las personas "sufran el deterioro de su capacidad mental a medida que envejecen", para el autor constituye un error del saber común. Según el texto, la edad senil no justifica el que una persona haya perdido sus facultades intelectuales, y este hecho ha sido confirmado por la historia. En consecuencia, pensar que un anciano necesariamente debe carecer de lucidez constituye un prejuicio bastante arraigado en la sociedad. '
+
+  pregunta5: 'Por la temática del fragmento, se deduce que el autor es un'
+  alternativas5:
+    A: Científico
+    B: Psicológico
+    C: Neurólogo
+    D: Psiquiatra
+    E: Consejero
+
+  solucion5:
+    alternativa: B
+    razon: 'Por la temática del fragmento, se deduce que el autor es psicólogo. La idea principal del texto radica en la importancia de un constante ejercicio mental. ¿Quién es la persona autorizada para tratar ese tema? Por la forma como se ha enfocado el texto, se deduce que el autor es un profesional de la psicología. '

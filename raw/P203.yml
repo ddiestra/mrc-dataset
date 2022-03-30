@@ -1,0 +1,60 @@
+
+  texto: 'La filosofía, como todos los demás estudios, aspira primordialmente al conocimiento. El conocimiento a que aspira es aquella clase de conocimiento que nos da la unidad y el sistema del cuerpo de las ciencias, y el que resulta del examen crítico del fundamento de nuestras convicciones, prejuicios y creencias. Pero no se puede sostener que la filosofía haya obtenido un éxito realmente grande en su intento de proporcionar una respuesta concreta a estas cuestiones. Si preguntamos a un hombre de ciencia qué conjunto de verdades concretas ha sido establecido por su ciencia, sus respuestas durarán tanto tiempo como estás dispuesto a escuchar. Pero si hacemos la misma Pregunta. a un filósofo, y éste es sincero, tendrá que confesar que su estudio no ha llegado a resultados positivos comparables a los de las otras ciencias. Verdad es que esto se explica, en parte, por el hecho de que desde el momento en que se hace posible el conocimiento preciso sobre una materia cualquiera, esta materia deja de ser denominada filosofía y se convierte en una ciencia separada. Así, por ejemplo, todo el estudio del espacio que pertenece hoy a la astronomía, anticuadamente era un incluido en la filosofía. BALLON, José y otros Pensamiento Moderno y Contemporáneo'
+  pregunta1: '¿Cuál es la aspiración del filósofo?'
+  alternativas1: 
+    A: Desterrar los prejuicios religiosos y creencias sociales
+    B: Examinar críticamente el fundamento de la sociedad'.
+    C: Lograr un conocimiento integral de la realidad
+    D: Descubrir el conocimiento del universo infinito
+    E: La demostración crítica de la verdad universal
+  solucion1: 
+    alternativa: C
+    razon: '¿Cuál es la aspiración del filósofo? Lograr un conocimiento integral de la realidad. El autor señala que la filosofía aspira a aquel conocimiento que constituye el cuerpo de las diversas ciencias y, además, al que resulta de una valoración crítica de nuestros prejuicios y creencias. Es decir, la filosofía indaga acerca de todos los aspectos de la naturaleza y del hombre; su campo de estudio es sumamente amplio y diverso. '
+
+
+  pregunta2: 'La filosofía no ha logrado su cometido porque'
+  alternativas2: 
+    A: No cuenta con un método de investigación adecuado
+    B: Muestra incertidumbre respecto del universo
+    C: Las materias que trata suelen convertirse en ciencia
+    D: La esperanza de hallar una respuesta es remota
+    E: Se limita únicamente a desarrollar la ciencia
+  solucion2: 
+    alternativa: C
+    razon: 'La filosofía no ha logrado su cometido porque las materias que trata suelen convertirse en ciencia. La filosofía, según el texto, aspira al conocimiento. Sin embargo, hasta ahora no cuenta con resultados positivos comparables a los de las otras ciencias. Esto se da porque cada vez que la filosofía accede al conocimiento preciso de una materia, se funda una nueva ciencia y el resultado de la investigación pasa a ser parte de dicha ciencia. '
+
+  pregunta3: '¿Qué ha sucedido con los problemas que son susceptibles de una respuesta precisa?'
+  alternativas3:
+    A: Han resuelto la incertidumbre filosófica del hombre
+    B: Han experimentado el rechazo del saber filosófico
+    C: Han adquirido mayor importancia en la filosofía
+    D: Se han convertido en el valor de la filosofía natural
+    E: Han pasado a formar parte de las disciplinas científicas
+
+  solucion3:
+    alternativa: E
+    razon: '¿Qué ha sucedido con los problemas que son susceptibles de una respuesta precisa?  Han pasado a formar parte de las disciplinas científicas. Como ya concluimos anteriormente, cada vez que la filosofía obtiene un resultado positivo en alguna indagación, se funda otra ciencia. Por otro lado, se descarta la primera posibilidad, ya que en ningún caso un problema podría resolver una incertidumbre filosófica. '
+
+  pregunta4: 'Las cuestiones que no aceptan una solución específica constituyen:'
+  alternativas4:
+    A: La limitación de la filosofía
+    B: La base de la ciencia
+    C: Una hipótesis de la filosofía
+    D: El universo de lo incomprensible
+    E: El objeto de estudio de la filosofía
+
+  solucion4:
+    alternativa: E
+    razon: 'Las cuestiones que no aceptan una solución específica constituyen el objeto de estudio de la filosofía. Según el texto, todo problema resuelto pasa a ser conocimiento estrictamente científico, y ya no propiamente filosófico. ¿Qué ocurre entonces con aquellas cuestiones aún no esclarecidas? Siguen siendo parte de la investigación de los filósofos. '
+
+  pregunta5: '¿Cuál sería el título más apropiado para el fragmento?'
+  alternativas5:
+    A: Desarrollo del conocimiento científico
+    B: Decadencia del conocimiento filosófico
+    C: Limitaciones del conocimiento científico
+    D: Apariencia de la incertidumbre filosófica
+    E: Naturaleza del campo de acción de la filosofía
+
+  solucion5:
+    alternativa: E
+    razon: '¿Cuál sería el título más apropiado para el fragmento? Naturaleza del campo de acción de la filosofía. En el fragmento, el autor ha tratado de definir el objetivo de la filosofía y cómo el conocimiento filosófico va dando origen a la diversidad de ciencias existentes. Por ende, lo primordial es precisar cuál es el alcance del conocimiento filosófico y cómo se desenvuelve en relación a las otras ciencias. '

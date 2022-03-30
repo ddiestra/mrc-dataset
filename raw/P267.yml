@@ -1,0 +1,23 @@
+texto: 'A lo largo de un extenso proceso, los árabes habían ido recibiendo los fundamentos de la cultura, la filosofía y la ciencia griega y los supieron incorporar al legado cultural, filosófico y científico que transmitieron a Occidente. A través del helenismo y posteriormente del cristianismo de habla griega de las iglesias orientales, especialmente nestorianos y monofisitas, quienes realizaron las primeras traducciones siríacas de la filosofía griega, los árabes se inician en la filosofía y en la ciencia, que desarrollaron en muchos de sus ámbitos y llevaron consigo a los países conquistados en su rápida expansión hasta la Península Ibérica. En contacto con ellos, los cristianos latinos inician el proceso de redescubrimiento y asimilación de los autores griegos con los comentarios de los tratadistas árabes y se ponen las bases de la recuperación cultural y científica del Occidente latino, que llevó hasta el desarrollo científico del Renacimiento y de la Edad Moderna europea. La recepción del legado griego en el mundo árabe se había producido en dos momentos sucesivos y había tenido lugar en dos ambientes y culturas distintas: los cristianos griegos orientales hasta el siglo VI-VII y las traducciones impulsadas por los Califas musulmanes para hacer frente a las necesidades culturales y administrativas del califato de los abasíes. Con carácter previo al mundo musulmán, se desarrolla una labor de traducción de textos griegos a la lengua siríaca en los ambientes cristianos de Oriente por las necesidades sentidas por estos en el seno de la liturgia y los estudios propios de la vida cristiana y especialmente en el ámbito de la filosofía. A principios del siglo V d. C. se nos cuenta en la Peregrinatio Aetheriae que en los oficios litúrgicos celebrados en griego en Jerusalén se inter a la traducción al siríaco para que los fieles los comprendiesen. Por la misma razón debieron traducirse textos patrísticos y sobre todo el Nuevo Testamento. De Aristóteles se sabe que partes del Organon, junto con la Isagoge de Porfirio, fueron traducidas al siríaco y fragmentos de los Meteoros de Teofrasto solo se han conserv esta lengua. La gramática de Dionisio Tracio fue vertida al siríaco y el tratado de agricultura, Geopónica, de Casiano Baso, traducido al árabe desde el siríaco, puede estar en la base de los tratados agrícolas árabes. '
+pregunta1: '¿Cuál es el tema central del texto? '
+alternativas1: 
+  A: La influencia griega en la filosofía y ciencia arábiga 
+  B: La traducción siríaca de los filósofos helenísticos 
+  C: El descubrimiento y asimilación de los autores griegos 
+  D: La traducción de textos griegos al latín y al árabe
+
+solucion1: 
+  alternativa: A
+  razon: 'El texto tiene por tema central el modo como los árabes se iniciaron en filosofía y en ciencia, y esto se dio por influencia de los griegos a través de las traducciones siríacas. '
+  
+pregunta2: '¿Cuál es la idea principal del texto? '
+alternativas2:
+  A: Los árabes tradujeron a la lengua siríaca los textos más descollantes de todo el mundo helénico. 
+  B: La lengua siríaca fue el canal de comunicación entre los árabes y los cristianos 
+  C: Los árabes transmitieron a Occidente una ciencia y una filosofía influenciada por los griegos. 
+  D: Los cristianos de oriente tradujeron obras griegas para legárselos a los árabes de Occidente. 
+
+solucion2: 
+  alternativa: C
+  razon: 'El primer párrafo menciona que los árabes se iniciaron en ciencia y filosofía griega a partir de las traducciones siríacas de los textos helénicos. El producto de esta asimilación fue el legado que los árabes dejaron a Occidente durante y luego de su rápida expansión. '
+  

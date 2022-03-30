@@ -1,0 +1,76 @@
+texto:  
+    'La clave de la identificación de Jack el Destripador fue el tesón del escritor Russell Edwards, obsesionado con los crímenes cometidos a finales del siglo XIX y la suerte del destino. Tras comprar en 2007 un chaleco que pertenecía a una de las víctimas de Jack el Destripador, Catherine Eddowes, la segunda mujer asesinada en el distrito de Whitechapel, Edwards contactó con un experto genetista, el doctor Jari Louhelainen. Este consiguió extraer de la prenda el ADN de dos personas distintas gracias a que se había guardado durante años sin haber sido lavada previamente. Así pues, solo debía comparar el material genético del asesino con el de los sospechosos de la época para dar con el sanguinario asesino.
+    Evidentemente, todos los sospechosos están actualmente muertos por lo que el científico se las ingenió para dar con alguno de sus descendientes y realizar la comparación pertinente del ADN encontrado. Louhelainen consiguió ponerse en contacto con Matilda, una pariente británica de la hermana de un sospechoso llamado Aaron Kosminski. Matilda comparte el ADN mitocondrial con el presunto asesino.
+    Tras el análisis genético, el especialista comprobó que sus dos muestras de ADN coincidían en más de un 99%, un porcentaje que ascendió al 100% tras el segundo análisis. De hecho, fue capaz incluso de identificar la etnia y procedencia geográfica del ADN extraído, perteneciente al haplogrupo T1a1, común en las personas de etnia rusa y judía. Se confirmaba que Aaron Kosminski es el famoso Jack el Destripador.
+    Kosminski era un peluquero polaco que, en 1888, cuando se produjeron los cinco brutales crímenes en el barrio londinense de Whitechapel, tenía 23 años. La policía de Londres lo tenía entre ceja y ceja como uno de los principales sospechosos, pero la ciencia no estaba tan evolucionada como en la actualidad y, salvo por un testigo que lo situó en el escenario de uno de los crímenes, Kosminski estaba limpio.
+    Sin embargo, Scotland Yard seguía con la mosca detrás de la oreja y lo tuvo vigilado hasta que fue ingresado en un psiquiátrico. Según los documentos de la época, el sospechoso polaco era un “probable esquizofrénico paranoico con alucinaciones auditivas y propenso a masturbarse”. Poco después, en 1891, Kosminski ingresaría en un psiquiátrico hasta el día de su muerte en 1919, sin pisar una cárcel o ser juzgado por los crímenes que cometió.'
+    
+#1
+pregunta1: ¿Cuál es la mejor síntesis del texto? 
+
+alternativas1:  
+    A: El análisis genético efectuado por Louhelainen permitió identificar la etnia y procedencia geográfica de Kosminski, estableciéndose que pertenecía al haplogrupo T1a1, común en las personas de etnia rusa y judía.
+    B: Russell Edwards y Jari Louhelainen lograron determinar que A. Kosminski recibió la ayuda de algún contacto suyo en Scotland Yard para evitar su identificación como el temible asesino Jack el Destripador.
+    C: Una reciente investigación científica empleó muestras de ADN mitocondrial para concluir que los crímenes del barrio londinense de Whitechapel cometidos en el año 1888 fueron obra del célebre Jack el Destripador.
+    D: 'Tras muchos años de incógnita, gracias al análisis de ADN, un escritor junto con un especialista genético finalmente han descubierto la verdadera identidad de Jack el Destripador: un polaco llamado Aaron Kosminski.'
+    E: Aaron Kosminski fue un peluquero polaco que se convirtió en uno de los principales sospechosos de haber cometido los cinco brutales crímenes en el barrio londinense de Whitechapel a finales del siglo XIX.  
+
+solucion1:  
+    alternativa:  D
+    razon: El mejor resumen debe señalar a los responsables del hallazgo, los medios empleados y el resultado de la investigación.
+
+#2
+pregunta2:  En el último párrafo del texto, la expresión SEGUÍA CON LA MOSCA DETRÁS DE LA OREJA connota
+
+alternativas2:  
+    A: indefensión.
+    B: incomodidad.
+    C: suspicacia.
+    D: propensión.
+    E: incapacidad.
+
+solucion2:  
+    alternativa: C
+    razon: Scotland Yard aún sospechaba de Kosminski, razón por la cual lo vigilaron hasta su reclusión en un psiquiátrico.
+
+#3
+pregunta3: Se colige que los investigadores criminales londinenses del siglo XIX
+
+alternativas3:  
+    A: recibieron un soborno para dejar en libertad al sospechoso Aaron Kosminski.
+    B: no reunieron las pruebas suficientes para inculpar sólidamente a Kosminski.
+    C: sentaron las sólidas bases científicas de la moderna investigación genética.
+    D: ignoraban acerca de la existencia de la mujer llamada Catherine Eddowes.
+    E: mantuvieron bajo estricta vigilancia a A. Kosminski incluso en el psiquiátrico.
+
+solucion3:  
+    alternativa: B
+    razon: La policía sospechaba de Kosminski, pero no tenía pruebas contundentes. La ciencia no estaba tan desarrollada en aquella época.
+
+#4
+pregunta4: Resulta incompatible afirmar que la reciente identificación de Jack el Destripador
+
+alternativas4:  
+    A: habría sido imposible sin el desarrollo de la genética.
+    B: concluye un capítulo de la historia criminal londinense.
+    C: pudo llevarse a cabo con una cierta cuota de suerte.
+    D: se materializó muchos años después de los crímenes.
+    E: se debió exclusivamente a la investigación científica. 
+
+solucion4:  
+    alternativa: E
+    razon: La clave de la identificación de Jack el Destripador fue el tesón del escritor Russell Edwards, la investigación científica y algo de suerte.
+
+#5
+pregunta5: Si Scotland Yard no hubiera tenido sospechosos registrados en el caso de Jack el Destripador,
+
+alternativas5: 
+    A: el renombre de Louhelainen sería mayor que el que tiene hoy.
+    B: la identificación del asesino habría ocurrido de todos modos.
+    C: Kosminski habría seguido asesinando aun en el psiquiátrico.
+    D: Edwards publicaría un libro en coautoría con Louhelainen.
+    E: la identidad del asesino aún permanecería en el misterio.
+
+solucion5: 
+    alternativa: E
+    razon: Se comparó el material genético del asesino con el de los sospechosos de la época. Fue crucial el rol de Matilda, una pariente del sospechoso.

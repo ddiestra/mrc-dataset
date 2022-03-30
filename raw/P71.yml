@@ -1,0 +1,60 @@
+  texto: 'Todo empezó por una simple cosecha de remolacha, cuando en el año 1854, el científico francés Luis Pasteur investigó los problemas de la fermentación alcohólica generaba en la industria de transformación de remolacha en azúcar. Demostró que la fermentación se debía al desarrollo de un microorganismo que flota en el aire como vehículo, hasta que da con el medio donde afincarse y reproducirse. De ahí que, el científico ideó unos ingeniosos procesos de esterilización que se conoce con el nombre de pasteurización. Los esfuerzos de Pasteur se encaminaron entonces hacia el campo de la bacteriología. Así, sentó las bases de la medicina moderna y descubrió agentes microbianos causantes de las enfermedades infecciosas. Propuso además que los cirujanos esterilizaran sus instrumentos por medio del calor, para evitar proliferación de gérmenes en los quirófanos. Todas sus iniciativas en este sentido, junto con la magnitud de sus descubrimientos, contribuyeron decisivamente a mejorar la esperanza de vida del hombre, que se mantiene alrededor de los 70 años.'
+  pregunta1: 'De acuerdo al texto, la finalidad de la investigación de Pasteur fue'
+  alternativas1:
+    A: Eliminar las enfermedades infecciosas
+    B: Mejorar las cosechas de remolacha
+    C: Producir mayor cantidad de azúcar
+    D: Explicar la fermentación alcohólica
+    E: Mejorar la salud de los trabajadores azucareros
+
+  solucion1:
+    alternativa: D
+    razon: '"... investigó los problemas que la fermentación alcohólica generaba en la industria de transformación de remolacha en azúcar. Demostró que la fermentación se debía al desarrollo de un microorganismo..." Por el contenido de este fragmento se entiende que, si se dedicó a investigar, porque quería conocer las causas y efectos de la fermentación alcohólica. Cuando más adelante nos dice: "Demostró en esta parte la lectura afirma que logró su objetivo científico. '
+
+  pregunta2: 'El aumento de esperanza de vida se debió a que'
+  alternativas2: 
+    A: Aumentó el número de cirujanos
+    B: Hubo mayor número de nacimientos
+    C: Mejoró la producción de azúcar
+    D: Mejoró la producción de alcohol
+    E: Se identificó la causa de las infecciones
+  
+  solucion2:
+    alternativa: E
+    razon: '"Todas sus iniciativas se refieren a los esfuerzos que hizo Pasteur al encaminar sus investigaciones al campo de la bacteriología junto con la magnitud de sus descubrimientos, contribuyeron a mejorar la esperanza de vida del hombre". Por lo señalado, hoy tenemos mejores esperanzas de vida; pero sobre todo por lo que la misma lectura lo indica: "Así, sentó las bases de la medicina moderna y descubrió agentes microbianos causantes de las enfermedades infecciosas". Sus iniciativas, esfuerzos y descubrimientos ayudaron a identificar los agentes causantes de las enfermedades infecciosas. '
+
+  pregunta3: 'Lo decisivo de la investigación de Pasteur fue demostrar'
+  alternativas3:
+    A: La causa de la fermentación
+    B: Las consecuencias de la fermentación
+    C: Las aplicaciones de la fermentación
+    D: Los factores de la fermentación
+    E: Los elementos de la fermentación
+  
+  solucion3: 
+    alternativa: A
+    razon: 'Cuando el texto nos dice ".... investigó ... Demostró que la fermentación se debía al desarrollo de un microorganismo que flota en el aire..." con ello se indica implícitamente que Pasteur ya tenía una idea inicial, es decir, una hipótesis; lo que restaba ahora era comprobarlo, lo cual hizo hasta poder demostrarlo. '
+
+  pregunta4: 'El título más adecuado para el texto es'
+  alternativas4:
+    A: Las enfermedades infecciosas
+    B: La modificación de la esperanza de vida
+    C: Los procesos de esterilización
+    D: Los aportes de Pasteur a la medicina
+    E: Los descubrimientos de Pasteur
+
+  solucion4:
+    alternativa: D
+    razon: '¿De qué trata básicamente la lectura? El aspecto fundamental es el científico Pasteur. ¿Qué se dice de Pasteur? Que la investigación sobre la fermentación alcohólica lo llevo al campo de la bacteriología y que sentó las bases de la medicina y descubrió los agentes microbianos. Por lo tanto, la medicina le debe mucho a Pasteur. De ello deducimos que la respuesta sería los aportes de Pasteur a la medicina. '
+
+  pregunta5: 'De la lectura del texto se deduce que "esterilización" es opuesto a'
+  alternativas5:
+    A: Dispersión
+    B: Neutralización
+    C: Acumulación
+    D: Proliferación
+    E: Cocción
+  
+  solucion5:
+    alternativa: D
+    razon: '"Propuso además que los cirujanos esterilizaron sus instrumentos por medio del calor, para evitar la proliferación de gérmenes en los quirófanos." De ello es fácil comprender que la esterilización se opone a la proliferación. '

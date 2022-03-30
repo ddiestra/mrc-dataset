@@ -1,0 +1,96 @@
+texto:  'Mientras la población de Estados Unidos continúa creciendo, su producción colectiva
+        de basura —la cual superó los 227 millones de toneladas el año pasado— también va en
+        aumento. Para maximizar la capacidad de los vertederos modernos, los trabajadores
+        comprimen y esculpen los crecientes montículos de basura. Pero con el trabajo sucio
+        también surgen oportunidades. Cuando la basura se desintegra, la materia orgánica
+        produce dióxido de carbono y metano, un gas potente que puede quemarse para obtener
+        grandes cantidades de energía.
+        En las centrales eléctricas de algunos vertederos, este método se usa para producir
+        casi 15 000 millones de kilovatios-hora, suficiente para proporcionar energía a casi un millón
+        de hogares durante un año. Más de 600 proyectos energéticos en basureros entubados
+        envían los gases a la superficie en todo Estados Unidos, menos Alaska y Hawái. California,
+        con 75, es el estado que más tiene. La Agencia de Protección Ambiental de Estados Unidos
+        clasificó la energía proveniente del gas de los basureros, junto con la eólica y la solar, como
+        una alternativa ecológicamente eficiente para producir energía.
+        En busca de nuevas fuentes de ingresos, algunos Estados y compañías privadas han
+        invertido en tecnologías que convierten la basura en otras sustancias valiosas, como
+        petróleo crudo o etanol. «La meta es extraer el máximo valor de todo lo que pasa por estas
+        instalaciones», dice la ejecutiva de una compañía de desechos, Lynn Brown. Otros países
+        ponen a prueba estrategias similares. 
+        Una empresa en Bélgica planea aprovechar los gases de un vertedero de los años
+        sesenta. Al demostrarse que la basura puede ser valiosa, Suecia ha empezado a importar
+        desechos de Noruega para incinerarlos y satisfacer una demanda creciente de energía.'
+    
+preguntas:    
+  - pregunta: Principalmente, el texto informa que
+    alternativas:
+        A:  más de 600 proyectos energéticos en basureros entubados envían los gases a la
+            superficie.
+        B:  la materia orgánica produce dióxido de carbono y metano cuando la basura se
+            desintegra.
+        C:  la producción colectiva de basura ha aumentado de manera alarmante en Estados
+            Unidos.
+        D:  algunos Estados han invertido en tecnologías que permiten convertir la basura en
+            energía.
+        E:  la basura se erige como una oportunidad para generar energía de manera
+            ecológica.
+    solucion:
+      alternativa: E
+      razon:  De acuerdo con el tema central, la idea principal afirma que una nueva
+              forma de generar energía sin afectar el medio ambiente es mediante el uso adecuado
+              de basura.
+
+  - pregunta: En el texto, el vocablo MAXIMIZAR connota una actividad
+    alternativas:
+        A: proficua. 
+        B: indigna. 
+        C: numerosa.
+        D: extensa. 
+        E: peligrosa.
+    solucion:
+      alternativa: A
+      razon:  El verbo se usa para aludir al aprovechamiento máximo de espacio
+              en los contenedores de basura. Por ello, connota una actividad provechosa, esto es,
+              PROFICUA.
+
+  - pregunta: Resulta incompatible sostener que la basura desintegrada
+    alternativas:
+        A: permitiría conseguir energía evitando la contaminación del planeta.
+        B: genera solo negativos e irreversibles efectos en el medio ambiente.
+        C: es una manera ecológica, eficiente y alternativa de producir energía.
+        D: es utilizada en más de 600 proyectos energéticos en Estados Unidos.
+        E: se usa de forma más extendida en el Estado americano de California.
+    solucion:
+      alternativa: B
+      razon:  En el texto se indica que el metano puede producir energía al
+              quemarse; por consiguiente, es contrario al texto afirmar que solo causa efectos
+              negativos.
+
+  - pregunta: Según el texto, la generación de energía mediante el uso de basura
+    alternativas:
+        A:  aprovecha la quema del metano, potente gas que haría posible contaminar el
+            ambiente.
+        B:  permitirá contrarrestar parcialmente la contaminación ambiental de nuestro
+            planeta.
+        C:  el dióxido de carbono también se aplica en casos en los que falta energía eólica.
+        D:  resulta innecesaria debido al aprovechamiento mayúsculo de recursos para tales
+            fines.
+        E:  ya está siendo aplicado en varios países latinoamericanos con resultados muy
+            promisorios.
+    solucion:
+      alternativa: B
+      razon:  Al ser una alternativa ecológica, se desprende que con esta forma de
+              obtener energía, se contrarrestará la contaminación ambiental.
+
+  - pregunta: Si la quema de metano expusiera al planeta a altas emisiones de CO2,
+    alternativas:
+        A: sería irrelevante obtener energía mediante el aire.
+        B: los países que la practican invertirían menos dinero.
+        C: los contenedores de basura tendrían que desaparecer.
+        D: dejaría de ser una forma ecológica de generar energía.
+        E: tendría que quemarse la basura en depósitos profundos.
+    solucion:
+      alternativa: D
+      razon:  La quema de metano permitiría obtener energía de manera ecológica.
+              Si este procedimiento más bien generara mayores emisiones de CO2, sería más bien
+              un peligroso factor contaminante.

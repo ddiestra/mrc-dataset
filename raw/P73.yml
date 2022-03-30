@@ -1,0 +1,60 @@
+  texto: 'Las figuras de este mundo, no son para la literatura, más que motivos. El valor de sus creaciones radica en la eficacia representativa o simbólica de estas figuras, no en el problema de su "autenticidad", de "cómo suceden realmente las cosas". Por eso la literatura gusta de crear sus figuras inspirándolas con absoluta libertad en su mundo de formas, aunque a veces, por motivos especiales, las saque de la verdadera "historia", es decir, del mundo del pasado, concibiéndolo como lo "realmente sucedido". La literatura descifra constantemente una serie de problemas cósmicos o humanos que la ciencia, con sus formas propias de expresión, no aborda ni se halla tal vez en condiciones de abordar. La fuerza de las formas literarias comparada con la de las ciencias del pasado humano y de la sociedad, radica en su absoluta flexibilidad espiritual, en su libertad de composición, en las posibilidades infinitas de sugestión que encierran. Su flaqueza reside, en cambio en la incoherencia de sus creaciones entre sí y en su eterna vaguedad. Para saber si un escritor trabaja con métodos históricos o con métodos literarios, hay un criterio concluyente: analizar el impulso espiritual a que responde su obra creativa. Si no se advierten en él, por encima de todo, en anhelo de la "autenticidad", el deseo sincero y profundo de describir cómo algo concreto "sucedió en realidad" o "qué conexión" presenta, lo que produce no será Historia.'
+  pregunta1: 'La literatura descifra constantemente:'
+  alternativas1:
+    A: Problemas cósmicos o humanos.
+    B: Asuntos cotidianos y domésticos.
+    C: Temas políticos y económicos.
+    D: Valores éticos.
+    E: Aspiraciones artísticas.
+
+  solucion1:
+    alternativa: A
+    razon: '"La literatura descifra constantemente una serie de problemas cósmicos o humanos, que la ciencia... no aborda." En estas líneas radica el fundamento de la alternativa. '
+
+  pregunta2: '¿Qué conceptos compara fundamentalmente el párrafo?'
+  alternativas2: 
+    A: Las figuras y la autenticidad.
+    B: La ciencia y la historia.
+    C: La literatura y la ciencia.
+    D: La historia y la literatura.
+    E: La imaginación y la verdad.
+  
+  solucion2:
+    alternativa: D
+    razon: '"Para saber si un escritor trabaja con métodos históricos o con métodos literarios, hay un criterio concluyente: analizar el impulso espiritual a que responde su obra creadora." Si se acerca a la autenticidad, es historia, si se aleja de ella es novela. '
+
+  pregunta3: 'La virtud y el defecto principales de la literatura, según el autor, son:'
+  alternativas3:
+    A: La representación y la autenticidad.
+    B: La libertad y la vaguedad.
+    C: La flexibilidad y la inautenticidad.
+    D: La exactitud y la incoherencia.
+    E: El realismo y la ficción.
+  
+  solucion3: 
+    alternativa: B
+    razon: '"La fuerza de las formas literarias.... radica en su absoluta flexibilidad espiritual... Su flaqueza reside, en cambio, en la incoherencia de sus creaciones entre sí y en su eterna vaguedad." Si se observan las palabras resaltadas comprenderás el motivo por el cual la B: es la respuesta. '
+
+  pregunta4: 'La fuerza de las formas literarias comparada con la de las ciencias de la sociedad, radica fundamentalmente en la:'
+  alternativas4:
+    A: Necesidad y trascendencia.
+    B: Influencia y crítica moral.
+    C: Imaginación y libertad espiritual.
+    D: Capacidad de invención.
+    E: Búsqueda de  hechos concretos.
+
+  solucion4:
+    alternativa: C
+    razon: '"La fuerza de las formas literarias comparada con la de las ciencias del pasado humano y de la sociedad, radica en su absoluta flexibilidad espiritual, en su libertad de composición en las posibilidades infinitas de sugestión que encierran". Con la expresión absoluta flexibilidad espiritual se da a entender libertad espiritual, en tanto que no está supeditada a nada. Con la expresión libertad de composición se insinúa disponer de las ideas como uno las considere más convenientes, es decir, según su imaginación. '
+
+  pregunta5: 'De acuerdo con el texto, ¿qué rasgo determina en una obra su carácter de Historia?'
+  alternativas5:
+    A: La simbología
+    B: La sabiduría
+    C: La autenticidad
+    D: La racionalidad
+    E: La ficcionalidad
+  
+  solucion5:
+    alternativa: C
+    razon: 'Según el texto, si en la obra no se advierte anhelo de "autenticidad" en lo que se produce no hay historia; en consecuencia, si en la obra existe anhelo de "autenticidad" en tal caso si hay historia. '

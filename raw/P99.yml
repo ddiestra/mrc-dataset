@@ -1,0 +1,24 @@
+texto: 'Los perros tienen el cerebro más grande que los gatos porque son más sociables, mientras que los felinos llevan una existencia más solitaria. A esta conclusión llegaron investigadores de la Universidad de Oxford (Reino Unido) tras analizar la historia evolutiva del cerebro de diferentes mamíferos durante los últimos 60 millones de años. Según publicaban Susanne Shultz y sus colegas en la revista PNAS, existe un vínculo entre el tamaño del cerebro y el grado de sociabilidad de un determinado mamífero. Así, los cerebros que más han crecido a lo largo del tiempo pertenecen a monos, seguidos de caballos, delfines, camellos y perros. El trabajo muestra también que animales más solitarios como los gatos, los ciervos y los rinocerontes apenas han aumentado el tamaño de su materia gris durante el mismo período de tiempo. Del estudio también se deduce que los mamíferos con el cerebro grande tienen a vivir en grupos socialmente estables. "La cooperación y coordinación que se necesitan para vivir en grupo suponen un reto, y a lo largo del tiempo algunos mamíferos han desarrollado un cerebro más grande para atender a esas demandas de la socialización", concluye Schultz.'
+pregunta1: 'En el texto se plantea centralmente que'
+alternativas1: 
+  A: Los mamíferos tienen el cerebro mas grande que los demás animales
+  B: Los animales solitarios apenas han aumentado su capacidad cerebral
+  C: La cooperación entre los mamíferos representa para ellos un reto
+  D: Los perros son mas inteligentes que los gatos estudios de Oxford
+  E: La sociabilidad de los mamíferos determina su mayor capacidad cerebral
+
+solucion1: 
+  alternativa: E
+  razon: ''
+
+pregunta2: 'Si los seres humanos no hubiesen desarrollado una alta socialización'
+alternativas2:
+  A: Su masa cerebral sería similar a la de los otros primates
+  B: El desarrollo de la inteligencia habría estado limitado
+  C: La cooperación entre humanos sería lo más cotidiano
+  D: Todos los mamíferos hubiesen superado al hombre
+  E: Su materia gris se hubiese incrementado de todos modos
+
+solucion2: 
+  alternativa: B
+  razon: ''

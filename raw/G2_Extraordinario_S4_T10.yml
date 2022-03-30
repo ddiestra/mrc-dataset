@@ -1,0 +1,101 @@
+texto:  'Un ordenador no tiene como los coches un tubo de escape que expulse los humos
+        malolientes. Pero aunque a estos aparatos nadie les note su efecto dañino para el medio
+        ambiente, a la hora de generar la electricidad necesaria para su uso se producen
+        abundantes gases de efecto invernadero.
+        «Hemos averiguado que la visita a una página web genera cada segundo una emisión
+        de alrededor de 20 miligramos de dióxido de carbono» dice el físico estadounidense Alex
+        Wissner-Gross, que se dedica a elaborar balances ecológicos para páginas web.
+        Eso sí, los expertos aún discuten sobre las dimensiones exactas de las búsquedas en
+        Internet sobre el impacto medioambiental. La empresa Google calcula que cada búsqueda
+        conlleva 0.2 gramos de emisiones de CO2. Si uno multiplica esta cifra con las 103 millones
+        de búsquedas diarias que se realizan por ejemplo en España, el resultado es de 20
+        toneladas al día. Si solo tenemos en cuenta el consumo energético de los servidores. Si
+        uno tiene en cuenta todas las actividades tecnológicas relacionadas, incluido el uso de
+        ordenadores privados, según la empresa de consultores estadounidense Gartner,
+        aproximadamente el 2% de todas las emisiones de CO2 se deben a las actividades
+        «virtuales».
+        Un especial derroche supone el mantenimiento de mundos virtuales de juego como
+        es el Second Life. Se estima que en todo momento a nivel mundial hay un promedio de
+        entre 10 000 y 15 000 seres artificiales activos, los así llamados «avatares». Multiplicado
+        este dato con el consumo estándar de los ordenadores PC (120 vatios), los servidores (200
+        vatios) así como el aire acondicionado necesario para las naves donde se encuentran los
+        servidores (alrededor de 50 vatios por servidor), el resultado son 60 000 kilovatios por hora o
+        unos 4,8 kilovatios por hora cada persona y día.
+        Esto significa que una persona «artificial», es decir, un usuario consume 1.752
+        kilovatios hora anuales. Una cifra elevadísima teniendo en cuenta que un latinoamericano
+        de carne y hueso consume más de 2 000 kilovatios por hora. Por ejemplo, en el año 2002,
+        cada ciudadano mexicano consumió una media de 2 280 kilovatios hora. Eso sí: mientras
+        el uso de Internet sustituya otras actividades que consumen mucha energía, por ejemplo
+        un viaje en coche a la biblioteca, el balance medioambiental resulta positivo.'
+    
+preguntas:    
+  - pregunta: En el texto, el término CONLLEVA puede ser reemplazado por
+    alternativas:
+        A: traslada. 
+        B: ocasiona. 
+        C: transfiere. 
+        D: conserva. 
+        E: inmoviliza.
+
+    solucion:
+      alternativa: B
+      razon:  Según Google, cada búsqueda en Internet trae consigo la emisión de 0.2
+              gramos de CO2, en otras palabras, las búsquedas en Internet producen u ocasionan
+              la emisión de CO2.
+
+  - pregunta: El autor afirma principalmente que la producción de electricidad necesaria para el uso
+              de ordenadores y el funcionamiento de Internet a nivel mundial
+    alternativas:
+        A: exige una enorme oferta de energía eléctrica para que funcionen.
+        B: es la principal causa del calentamiento global porque produce CO2.
+        C: produce gases de efecto invernadero, con ello calentamiento global.
+        D: implica derroche energético para hacer funcionar el mundo virtual.
+        E: produce más de veinte toneladas de dióxido de carbono en España.
+
+    solucion:
+      alternativa: C
+      razon:  El uso de los ordenadores y el funcionamiento de Internet implican la
+              producción de enormes cantidades de energía eléctrica para utilizar los ordenadores
+              y de esta manera mantener activo los mundos virtuales.
+
+  - pregunta: Es compatible sostener que la medida de las dimensiones exactas de las búsquedas
+              en Internet sobre el impacto medio ambiental
+    alternativas:
+        A: carece de consenso entre los peritos en el tema.
+        B: es resultado de investigaciones de latinoamericanos.
+        C: es calculada con datos a nivel local y regional.
+        D: se deduce analizando solo ordenadores públicos.
+        E: registra veinte toneladas de CO2 en nuestro país. 
+    solucion:
+      alternativa: A
+      razon:  En el tercer párrafo apreciamos que los expertos aún discuten sobre las
+              dimensiones exactas de las búsquedas en Internet sobre el impacto perjudicial al
+              medio ambiente.
+
+  - pregunta: Se colige del texto que los «avatares» o personas «artificiales»
+    alternativas:
+        A: son personas irresponsables. 
+        B: son ajenos a sus quehaceres.
+        C: no son de carne y hueso. 
+        D: son hombres indolentes.
+        E: están siempre ocultándose.
+    solucion:
+      alternativa: C
+      razon:  Los “avatares” o personas “artificiales” solo tienen existencia en el mundo
+              virtual, es decir, son producto de datos eléctricos binarios de los ordenadores. De ahí
+              que no sean personas ni de carne ni de hueso.
+
+  - pregunta: Si en el año 2022 las personas «artificiales» de todo el mundo consumieran solo 500 kilovatios/hora por año, es probable que
+    alternativas:
+        A: estén pasando menos tiempo en el mundo virtual.
+        B: se haya acabado súbitamente el mundo virtual.
+        C: la oferta de electricidad mundial haya desaparecido.
+        D: hayan reconocido el papel nocivo de la electricidad.
+        E: las computadoras tengan ya un tubo de escape.
+    solucion:
+      alternativa: A
+      razon:  De la lectura podemos inferir que las personas “artificiales” pasan mucho
+              tiempo en el mundo virtual, por esta razón el consumo de electricidad tiene un registro
+              elevado. Si en el futuro ese registro disminuyera casi a la mitad, entonces se debería 
+              a que las personas de carne y hueso estarían pasando menos tiempo en el mundo
+              virtual.

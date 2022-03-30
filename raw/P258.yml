@@ -1,0 +1,34 @@
+texto: 'El hígado es el órgano más grande del organismo y metabólicamente más complejo del cuerpo, suele denominarlo nuestro “héroe anónimo”, funciona como si fuera un laboratorio químico, llevando a cabo muchas funciones vitales, más de 500, que van desde la degradación y excreción de sustancias tóxicas hasta el procesamiento de nutrientes y la producción de sustancias como factores vitamina K dependientes, que forman coágulos de sangre y ayudan a detener el sangrado. Entre el trabajo que realiza este órgano están el almacenamiento y distribución de nutrientes y desecho de toxinas. El hígado está ubicado en la cavidad abdominal, tiene forma cónica y es de color rojo pardo por su alto contenido de sangre, además, pesa aproximadamente 1,5 kg. Este órgano interviene en la síntesis y degradación de carbohidratos, grasas, proteínas y lípidos, necesarios para mantener equilibrio en la función energética del organismo. El hígado es el único órgano que pude regenerarse a sí mismo, haciendo posible que una persona pueda donar una parte de su hígado, pues únicamente necesitamos hasta el 20% de su capacidad para poder vivir. Para los griegos, el hígado era considerado el origen de las emociones y lo veían como el órgano más cercano a la divinidad. De los cuidados que le dé al hígado, depende el buen funcionamiento y se recomienda para su cuidado comer de forma saludable; evitar consumo de medicamentos, vitaminas, suplementos nutricionales e hierbas innecesarias, o consumirlas solo bajo la supervisión médica y sin exceso; baja ingesta de alcohol, que no debe sobrepasar la capacidad metabólica; realizar alguna actividad física diaria; vacunarse contra el virus de la hepatitis B; realizarse la prueba para descartar infección por virus de hepatitis C.'
+pregunta1: '¿Qué quiere decir el autor al mencionar que el hígado es un laboratorio químico?'
+alternativas1: 
+  A: Que es el órgano más importante del cuerpo del ser humano
+  B: Que posee los medios necesarios para resolver problemas complejos
+  C: Que es el más grande de todos
+  D: Que realiza una serie de funciones conservadoras y excretoras
+
+solucion1: 
+  alternativa: B
+  razon: 'Que posee los medios necesarios para resolver problemas complejos.  '
+
+pregunta2: '¿Cuál de estas Preguntas no satisface el texto?'
+alternativas2:
+  A: ¿Qué características posee el hígado?
+  B: ¿Cuánto es la capacidad del hígado para el funcionamiento corporal?
+  C: ¿Cuáles son los síntomas de la hepatitis A y la hepatitis C?
+  D: ¿Cuántas funciones exactamente realiza el hígado?
+
+solucion2: 
+  alternativa: C
+  razon: '¿Cuáles son los síntomas de la hepatitis A y la hepatitis C? '
+  
+pregunta3: 'Un subtítulo adecuado para el primer párrafo sería:'
+alternativas3:
+  A: 'El hígado: funciones fisiológicas'
+  B: Consideración y funciones del hígado
+  C: Valoración de las funciones hepáticas
+  D: Definición y características del hígado
+
+solucion3: 
+  alternativa: B
+  razon: 'Consideración y funciones del hígado. '
+

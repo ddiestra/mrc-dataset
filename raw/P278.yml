@@ -1,0 +1,12 @@
+texto: 'Una coincidencia sin parangón en el sistema solar: el diámetro del Sol es 400 veces mayor que el de la Luna, y esta se halla 400 veces más cerca de la Tierra que el Sol, lo que permite que la Luna cubra el disco solar al pasar entre la Tierra y el Sol.  Si el diámetro de la Luna fuera 225 kilómetros menor, la totalidad no se daría, y los observadores nunca verían la corona. Desde hace mucho se han datado los sucesos mediante el registro de eclipses; quizás un escribano chino fue el primero en documentar uno hace cuatro mil años. Los eclipses totales de Sol están condenados a la extinción.  Si la Luna continúa alejándose de la Tierra tres centímetros al año, en mil millones de años estará demasiado lejos para cubrir el Sol.'
+pregunta1: '¿Cuál es la idea principal del texto?'
+alternativas1:
+  A:  La corona del Sol no podría verse si la Luna estuviera más alejada de la Tierra, y eso ocurrirá en mil millones de años aproximadamente.
+  B:  La conjunción entre el diámetro solar y la proximidad de la Luna a la Tierra hacen posible que podamos presenciar eclipses totales de Sol.
+  C:  Un escribano chino fue el primero en establecer un registro preciso acerca de uno de los eclipses de Sol que ocurrieron hace 4000 años.
+  D:  La Luna está más próxima a la Tierra que el Sol, pero se aleja a razón de tres centímetros por año, lo cual hace peligrar los eclipses.
+  E:  El diámetro del sol es 400 veces mayor que el de la Luna, y esta propiedad permite que los eclipses de Sol sean visualizados.
+
+solucion1:
+  alternativa: D
+  razon: 'El texto desarrolla de manera esencial el tema de la conjunción entre el diámetro del Sol y la proximidad de la Luna a la Tierra, coincidencia que determina la ocurrencia de eclipses en nuestro planeta.'

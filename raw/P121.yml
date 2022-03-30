@@ -1,0 +1,12 @@
+  texto: La lógica ha sido a menudo definido corno la ciencia de las leyes del pensamiento. Pero esta definición, aunque ofrece un indicio acerca de la naturaleza de la lógica, no es exacta. Si "pensamiento" es cualquier proceso mental que se produce en la mente de las personas, no todo pensamiento es un objeto de estudio para el lógico. Todo razonamiento es pensamiento, pero no todo pensamiento es razonamiento. Es posible "pensar" en un número entre uno y diez sin elaborar ningún razonamiento acerca de él. COPI, Irving Introducción a la lógica
+  pregunta1: El mejor resumen del texto es
+  alternativas1: 
+    A: La definición de la lógica parte del esclarecimiento de los procesos mentales como pensamiento y razonamiento.
+    B: Las leyes generales del pensamiento no se pueden comparar a las leyes particulares del razonamiento humano.
+    C: La lógica no puede ser definida tornando como referencia las leyes del pensamiento y del razonamiento.
+    D: La definición de la lógica debe considerar el concepto de razonamiento ya que es más preciso que el de pensamiento.
+    E: El pensamiento posee una carga de significado mucho más amplia que el razonamiento; así, no todo pensamiento es razonamiento.
+
+  solucion1:
+    alternativa: D
+    razon: 'El mejor resumen del texto es la definición de la lógica debe considerar el concepto de razonamiento ya que es más preciso que el de pensamiento. El autor critica la definición general de lógica, pues le parece inexacto utilizar la palabra pensamiento debido a su amplitud. Más preciso sería hablar del estudio del razonamiento, forma de pensamiento afín a la naturaleza de la lógica. '

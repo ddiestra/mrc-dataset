@@ -1,0 +1,60 @@
+  texto: '"Realismo" es el nombre que se da a la actitud que se atiende a los hechos, tal como ellos son, sin pretender sobre ponerles interpretaciones que las falseen, o sin aspirar a violentarlos en función de los propios deseos. En el primer caso, realismo equivale a una cierta forma de positivismo, ya que, vistos así, los hechos son considerados como hechos positivos, por no decir concretos, y, en cuanto tales, diferentes de las imaginaciones, las teorías, etc. En el segundo caso, estamos frente a una actitud práctica, una norma o un conjunto de normas para la acción. El llamado "realismo político" pertenece a este realismo práctico. Algunos estiman que sin este realismo no se puede conocer (y por lo tanto dominar) nada de la realidad, y que conocer (y dominar) esta última equivale a obedecerla estrictamente. Otros argumentan que las ideas y los ideales son tan operantes por lo menos como los propios "hechos", y que un "realismo completo" debería ser lo mismo que un "positivismo total", y, por lo tanto, incluirlos también.'
+  pregunta1: '¿En qué consiste "realismo total"?'
+  alternativas1:
+    A: En excluir las imaginaciones, ideales, teorías
+    B: En tomar en cuenta los hechos positivos y negativos
+    C: En no limitar lo que es a sólo ciertos aspectos de la realidad
+    D: En interpretar los hechos de acuerdo al realismo positivo
+    E: En considerar que los deseos no son parte de la realidad
+
+  solucion1:
+    alternativa: C
+    razon: 'El texto indica que el "realismo completo" debería ser lo mismo que un "positivismo total", y, por lo tanto, incluirlos también (en este caso se hace referencias a los hechos, pero además a las ideas y los ideales) ya que aquellos también son operativos) Por lo tanto, se debe contener en cuanto todos los factores o aspectos. '
+
+  pregunta2: 'El realismo práctico significa'
+  alternativas2: 
+    A: Asumir un conjunto de normas morales
+    B: Adoptar una posición pragmática con miras a la acción
+    C: Adoptar una política práctica
+    D: Asumir una posición basada en hechos positivos
+    E: Practicar un realismo normativo
+  
+  solucion2:
+    alternativa: B
+    razon: '"En el segundo caso, estamos frente a una actitud práctica una norma o un conjunto de normas para la acción. El llamado "realismo práctico. En consecuencia, el realismo práctico implica adoptar una posición pragmática para la acción. '
+
+  pregunta3: '¿Cuál es el sentido de obedecer estrictamente a la realidad?'
+  alternativas3:
+    A: Asumir una actitud de obediente subordinación
+    B: Someterse a las prescripciones de la realidad
+    C: Comprender y operar sobre la realidad
+    D: No sobrepasar las carencias de la realidad
+    E: Convertir la sujeción en dominio de la realidad
+  
+  solucion3: 
+    alternativa: C
+    razon: '"Algunos estiman que sin este realismo no se puede conocer (y por lo tanto dominar) nada de la realidad, y que conocer (y dominar) esta última equivale a obedecerla estrictamente". Para dominar a la realidad primero tenemos que conocerla y operar (dominar) sobre ella. '
+
+  pregunta4: '¿En qué sentido pueden ser operantes las ideas y los ideales?'
+  alternativas4:
+    A: En el sentido de que son siempre activos
+    B: En el sentido de que operan entre sí
+    C: En el sentido de que también pueden influir en los hechos
+    D: En el sentido de que son operables
+    E: En el sentido de que son operaciones positivas
+
+  solucion4:
+    alternativa: C
+    razon: '"Las ideas y los ideales son tan operantes... como los propios "hechos". Tan operantes significa en la lectura que pueden influir sobre la realidad i los hechos de ella. '
+
+  pregunta5: '¿En qué consiste el realismo político?'
+  alternativas5:
+    A: En dominar por completo la realidad
+    B: En sujetarse a un conjunto de normas
+    C: En asumir una actitud práctica para conocer y dominar la realidad
+    D: En actuar tomando en cuenta las interpretaciones positivas de la realidad
+    E: En adecuar la realidad a las normas
+  
+  solucion5:
+    alternativa: C
+    razon: '"El llamado "realismo político" pertenece a este realismo práctico". El mismo que permite conocer y dominar la realidad. '

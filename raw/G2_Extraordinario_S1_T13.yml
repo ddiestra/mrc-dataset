@@ -1,0 +1,91 @@
+texto:  'De acuerdo con un nuevo estudio evolutivo, las especies venenosas de peces
+        superan en número no solo a las serpientes sino, en conjunto, a todo tipo de vertebrados
+        venenosos. En total, los océanos, lagos y ríos del mundo albergan a más de 1200
+        especies de peces venenosos, según el último número de la revista Journal of Heredity,
+        publicada por los Investigadores del Museo Americano de Historia Natural (AMNH, por
+        sus siglas en inglés). Anteriormente, los científicos estimaban que había solo 200 peces
+        venenosos.
+        Hasta el reciente estudio, los científicos calculaban el número de especies de peces
+        venenosos con base en los documentos médicos que registran los encuentros entre
+        peces y humanos, y no en investigaciones biológicas o evolutivas. Por esto, los
+        investigadores del AMNH tomaron a las especies venenosas conocidas —que incluyen al
+        pez piedra, pez gato, pez león, pez escorpión, pez sapo, pez rata, entre otras familias— y
+        trataron de determinar cómo estaban relacionadas entre ellas y los demás peces. «Se
+        tiene que saber la relación que existe entre ellas para afirmar si son venenosos o no»,
+        comentó Ward C. Wheeler, coautor del estudio y encargado de la división de zoología
+        invertebrada del museo.
+        El equipo de Wheeler utilizó secuencias de ADN y simulaciones de computadora
+        para reconstruir el árbol genealógico de los peces venenosos, y poder llegar hasta su 
+        ancestro común. Así, utilizaron el renovado árbol evolutivo para predecir qué especies
+        serían venenosas, y poner a prueba, al buscar mecanismos venenosos, a más de cien
+        especies. La evidencia física corroboró las predicciones del árbol de ADN: una mayor
+        cantidad de peces venenosos.
+        El estudio también plantea interrogantes sobre los peces venenosos modernos. De
+        acuerdo con los pocos estudios de peces que se han realizado, solo algunas especies,
+        por ejemplo el pez león, utilizan su veneno para atacar, como lo hacen las serpientes. La
+        mayoría lo usa para defenderse de los predadores.'
+    
+preguntas:    
+  - pregunta: Principalmente, el autor sostiene que
+    alternativas:
+      A: en el marco de un nuevo estudio evolutivo, las especies venenosas de peces superan a todo tipo de vertebrados venenosos.
+      B: los peces venenosos han evolucionado con tales características con la finalidad de defenderse ante potenciales predadores.
+      C: un nuevo estudio genético ha demostrado que el árbol evolutivo de peces venenosos es más complejo y divergente.
+      D: en total, los océanos, lagos y ríos del mundo albergan a más de 1200 especies de peces que poseen veneno letal.
+      E: solo unas pocas especies de peces venenosos utilizan inusitadamente la ponzoña con la finalidad de atacar a una presa.
+    solucion:
+      alternativa: A
+      razon:  En efecto, siendo consistentes con el tema central, el número de peces
+              venenosos se ha determinado como exponencialmente mayor según un estudio
+              evolutivo. 
+  
+  - pregunta: En el texto, el sinónimo del vocablo ESTIMAR es
+    alternativas:
+      A: difundir. 
+      B: decidir. 
+      C: definir. 
+      D: apreciar. 
+      E: calcular.
+    solucion:
+      alternativa: E
+      razon:  El vocablo en cuestión refiere al cálculo aproximado de especies de
+              peces venenosos; en consecuencia, el verbo CALCULAR es su sinónimo.
+
+  - pregunta: Resulta incompatible con el texto afirmar que el estudio se realizó
+    alternativas:
+      A: con el objetivo, entre otros, de determinar un árbol genealógico.
+      B: usando también las simulaciones mediante programas informáticos.
+      C: mediante procedimientos que permitieron definir un rastreo evolutivo.
+      D: solamente con un rastreo del ADN de las diversas especies actuales.
+      E: apelando al aporte de la genética, pues se usaron secuencias de ADN.
+    solucion:
+      alternativa: D
+      razon:  Además del examen de ADN, se realizaron simulaciones con la
+              finalidad de establecer el emparentamiento en épocas prístinas. Resulta
+              incompatible plantear un solo método de análisis.
+
+  - pregunta: Es posible deducir que los peces venenosos
+    alternativas:
+      A: se analizaron solo con el objetivo de definir cuáles se extinguieron.
+      B: constituyen una población ingente en parangón con los vertebrados.
+      C: presentan en su totalidad un uso del veneno similar al de los ofidios.
+      D: atacan con la finalidad de proteger las presas en las que incubarán.
+      E: evolucionaron de manera divergente en cuanto al uso del veneno.
+    solucion:
+      alternativa: E
+      razon:  'El veneno es funcional en dos direcciones: para protegerse y para
+              atacar. Por ello, es posible deducir que la evolución de estos peces no fue
+              homogénea en cuanto al uso del veneno.'
+
+  - pregunta: Si el estudio se hubiera realizado en el siglo XIX, antes del auge informático actual, probablemente,
+    alternativas:
+      A: la muestra de peces venenosos utilizada habría sido aleatoria.
+      B: la determinación del árbol genealógico habría resultado inviable.
+      C: la población de peces en la actualidad pasaría a ser muy exigua.
+      D: los datos con los que se contaba habrían resultado ser más finos.
+      E: el estudio del ADN de los especímenes habría sido el único método.
+    solucion:
+      alternativa: B
+      razon:  El avance informático permite, mediante programas, realizar
+              simulaciones. De no contar con estas herramientas, el establecimiento del árbol
+              genealógico resultaría inviable.

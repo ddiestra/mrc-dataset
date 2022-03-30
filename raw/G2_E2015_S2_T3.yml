@@ -1,0 +1,35 @@
+texto:
+    'Todos los seres humanos buscamos la felicidad, y de hecho algunos sostienen que 
+    esta es el fin último del hombre. Pero ¿qué es ser feliz? En términos muy simples,
+    podríamos decir que felicidad es una sensación de «satisfacción, gusto, contento», según
+    la define la Real Academia Española. Si nos remontamos a los grandes filósofos de la
+    Grecia clásica, sin duda encontraremos definiciones mucho más profundas y complejas.
+    Para Sócrates, por ejemplo, la felicidad estaba ligada a la virtud, al enaltecimiento del alma,
+    al conocimiento de uno mismo.
+    En nuestra era moderna, rescato la visión del psicólogo y escritor norteamericano
+    Martin Seligman, reconocido como uno de los fundadores de la psicología positiva, quien
+    vincula la felicidad con el desarrollo de emociones y actividades positivas.
+    Sin intenciones de arrogarme el derecho a sentenciar una verdad absoluta, siento
+    que ser feliz tiene que ver con una mirada optimista del mundo, del entorno y de nuestra
+    propia realidad; con tratar de mirar la parte llena del vaso, descubrir el lado positivo de las 
+    cosas que hacemos o que nos suceden; y, por sobre todo, vivir con sentido de
+    trascendencia, sin quedarnos pegados en las pequeñeces o nimiedades de lo cotidiano que
+    muchas veces nos agobian.'
+pregunta1: ¿Cuál es el tema central del texto?
+alternativas1:
+    A: Las intrascendencias de la vida
+    B: La felicidad a través de la historia
+    C: La felicidad concebida cual quimera
+    D: Los modos de alcanzar la felicidad
+    E: La felicidad entendida como virtud
+solucion1:
+    alternativa: D
+pregunta2: El autor del texto afirma fundamentalmente que
+alternativas2:
+    A: la felicidad depende de asumirla vida de forma positiva.
+    B: son más felices, aquellas que viven libres de dificultades.
+    C: la vida moderna imposibilita buscar la transcendencia.
+    D: cada persona tiene una forma distinta de buscar la felicidad.
+    E: la felicidad entendida como virtual es solo una postura filosófica.
+solucion2:
+    alternativa: A

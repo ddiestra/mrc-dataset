@@ -1,0 +1,91 @@
+texto:  'Ludwig van Beethoven rara vez se sentía satisfecho con sus composiciones. Volvía a
+        ellas una y otra vez, corrigiéndolas y tirando a la basura pasajes enteros hasta, finalmente,
+        quedarse con una de sus primeras versiones. La Casa de Beethoven en Bonn, en el oeste
+        de Alemania, posee una de las mayores colecciones de manuscritos y apuntes del genial
+        compositor al que vio nacer. Y acaba de emprender un ambicioso proyecto: el «Beethovens
+        Werkstatt» (el taller de Beethoven) reunirá durante los próximos 16 años a expertos y
+        musicólogos para arrojar luz sobre el proceso creativo de uno de los músicos más
+        influyentes de la historia.
+        «A través de métodos modernos, intentamos averiguar cómo fueron creadas las
+        anotaciones en las que se basa la música de Beethoven», explica Julia Ronge,
+        investigadora de la Casa de Beethoven en Bonn. Beethoven (1770-1827) dejó muchas más
+        versiones y bocetos que ningún otro de los grandes compositores, añade. «En algún lugar
+        hay entre 5000 y 6000 hojas». Gran parte de estos documentos están digitalizados y se
+        puede acceder a ellos desde la web del museo.
+        Cuando finalice la investigación, que cuenta con un presupuesto de 6.1 millones de
+        euros (7.6 millones de dólares), el proceso de composición podrá verse como si de una
+        película se tratara. Entre otras, se analizará la famosa Sexta Sinfonía de Beethoven
+        («Pastoral»), apunta el musicólogo Joachim Veit, que se encarga del proceso de
+        digitalización. El reto es ambicioso: no se trata solo de que Beethoven revisara una y otra
+        vez sus composiciones e incluso las cambiara una vez impresas, sino que además su letra
+        resulta difícil de descifrar. Y, según los expertos, las notas son aún más complicadas de
+        leer. «Hemos necesitado días enteros para entender algunos bocetos», cuenta Veit. «Uno
+        se pregunta cómo pudieron leerlas sus copistas».'
+    
+preguntas:    
+  - pregunta: El tema central del texto es
+    alternativas:
+        A: el ambicioso estudio sobre el proceso creativo de Beethoven.
+        B: los manuscritos y las composiciones del genial Beethoven.
+        C: los bocetos y versiones inconclusas que dejó Beethoven.
+        D: Beethoven y su confusa manera de componer melodías.
+        E: la digitalización de las obras de Ludwig van Beethoven.
+    solucion:
+      alternativa: A
+      razon:  El tema central, en efecto, es el estudio futuro que se realizará sobre el proceso creativo de Beethoven.
+
+  - pregunta: La idea principal del texto es
+    alternativas:
+        A: la Casa de Beethoven posee una de las colecciones de manuscritos más copiosa que existan en el mundo.
+        B: el proceso de composición de Beethoven podrá ser visto como si se tratara de una película.
+        C: las versiones inconclusas y los esbozos de obras como la sexta sinfonía serán estudiadas escrupulosamente.
+        D: un ambicioso y millonario estudio develará aspectos de la forma en que componía Ludwig van Beethoven.
+        E: la sexta sinfonía de Beethoven será analizada para determinar las razones de su particularidad.
+    solucion:
+      alternativa: D
+      razon:  De acuerdo con el tema central, un estudio millonario y de largo aliento se encargará de develar los aspectos más profundos del proceso de composición de Beethoven.
+
+  - pregunta: La expresión ARROJAR LUZ se puede reemplazar por
+    alternativas:
+        A: arrostrar. 
+        B: velar. 
+        C: elucidar.
+        D: brillar. 
+        E: iluminar.
+ 
+    solucion:
+      alternativa: C
+      razon:  La expresión se refiere al acto de aclarar o explicar aspectos del proceso creativo del genial compositor.
+
+  - pregunta: Resulta incompatible con el desarrollo del texto afirmar que las composiciones de Beethoven
+    alternativas:
+        A: fueron constantemente corregidas y replanteadas por este.
+        B: fueron versionadas en una sola fase de arrebato creativo.
+        C: presentan numerosos bocetos que han sido digitalizados.
+        D: serán estudiadas en el marco de un millonario proyecto.
+        E: tuvieron una etapa previa de anotaciones y correcciones.
+    solucion:
+      alternativa: B
+      razon:  Existen muchas versiones de sus obras, pues el genio creador no se sentía conforme con sus obras.
+
+  - pregunta: Es posible colegir que el periodo de tiempo que durará el estudio
+    alternativas:
+        A: fue planteado por la Casa de Beethoven para publicitarse exitosamente.
+        B: resulta demasiado dilatada para evaluar solamente una de sus obras.
+        C: fue contemplado para analizar provechosamente la sexta sinfonía.
+        D: se justifica por la complejidad y la cripticidad de muchas anotaciones.
+        E: se debe a que la inversión realizada comprende millones de euros.
+    solucion:
+      alternativa: D
+      razon:  El proceso creativo de Beethoven es bastante complejo por la cantidad de versiones por las que tuvo que pasar cada una de sus obras. Pero la dificultad mayor se encuentra en las anotaciones, pues es casi imposible develarlas. Por ello el tiempo es justificable.
+
+  - pregunta: Si las anotaciones de Beethoven fueran completamente legibles,
+    alternativas:
+        A: los estudiosos buscarían estudiar a otro músico.
+        B: la composición de Beethoven habría sido simple.
+        C: todas las composiciones habrían sido descartadas.
+        D: serían necesarios un mayor número de estudiosos.
+        E: el carácter complicado del proyecto sería implausible.
+    solucion:
+      alternativa: E
+      razon:  El proyecto se erige como ambicioso en virtud de la ilegibilidad de sus anotaciones, las cuales son todo un reto para los especialistas. Si estas fueran legibles, la parte más complicada del proyecto dejaría de ser un reto.

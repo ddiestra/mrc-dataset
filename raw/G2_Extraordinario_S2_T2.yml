@@ -1,0 +1,38 @@
+texto:  El profundo cambio que el siglo XVII aportó a la ciencia fue la comprensión del
+        movimiento. Los antiguos griegos tenían una maravillosa comprensión de la estática, pero
+        no tenían una buena concepción de las leyes que gobiernan los cuerpos que se mueven.
+        Lo que les faltaba era una buena teoría de la dinámica, esto es, una teoría del modo en que
+        la naturaleza controla el cambio de posición de los cuerpos de un instante al siguiente. Parte
+        de las razones para la falta de una buena teoría dinámica era la ausencia de un medio
+        suficientemente preciso para medir el tiempo, es decir, de un reloj razonablemente bueno.
+        Un reloj así es necesario para poder cronometrar exactamente los cambios en posición, y
+        de este modo comprobar las velocidades y aceleraciones de los cuerpos. Por ello, la
+        observación de Galileo, en 1583, de que un péndulo podía ser un medio confiable de medir
+        el tiempo tuvo para él (y para el desarrollo de la ciencia moderna en general) una enorme
+        importancia, puesto que permitió hacer un cronometraje preciso del movimiento. Unos
+        cincuenta y cinco años más tarde, con la publicación de los Discorsi de Galileo en 1638,
+        nacería la nueva ciencia de la dinámica y empezaría lo que conocemos como la ciencia
+        física moderna.
+    
+preguntas:    
+  - pregunta: ¿Cuál es el tema central del texto?
+    alternativas:
+      A: La ignorancia de los antiguos griegos en el ámbito de la física dinámica
+      B: La gran obra de los griegos y de Galileo en el campo de la física moderna
+      C: El descubrimiento de Galileo que posibilitó la comprensión del movimiento
+      D: La necesidad de un reloj para medir el tempo de caída de los cuerpos
+      E: El hallazgo del péndulo como un instrumento para hacer experimentos
+    solucion:
+      alternativa: C
+      razon: El texto se centra en el gran aporte de Galileo en la comprensión del movimiento.
+
+  - pregunta: ¿Cuál es la idea principal del texto?
+    alternativas:
+      A: En los Discorsi de Galileo de 1638 se aseveró que el péndulo era el mejor mecanismo para medir el tiempo.
+      B: Los antiguos griegos ignoraban cómo medir el tiempo por ello no realizaron avances en la ciencia física dinámica.
+      C: Tanto los griegos como Galileo tienen un lugar preponderante en la historia de la ciencia física antigua y moderna.
+      D: En el siglo XVI era necesario hallar una forma de medir el tiempo de los movimientos de modo confiable y preciso.
+      E: El descubrimiento de Galileo de un medio confiable para medir el tiempo posibilitó el nacimiento de la física moderna.
+    solucion:
+      alternativa: E
+      razon: El texto explica cómo el hallazgo de Galileo posibilitó el nacimiento de la ciencia física moderna.

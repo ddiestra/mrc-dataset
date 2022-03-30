@@ -1,0 +1,57 @@
+texto:
+    'La termodinámica es el campo de la física que describe y relaciona las propiedades
+    físicas del sistema macroscópico de materia y energía. Los principios de la termodinámica
+    tienen importancia fundamental para todas las ramas de la ciencia y la ingeniería.
+    Un concepto esencial de la termodinámica es el de sistema macroscópico, que se
+    define como un conjunto de materia aislable espacialmente y que coexiste con un entorno
+    infinito e imperturbable. El estado de un sistema macroscópico en equilibrio puede
+    describirse mediante propiedades medibles como la temperatura, la presión o el volumen,
+    que se conocen como variables termodinámicas. Es posible identificar y relacionar entre sí
+    muchas otras variables (como la densidad, el calor especifico, la compresibilidad o el
+    coeficiente de expansión térmica), con lo que se obtiene una descripción más completa de
+    un sistema y de su relación con el entorno.'
+pregunta1: ¿Cuál es el mejor resumen del texto?
+alternativas1:
+    A: Dentro del campo de la física, el sector más importante es el de la termodinámica, cuyo concepto fundamental es el de sistema macroscópico.
+    B: Las variables termodinámicas complementarias y de mayor precisión son la densidad, el calor específico y el coeficiente de expansión térmica. 
+    C: El estado de un sistema macroscópico en equilibrio puede describirse mediante propiedades medibles, como la temperatura, la presión y el volumen.
+    D: La termodinámica, como disciplina de la física y de la química, estudia los sistemas macroscópicos sobre la base de diversas variables.
+    E: La termodinámica es el estudio de los sistemas macroscópicos que se miden con variables como la presión, la temperatura y el coeficiente de expansión térmica.
+solucion1:
+    alternativa: E
+pregunta2: En el texto, la palabra CAMPO significa
+alternativas2:
+    A: sección.
+    B: entorno. 
+    C: terreno.
+    D: propiedad.
+    E: contexto.
+solucion2:
+    alternativa: A
+pregunta3: Es compatible con el texto afirmar que el coeficiente de expansión térmica ayuda a
+alternativas3:
+    A: anular el sistema macroscópico termodinámico.
+    B: identificar las variables y sus relaciones.
+    C: medir la compresibilidad y el calor específico.
+    D: obtener una descripción más completa del sistema.
+    E: definir el sistema solo como conjunto de materia.
+solucion3:
+    alternativa: D
+pregunta4: Se infiere del texto que aislar el sistema macroscópico
+alternativas4:
+    A: es importante solo para las ramas más avanzadas de la ingeniería.
+    B: es parte prescindible de la termodinámica como campo de la física.
+    C: es un procedimiento previo a su medición a partir de variables.
+    D: solo se puede realizar en laboratorios de los Estados Unidos.
+    E: necesita de constantes como temperatura o presión para realizarse.
+solucion4:
+    alternativa: C
+pregunta5: Si un conjunto de materia no pudiera ser aislado espacialmente de su entorno, entonces
+alternativas5:
+    A: la medición de su temperatura sería precisa.
+    B: dejaría de ser un sistema macroscópico.
+    C: la termodinámica dejaría de ser ciencia.
+    D: sería un sistema macroscópico limitado. 
+    E: tendría todas las variables termodinámicas.
+solucion5:
+    alternativa: B

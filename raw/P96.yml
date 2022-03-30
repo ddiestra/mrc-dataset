@@ -1,0 +1,61 @@
+texto: 'Nos apena comprobar cuanta gente llega a la universidad (y otros al parlamento) privada de esa agilidad mental que la lectura propicia. Esta presteza en el juicio, esa familiaridad con la intuición, vendrán asegurados por la escuela si ella dedica buenas jornadas a la lectura. La lectura no es como muchos creen, un deleite para los ojos fisiológicos. Es un duro y hermoso ejercicio para os ojos mentales. Leer supone profundizar. Privilegiar la memoria (afanosa conquista a la que muchos aspiran) no ayuda a la inteligencia, que tiene en la lectura respaldo constante y eficaz a la hora del discernimiento y de las grandes decisiones. Leer nos hace personas: lo proclamaba Gracián, ese jesuita que ilustró con su talento el siglo XVII europeo. La lectura nos vincula necesariamente con el hombre; con el hombre que es todos los hombres, con el de ayer y con el del futuro. Leer es una antigua convocatoria para ser cada día mas claros, cada día más combativos en el razonar y en el actuar. Y porque nuestro quehacer en la escuela tiene que ver con el libro, nos reúne con gentes de generaciones varias, como un signo feliz de que la lectura resulta nuestra mas firme y legítima herencia y nuestra carta de presentación mas adecuada. Quien no aprende a leer (es decir a amar el libro) no estará en capacidad de ser juez ni de ser crítico. Sabias con las palabras de Harold Bloom: importa, para que los individuos tengan la capacidad de juzgar y opinar por sí mismos, que lean por su cuenta. Por eso, antes que ofrecer “modelos de lectura”, la escuela debe dedicarse en despertar el amor por la lectura. Con ello, los muchachos se acercarán al porvenir. '
+pregunta1: '¿Cuál es la tesis que sustenta el texto?'
+alternativas1: 
+  A: El libro nos permite conocer diversas generaciones
+  B: La lectura es un duro ejercicio para los ojos mentales
+  C: La escuela debe fomentar el amor por la lectura
+  D: Es necesario que los jóvenes desarrollen un criterio
+  E: Hay personas que llegan a la universidad sin saber leer
+
+solucion1: 
+  alternativa: C
+  razon: ''
+
+pregunta2: 'En el texto el termino CLARO significa'
+alternativas2:
+  A: Lúcido
+  B: Diáfano
+  C: Raudo
+  D: Preclaro
+  E: Sobrio
+
+solucion2: 
+  alternativa: A
+  razon: ''
+
+pregunta3: 'Según el texto es incorrecto afirmar que'
+alternativas3:
+  A: Hay gente que llega al parlamento sin el hábito a la lectura
+  B: La práctica de la lectura no es una mera actividad fisiológica
+  C: Las personas que leen con frecuencia privilegian la memoria
+  D: Gracián fue un jesuita que aportó con su talento en el siglo XVII
+  E: Quien aprende a leer tiene la capacidad de emitir juicios críticos
+
+solucion3: 
+  alternativa: C
+  razon: ''
+
+pregunta4: 'Del texto se infiere que la lectura'
+alternativas4:
+  A: Es distinta a lo que muchas personas creen 
+  B: Se practica exclusivamente en los colegios
+  C: Satisface los ojos fisiológicos del hombre
+  D: Fundamentalmente, nos remite al pasado
+  E: Es relevante para vivir en una democracia
+
+solucion4: 
+  alternativa: E
+  razon: ''
+
+pregunta5: 'Si la lectura solo privilegiara la memoria'
+alternativas5:
+  A: La escuela impulsaría otras actividades más académicas
+  B: El hombre solamente podría conocer su propio porvenir
+  C: El ser humano dejaría de ser considerado como persona
+  D: Su práctica no supondría el desarrollo del juicio crítico
+  E: Gracián ahora proclamaría que leer no nos hace personas
+
+solucion5: 
+  alternativa: D
+  razon: ''
+

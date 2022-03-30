@@ -1,0 +1,60 @@
+  texto: 'En el lago Titicaca crece una gran variedad de flora nativa, pero entre esta enmarañada vegetación destaca la totora.Los comuneros, según el uso que le dan a esta planta, la diferencia en: llacho, totora verde o tierna, totora amarilla o seca, el chullo o los quillis de la totora.El llacho es utilizado en la alimentación del ganado vacuno u ovino para engorde. En otros sectores de las 155 comunidades circunlacustres, lo emplean para rellenar colchones o como combustible. Debido a que es de explotación libre, los comuneros delimitan como posesión 2,10 has/familia.En cambio, la totora verde o tierna es la que crece a mayor profundidad que la anterior (entre 2.5 y 4.5 metros). Su extracción demanda buenas horas de trabajo al comunero, quien debe ingresar muy adentro del algo con la queliña (un palo de eucalipto de 3 a 4 metros de longitud con un cuchillo al final), esta tarea es confiada en su mayoría a mujeres y es común verlas en mitad del lago, prácticamente escondidas por los altos totorales.El lago Titicaca guarda aún diversos secretos para la humanidad. Uno de ellos es aprovechado por sus habitantes que, debido a la crisis económica, encontraron en el "chullo" una fuente de alimentación."Comer el chullo, parte de la totora, provee al poblador de yodo, lo cual casi eliminó los casos de bocio en las zonas altiplánicas", afirma Guillermo Noriega del Proyecto Especial Lago Titicaca.'
+  pregunta1: 'El llacho es usado para'
+  alternativas1:
+    A: Alimentar el ganado vacuno
+    B: Fines múltiples y variados
+    C: Rellenar colchones
+    D: Producir combustión
+    E: La exploración libre
+
+  solucion1:
+    alternativa: B
+    razon: '"El llacho es utilizado en la alimentación del ganado.... En otros sectores lo emplean para rellenar colchones o como combustible" De ello se entiende que es utilizado con diferentes fines. '
+
+  pregunta2: 'La diferenciación de la totora hecha por los comuneros obedece a'
+  alternativas2: 
+    A: Criterios pragmáticos
+    B: Necesidades de alimentación
+    C: Lugar de origen
+    D: Profundidad de crecimiento
+    E: Principios científicos y empíricos
+  
+  solucion2:
+    alternativa: A
+    razon: '"Los comuneros según el uso que le dan -se refiere a la totora-, la diferencian en llacho, totora verde o tierna, totora amarilla o seca y los quillis de la totora". Vale decir de su uso o de los criterios prácticos o pragmáticos. '
+
+  pregunta3: 'La explotación de la totora verde es'
+  alternativas3:
+    A: Temporal
+    B: Ecológica
+    C: Oculta
+    D: Laboriosa
+    E: Comunal
+  
+  solucion3: 
+    alternativa: D
+    razon: 'En cambio la totora verde demanda para su extracción buenas horas de trabajo, ello se debe a que crece a mayores profundidades y su extracción requiere del uso de la queliña (un palo de eucalipto de 3 a 4 metros de longitud con un cuchillo al final). '
+
+  pregunta4: 'El comunero se alimenta del "chullo" en razón de'
+  alternativas4:
+    A: La gran cantidad de totora en su habitad
+    B: Sus actividades agropecuarias
+    C: La riqueza de sales minerales
+    D: La necesidad de alimentarse
+    E: La presencia del bocio
+
+  solucion4:
+    alternativa: D
+    razon: '"El lago Titicaca guarda aún diversos secretos para la humanidad. Uno de ellos es aprovechado por sus habitantes que, debido a la crisis económica, encontraron en el "chullo" una fuente de alimentación. Por tanto, se alimentan del chullo por un estado de necesidad. '
+
+  pregunta5: 'El consumo humano de totora garantiza:'
+  alternativas5:
+    A: La erradicación del hombre
+    B: La pertenencia a la zona altiplánica
+    C: El trabajo y progreso comunal
+    D: La satisfacción de las necesidades
+    E: La presencia del yodo en el organismo
+  
+  solucion5:
+    alternativa: E
+    razon: 'Comer chullo-parte de la totora provee al poblador de yodo, lo cual casi eliminó el bocio en las zonas altiplánicas". En tanto el poblador del altiplano consuma el chullo, su organismo siempre contará con yodo, evitando así el bocio. '

@@ -1,0 +1,25 @@
+texto: 'En pocos campos es tan evidente el progreso tecnológico como en la informática. Los ordenadores son cada vez más rápidos, siguiendo la inexorable ley de Moore, por la que cada 2 años se duplica la potencia de cálculo de los procesadores que aparecen en el mercado. En este contexto, aparece el concepto de supercomputación, que empieza a ser familiar no solo en la mayor parte de campos científicos, sino incluso en la vida diaria. Desde sus inicios, la supercomputación se ha aplicado a la investigación científica, especialmente en el campo de la Física fundamental. En este sentido, actualmente, la supercomputación se ha convertido en una herramienta importante en bioquímica y biología molecular, donde la determinación, caracterización y modelización de la estructura de las biomoléculas es esencial para entender el mecanismo y función de procesos biológicos a nivel molecular.'
+pregunta1: 'El tema central del texto es'
+alternativas1: 
+  A: La supercomputación como herramienta fundamental para la investigación en bioquímica y biología molecular.
+  B: Los grandes ordenadores construidos para situarse en la frontera de la computación de altas prestaciones.
+  C: El análisis de las ingentes cantidades generadas de datos estructurales en la biología molecular.
+  D: La incorporación de las diferentes tecnologías como los circuitos integrados para utilizar en la biología molecular.
+  E: La predicción del comportamiento de grandes biomoléculas y complejos moleculares mediante la informática.
+
+solucion1: 
+  alternativa: A
+  razon: 'El tema central del texto es la supercomputación como herramienta fundamental para la investigación en bioquímica y biología molecular. El texto nos expone sobre cuán rápido es el progreso tecnológico e informático, lo que trae como consecuencia el concepto de supercomputación. Esta se ha convertido en una herramienta importante para disciplinas como la bioquímica y la biología molecular, pues permite entender el mecanismo y función de los procesos biológicos a nivel molecular. '
+
+pregunta2: 'Según el contexto, precise el sentido del término inexorable'
+alternativas2:
+  A: Dura
+  B: Rigurosa
+  C: Severa
+  D: Inapelable
+  E: Increíble
+
+solucion2: 
+  alternativa: D
+  razon: 'Según el contexto, el término inexorable tendría el sentido preciso de inapelable. El autor utiliza la palabra inexorable dentro del contexto donde la tecnología y la informática avanzan cada dos años, duplicando su potencia, propuesto por Moore. Esto nos lleva a concluir que el término preciso se vincula con la palabra inapelable, pues esta significa ‘irremediable, inevitable’. '
+

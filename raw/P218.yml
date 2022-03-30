@@ -1,0 +1,61 @@
+texto: 'Los tabúes serían prohibiciones antiquísimas impuestas desde el exterior a una generación de hombres primitivos. a los que fueron quizá inculcados por una generación anterior. Estas prohibiciones recayeron sobre actividades a cuya realización tendía intensamente el individuo, y se mantuvieron luego de generación en generación, quizá únicamente por medio. de la tradición transmitida por la autoridad paterna y social. Pero también puede suponerse que se organizaron en una generación posterior, como una parte de propiedad psíquica heredada. De la conservación del tabú hemos de deducir que la primitiva tendencia a realizar los actos prohibidos perdura aún hoy en día en los pueblos salvajes y semi - salvajes, en los que hallamos tales prohibiciones. Así, pues, estos pueblos han adoptado ante sus prohibiciones tabú una actitud ambivalente. En su inconsciente, no desearían nada mejor que su violación, pero al mismo tiempo sienten temor a ella. La temen precisamente porque la desean, y el temor es más fuerte que el deseo. Este deseo es, en cada caso individual, inconsciente, como en el neurótico. FREUD, Sigmund Tótem y Tabú'
+pregunta1: 'Los tabúes tienen su fuente principal en'
+alternativas1: 
+  A: El inconsciente colectivo del hombre
+  B: Las imposiciones de cada generación
+  C: Las generaciones precedentes
+  D: Las reglas adoptadas por el hombre
+  E: Las generaciones actuales
+
+solucion1: 
+  alternativa: C
+  razon: 'Los tabúes tienen su fuente principal en las generaciones precedentes. Los tabúes son prohibiciones que perduran a través de las generaciones. El texto refiere que los tabúes son inculcados por una generación anterior, ¡y se conservan por medio de la autoridad del padre en el caso de la familia! o de la sociedad, como una tradición. Por ende, la fuente principal del temor a obrar conforme al deseo se halla en las generaciones anteriores. '
+
+pregunta2: 'También puede suponerse que los tabúes'
+alternativas2:
+  A: Recaían sobre acciones cuya ejecución ansiaba el hombre
+  B: Son producto de una parte de la facultad psíquica heredada
+  C: Son conceptos adquiridos con una férrea educación
+  D: Son ideas innatas, herencia de generaciones anteriores
+  E: Generaron la tendencia absurda de cometer actos prohibidos
+
+solucion2: 
+  alternativa: B
+  razon: 'También puede suponerse que los tabúes son producto de una parte de la facultad psíquica heredada. Dos son las hipótesis que el autor menciona en relación al tabú. La que acabamos de mencionar: los tabúes se conservan por medio de la tradición social, y otra, que se refiere a la conservación de los tabúes como parte de la propiedad psíquica heredada por las nuevas generaciones. Esta hipótesis supone que los tabúes perduran en el inconsciente del hombre, refrenando así su conducta. '
+
+pregunta3: 'Se entiende que los actos prohibidos existen debido a'
+alternativas3:
+  A: El inconsciente excesivo del hombre
+  B: La desaparición de los tabúes
+  C: La imposición de normas religiosas
+  D: Cierta actitud ambivalente
+  E: La actitud inmoderada del hombre
+
+solucion3: 
+  alternativa: E
+  razon: 'Se entiende que los actos prohibidos existen debido a la actitud inmoderada del hombre. El hombre cometió actos prohibidos cuando el deseo de obrar es más intenso que el temor al tabú. Por ello, si existen actos prohibidos es porque el hombre quebranta ese miedo inconsciente y se deja llevar por el fuerte deseo de obrar en contra de la prohibición, y ello evidencia, a su vez, una actitud inmoderada. '
+
+pregunta4: 'La actitud ambivalente ante el tabú se reduce al'
+alternativas4:
+  A: Primitivismo - censura
+  B: Deseo - temor
+  C: Inconsciente - violación
+  D: Inconsciente - temor
+  E: Temor - prohibición
+
+solucion4: 
+  alternativa: B
+  razon: 'La actitud ambivalente ante el tabú se reduce a deseo-temor. En el último párrafo, el autor describe la actitud ambivalente como el deseo inconsciente de violar la prohibición, pero, al mismo tiempo, acompañado de un temor ante dicha prohibición. Es decir, hay una doble valoración del tabú: un querer y un no querer violarlo. Por ende, si hablamos de actitudes, la ambivalencia ante el tabú se daría entre el deseo y el temor. '
+
+pregunta5: 'La finalidad del tabú es'
+alternativas5:
+  A: Infundir temor para no obrar contra lo establecido
+  B: Registrar en el inconsciente del hombre el miedo a la voluntad
+  C: Fortalecer el deseo en el hombre hasta exceder sus temores
+  D: Restringir la conducta prohibida del hombre en su medio social
+  E: Complementar la educación en la formación moral del hombre
+
+solucion5: 
+  alternativa: A
+  razon: 'La finalidad del tabú es infundir temor para no obrar contra lo establecido. Según el texto, la herencia histórica y la herencia familiar imponen tabúes a las generaciones nuevas como un lazo que restringe la voluntad ante lo prohibido. En este sentido, lo que se pretende es generar miedo, un temor para contrarrestar esa tendencia primitiva a realizar actos prohibidos que el hombre conserva desde épocas inmemoriales. '
+

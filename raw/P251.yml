@@ -1,0 +1,61 @@
+texto: 'La familia Camelidae tiene caracteres muy particulares que la diferencian de otros mamíferos. Su sangre contiene la menor concentración de glóbulos rojos del grupo de los mamíferos. Sin embargo, como cada glóbulo tiene una alta concentración de hemoglobina, no existe anemia. Como consecuencia de la baja concentración de glóbulos, la sangre es muy fluida. Esta característica es útil tanto para la vida en hábitat desértico como para la vida en altura. A diferencia del hombre, los camélidos no elevan su concentración de glóbulos rojos al subir a la altura, y así mantienen la fluidez sanguínea necesaria para permitir un mejor trabajo del corazón. A esto se agrega una atenuación de la alta presión arterial pulmonar, que sí ocurren en el ser humano y en otros mamíferos, y que es un limitante a la adaptación a la altura. Sus tejidos parecen tener también una mejor capacidad para la utilización del escaso oxígeno que caracteriza el ambiente de las altas montañas y que es el factor limitante fundamental de la vida en este medio hostil. Entonces, no es sorprendente que estos animales puedan vivir tanto en el desierto de Atacama, de gran aridez, como en las altas montañas andinas. Se debe señalar, además, que en ellos no ha sido descrito el mal de montañas agudo o crónico que afecta a los mamíferos introducidos en los Andes durante la Conquista española.'
+pregunta1: 'La fácil adaptabilidad de los camélidos a la altura es'
+alternativas1: 
+  A: Exclusiva de los camélidos sudamericanos.
+  B: Propia de todos los camélidos.
+  C: Resultado de procesos de adaptación continua.
+  D: Producto de una mutación en los camélidos.
+  E: Propia de un tipo de camélidos.
+
+solucion1: 
+  alternativa: B
+  razon: 'La fácil adaptabilidad de los camélidos a la altura es propia de todos los camélidos. Ya que su organismo presenta una serie de condiciones particulares que le son favorables para vivir en las altas montañas, como: menor concentración de glóbulos rojos en la sangre, atenuación de la alta presión arterial-pulmonar, y tejidos con menor capacidad para la utilización del oxígeno.'
+
+pregunta2: 'La adaptabilidad de los camélidos a la altura, tanto como a los llanos, se debe a la'
+alternativas2:
+  A: Alta concentración de hemoglobina en la sangre.
+  B: Poca cantidad de sangre en el cuerpo.
+  C: Gran cantidad de glóbulos rojos.
+  D: Fluidez de sangre en los pulmones.
+  E: Alta viscosidad de la sangre circulante.
+
+solucion2: 
+  alternativa: A
+  razon: 'Según el texto, la causa de la adaptabilidad de los camélidos es que sus glóbulos rojos, que forman parte de su sangre, contienen gran concentración de una proteína llamada hemoglobina.'
+
+pregunta3: 'En el texto, la palabra hábitat se entiende mejor como'
+alternativas3:
+  A: Ambiente.
+  B: Altura.
+  C: Geografía.
+  D: Región.
+  E: Paisaje.
+
+solucion3: 
+  alternativa: A
+  razon: 'La palabra hábitat es empleada en el texto para referirse al desierto o a las altas montañas donde pueden vivir los camélidos. En este sentido, hábitat se entiende mejor como ambiente, puesto que se está hablando del lugar y de sus condiciones geográficas y climáticas a las que puede adaptarse dicha especie.'
+
+pregunta4: 'Del texto se deduce que la alta presión arterial pulmonar que sufren los mamíferos en la altura se debe a la'
+alternativas4:
+  A: Disminución de la temperatura.
+  B: Falta de suficientes glóbulos rojos.
+  C: Propagación de oxígeno en la atmósfera.
+  D: Disminución de oxígeno en la atmósfera.
+  E: Insuficiencia cardiaca.
+
+solucion4: 
+  alternativa: D
+  razon: '¿Por qué hay alta presión en las arterias pulmonares de los mamíferos? Porque hay un elevado volumen de sangre, debido a la concentración de glóbulos rojos. Y esto, a su vez. ¿a qué se debe? A que dichos animales se hallan en altura, donde escasea el oxígeno en la atmósfera.'
+
+pregunta5: 'Según el texto, ¿cuál de las siguientes afirmaciones es correcta?'
+alternativas5:
+  A: Los mamíferos pueden vivir bien en la altura.
+  B: Los camélidos no son afectados por el mal de montaña.
+  C: Los camélidos fueron introducidos durante la Conquista española.
+  D: La piel del camélido le permite protegerse del intenso frío.
+  E: El hombre tiene poca concentración de glóbulos rojos.
+
+solucion5: 
+  alternativa: B
+  razon: 'Según el texto, la afirmación correcta es que los camélidos no son afectados por el mal de montaña. A diferencia de los mamíferos introducidos en los Andes por los españoles durante la Conquista, los camélidos son inmunes al mal de montaña agudo o crónico.'
+

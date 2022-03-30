@@ -1,0 +1,61 @@
+texto: 'En verdad, no creo que haya ningún motivo ilícito entre los que puedan hacer que guste una escultura o un cuadro. A alguien le puede complacer un paisaje porque lo asocia a la imagen de su casa, o un retrato porque le recuerda a un amigo. No hay nada de malo en ello. Todos nosotros, cuando vemos un cuadro, nos ponemos a recordar mil cosas que influyen sobre nuestros gustos y aversiones. En tanto esos recuerdos nos ayuden a gozar de lo que vemos, no tenemos por qué preocuparnos. Únicamente cuando un recuerdo molesto nos condiciona, cuando instintivamente nos apartamos de una espléndida representación de un paisaje alpino porque aborrecemos el deporte de escalar, es cuando debemos sondearnos para hallar el motivo de nuestro rechazo, que nos priva de un placer que, de otro modo, habríamos experimentado. Hay causas equivocadas que explican por qué no nos gusta. A mucha gente le gusta ver en los cuadros lo que también le gustaría ver en la realidad. Se trata de una preferencia perfectamente comprensible. A todos nos atrae lo bello en la naturaleza y agradecemos a los artistas que lo recojan en sus obras. Esos mismos artistas no nos censurarían por nuestros gustos. Cuando el gran artista flamenco Rubens dibujó a su hijo (figura 1), estaba orgulloso de sus agradables facciones y deseaba que también nosotros admiráramos al pequeño. Pero esta inclinación a los temas lindos y atractivos puede convertirse en un obstáculo si nos conduce a rechazar obras que representan asuntos menos agradables. El gran pintor alemán Alberto Durero, seguramente, dibujó a su madre (figura 2) con tanta devoción y cariño como Rubens a su hijo. Su realista estudio de la vejez y la decrepitud puede producirnos tan viva impresión que nos haga apartar los ojos de él y, sin embargo, si reaccionamos contra esa primera aversión, quedaremos recompensados con creces, pues el dibujo de Durero en su tremenda sinceridad es una gran obra. En efecto, de pronto descubrimos que la hermosura de un cuadro no reside realmente en la belleza de su asunto.'
+pregunta1: 'El texto trata principalmente sobre'
+alternativas1: 
+  A: Las diversas maneras de apreciar una obra artística.
+  B: Las preferencias artísticas de los críticos y el público.
+  C: La repugnancia que nos producen ciertas obras de arte.
+  D: Las distintas formas de describir el tema de un cuadro.
+  E: La belleza y lo desagradable en la pintura realista.
+
+solucion1: 
+  alternativa: A
+  razon: 'El autor sostiene que es factible apreciar una obra de arte relacionándola con nuestras experiencias de vida. Sin embargo, señala que también debemos apreciarla por su calidad plástica, la misma que no depende del tema que representa. '
+
+pregunta2: 'Es incompatible con el texto afirmar que'
+alternativas2:
+  A: El rostro de la madre de Durero puede producir una viva impresión.
+  B: El dibujo del pintor Rubens representa el armónico rostro de su hijo.
+  C: La calidad de un dibujo artístico depende de los gustos del espectador.
+  D: El público disfruta más del arte cuando observa temas agradables.
+  E: El arte activa los buenos y malos recuerdos acumulados en la vida.
+
+solucion2: 
+  alternativa: A
+  razon: 'El texto no asigna la calidad del arte a la subjetividad del espectador. Por ello, reconoce la calidad plástica tanto del dibujo de Rubens, como del de Durero. '
+
+pregunta3: 'De acuerdo con el texto y las figuras, el autor relaciona'
+alternativas3:
+  A: La admiración a Rubens y el rechazo a Durero.
+  B: La técnica pictórica del flamenco y el alemán.
+  C: La inocencia del niño y la maldad de la anciana.
+  D: La belleza del tema y la calidad del dibujo.
+  E: La beldad de la infancia y lo grotesco de la vejez.
+
+solucion3: 
+  alternativa: D
+  razon: 'Al referirse a los dibujos de Rubens y Durero, el autor relaciona la calidad del dibujo con el tema del retrato de un niño y de una anciana, respectivamente. Ambos son bellos, como concluye el autor en las dos últimas líneas. '
+
+pregunta4: 'El vocablo SONDEAR es un verbo que se emplea en el sentido de'
+alternativas4:
+  A: Explorar.
+  B: Impulsar.
+  C: Rechazar.
+  D: Medir.
+  E: Navegar.
+
+solucion4: 
+  alternativa: A
+  razon: 'La palabra sondear aparece en un contexto oracional que remite a la indagación en uno mismo, es decir, a la autoexploración. Por ello, el verbo remite a explorar. '
+
+pregunta5: 'A partir de la idea de que la «inclinación a los temas lindos y atractivos puede convertirse en un obstáculo si nos conduce a rechazar obras que representan asuntos menos agradables», se concluye que'
+alternativas5:
+  A: Los motivos que utilizan los pintores deben ser siempre controversiales.
+  B: Se condiciona la percepción y el valor del arte al tema representado.
+  C: Siempre se establece una relación entre recuerdos agradables y buen arte.
+  D: Las obras menos agradables poseen valores estéticos incomprensibles.
+  E: El desarrollo de temas grotescos evita ganar el favor de los críticos de arte.
+
+solucion5: 
+  alternativa: B
+  razon: 'En la primera parte del texto, el autor comenta que no es equivocado relacionar nuestra experiencia de vida y nuestros gustos con las obras que observamos. Lo erróneo sería quedarnos solo con esta manera de apreciación y valoración artística. '
+

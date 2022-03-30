@@ -1,0 +1,75 @@
+texto:
+    Dos investigadores de la Universidad de California en Los Ángeles han desarrollado un modelo matemático a partir del comportamiento de un asesino en serie, el ucraniano Andrei Chikatilo, arrestado el 20 de noviembre de 1990, que se confesó autor de 56 asesinatos en el transcurso de 12 años, y fue ejecutado en 1994.
+    Analizando sus crímenes, los matemáticos observaron que seguían un patrón que en matemáticas se conoce como "Escalera del Diablo". Concretamente, detrás de cada crimen cometido por Chikatilo existiría un brote psicótico, que surge a partir de la activación simultánea de varias neuronas en el cerebro. Los autores comparan la activación de las neuronas con el funcionamiento de una pistola':' una vez que una neurona se enciende no puede volver a dispararse hasta que se ha recargado, un tiempo conocido como período refractario. "Por eso hay largos intervalos de tiempo entre un asesinato y el siguiente", aclaran Mikhail Simkin y Vwani Roychowdhury. Por otra parte, cada neurona está conectada a otras miles de neuronas, a las que activa si también están listas para "dispararse". Y es en ese momento cuando el asesino en serie siente la "necesidad" de matar.
+    El estudio sugiere que un criminal de estas características solo perpetra un asesinato después de que ha transcurrido un cierto periodo desde la excitación neuronal anterior. Además, señala que el asesinato tiene un efecto sedante sobre quien lo comete, haciendo que la actividad neuronal caiga por debajo del umbral de la excitación.
+    Para llegar a esta conclusión, los matemáticos emplearon un modelo en el que usaron un periodo de 2 milisegundos como escalón temporal básico, el tiempo aproximado entre dos disparos de una neurona real. Y simularon unos 100.000 millones de pasos, equivalente a unos 12 años, que es el periodo en el que Chikatilo estuvo activo. Los resultados son casi idénticos a la distribución de asesinatos reales de Chikatilo, lo que confirma la validez del nuevo modelo.
+    
+#1
+pregunta1: ¿Cuál es el tema central del texto?
+
+alternativas1: 
+    A: El periodo refractario experimentado por un asesino en serie
+    B: La explicación matemática de la delincuencia en la actualidad
+    C: El modelo matemático de los crímenes de un asesino en serie
+    D: La precisión matemática del asesino en serie Andrei Chikatilo
+    E: La simulación efectuada por M. Simkin y Vwani Roychowdhury 
+
+solucion1: 
+    alternativa: C
+    razon: El texto nos informa acerca de un modelo matemático desarrollado para entender la manera de proceder de un asesino en serie.
+
+#2
+pregunta2: En el segundo párrafo del texto, el vocablo PATRÓN implica
+
+alternativas2: 
+    A: premeditación.
+    B: autoridad.
+    C: ejecución.
+    D: subordinación.
+    E: regularidad.
+
+solucion2: 
+    alternativa: E
+    razon: Seguir un mismo patrón supone que los investigadores hallaron cierta recurrencia en la distribución de los crímenes de Chikatilo.
+
+#3
+pregunta3: Se infiere que el modelo matemático empleado
+
+alternativas3: 
+    A: es de suma utilidad para comprender la incidencia de crímenes comunes.
+    B: revelaría la siniestra motivación de A. Chikatilo al cometer sus crímenes.
+    C: resulta totalmente imposible de aplicar a la investigación experimental.
+    D: permitiría la anticipación a los crímenes de un asesino serial en actividad.
+    E: fue desarrollado por una persona que fue víctima de algún acto criminal.
+
+solucion3: 
+    alternativa: D
+    razon: El modelo matemático reproduce la distribución de los asesinatos de Andrei Chikatilo. Se presume que la investigación científica efectuada puede ser usada para evitar esa clase de crímenes.
+
+#4
+pregunta4: Resulta incompatible afirmar que el periodo refractario
+
+alternativas4: 
+    A: es un fenómeno aislado respecto del efecto sedante producido por asesinar.
+    B: se caracteriza por la ausencia de asesinatos debido a la relajación neuronal.
+    C: es un fenómeno conocido por los investigadores Simkin y V. Roychowdhury.
+    D: culmina cuando las neuronas involucradas en el asesinato están cargadas.
+    E: implica un proceso de reactivación gradual de cierta clase de neuronas.
+
+solucion4: 
+    alternativa: A
+    razon: Hay una estrecha relación entre el efecto sedante producido por asesinar y el periodo refractario en que no se comete un asesinato.
+
+#5
+pregunta5: Si el periodo refractario no existiera
+
+alternativas5: 
+    A: A. Chikatilo habría cometido menos crímenes que los que se le atribuye.
+    B: el modelo matemático citado aún podría describir los asesinatos seriales.
+    C: las matemáticas no servirían para poder explicar los fenómenos naturales.
+    D: las muertes causadas por un asesino serial serían mucho más frecuentes.
+    E: los asesinos en serie se entregarían voluntariamente a las autoridades. 
+
+solucion5: 
+    alternativa: D
+    razon: El periodo refractario se caracteriza por la ausencia de asesinatos. Esta ausencia es explicada por el hecho de que las neuronas necesitan reactivarse.

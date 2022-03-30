@@ -1,0 +1,60 @@
+  texto: 'La sociedad altamente tecnificada del futuro se configurará en función del cociente de inteligencia, pues al disponer todos de las mismas oportunidades y ante la exigencia de un alto nivel de especialización se presentará este tipo de comunidad para su funcionamiento, cada puesto de trabajo tendrá su candidato indiscutible. La tecnología de futuro será una “meritocracia” y, en consecuencia, las recomendaciones de nada servirán; por ejemplo, el hijo de un individuo bien situado no podría ocupar una posición análoga a la de su padre si su cociente de inteligencia y su educación no se encontrarán al nivel de los de su progenitor. Resumiendo, será una sociedad donde, probablemente, las escuelas licenciarán mayor proporción de gente educada que actualmente, pero donde la gran mayoría de los ciudadanos serán incapaces de comprender el futuro automatizado. Quizá comprendan los rudimentos del cálculo, de las ciencias naturales y de las humanidades; pero la investigación científica, los problemas gubernamentales y su interacción estarán fuera del alcance incluso de los licenciados universitarios. Además, la mayor parte de la gente tendrá que reconocer que, desde el punto de vista de la lógica, las computadoras pensarán, en líneas generales, mejor que ellos mismos.'
+  pregunta1: '“Meritocracia” significa en este texto una tecnocracia de los más'
+  alternativas1:
+    A: Conocidos e intelectuales
+    B: Inteligentes y preparados
+    C: Pudientes e inteligentes
+    D: Preparados y ricos
+    E: Ricos y recomendados
+
+  solucion1:
+    alternativa: B
+    razon: '“La tecnología del futuro será una “Meritocracia” y, en consecuencia, las recomendaciones de nada servirán –por lo que se entiende que el individuo tendrá que estar bien preparado-. Además, se da a entender que el cociente de inteligencia será elevado. Por lo tanto, la respuesta sería la alternativa (b)'
+
+  pregunta2: 'En la futura sociedad tecnificada habrá para cada puesto de trabajo'
+  alternativas2:
+    A: Una mayor exigencia intelectual
+    B: Varios candidatos de alto nivel
+    C: Un postulante más recomendado que otros
+    D: Varios candidatos con iguales méritos
+    E: Un aspirante mejor educado que otros
+
+  solucion2:
+    alternativa: A
+    razon: '“La sociedad altamente tecnificada del futuro se configurará en función del cociente de inteligencia; pues al disponer todas las mismas oportunidades y ante la exigencia de un alto nivel de especialización que presentará este tipo de comunidad… cada cargo tendrá su candidato indiscutible…”. Analizando las palabras resaltadas encontramos que en el futuro habrá una mayor exigencia intelectual. '
+
+  pregunta3: '“Al disponer todos de las mismas oportunidades” significa en este texto que todos'
+  alternativas3:
+    A: Van a las universidades
+    B: Poseen la misma inteligencia
+    C: Alcanza notas altas
+    D: Son igualmente dotados
+    E: Tienen acceso a la educación
+  
+  solucion3: 
+    alternativa: E
+    razon: 'El fundamento a esta Pregunta. la encontramos en dos partes; una dice “pues al disponer todos de las mismas oportunidades…. Cada puesto tendrá un candidato indiscutible”; la otra señala: “Resumiendo, será una sociedad donde probablemente, las escuelas licenciarán mayor proporción de la gente educada que actualmente…” De las palabras resaltadas se entiende con facilidad que todos tendrán acceso a la educación. '
+
+  pregunta4: 'El mundo completo del futuro será comprendido por'
+  alternativas4:
+    A: Los egresados de las universidades
+    B: Todos los miembros de una población
+    C: Una minoría de la población
+    D: Los egresados de las escuelas
+    E: Una mayoría de la población
+
+  solucion4:
+    alternativa: C
+    razon: '“… pero donde la gran mayoría de los ciudadanos serán incapaces de comprender el futuro del mundo automatizado”. De esta expresión se deduce que sólo una minoría comprenderá en futuro. '
+
+  pregunta5: 'El autor describe un futuro en el cual las computadoras'
+  alternativas5:
+    A: Sustituyen a los profesores
+    B: Son comprendidas por todos
+    C: Superan parcialmente al hombre
+    D: Reemplazan a los investigadores
+    E: Dominan al ser humano
+  
+  solucion5:
+    alternativa: C
+    razon: '“Además, la mayor parte de la gente tendrá que reconocer que, desde el punto de vista de la lógica, las computadoras pensarán, las líneas generales, mejor que ellos mismos”. Es decir, las computadoras superarán a los humanos. '

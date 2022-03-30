@@ -1,0 +1,25 @@
+texto: 'Hasta hace poco la televisión era el medio mas consumido. Pero ahora, por primera vez en la historia, un sondeo acaba de revelar que este año los adultos norteamericanos pasarán mas tiempo al día usando los medios digitales que viendo la televisión. El estudio, realizado por la empresa Marketer, estima que le medida de consumo de internet está en 5 horas y 9 minutos, lo que supondría un incremento de 38 minutos con respecto al año pasado. En cambio, el tiempo dedicado se ha mantenido estable durante este período, con 4 horas y 31 minutos frente a las 4 horas y 38 minutos del año anterior. A esto contribuye especialmente que los adultos pasarán una media de 2 horas y 21 minutos al día usando sus dispositivos móviles (teléfonos y tabletas) para actividades diferentes a realizar las llamadas telefónicas.'
+pregunta1: 'El texto centralmente informa que internet'
+alternativas1: 
+  A: Es el medio más consumido en Norteamérica
+  B: Ha desplazado en preferencia a la televisión
+  C: Se consume más en dispositivos móviles
+  D: Ha generado alarmantes casos de adicción
+  E: Genera cuantiosas ganancias por publicidad
+
+solucion1: 
+  alternativa: B
+  razon: 'El texto establece una comparación entre la televisión e internet con el objetivo de enfatizar que este último le ha ganado en preferencia al primero.  '
+
+pregunta2: 'Conforme a lo leído, resulta equivocado afirmar que'
+alternativas2:
+  A: Los adultos usan con mayor frecuencia dispositivos móviles
+  B: La media de consumo de internet está en 5 horas y 9 minutos
+  C: El consumo de la televisión no ha sufrido grandes variaciones
+  D: El consumo de internet muestra una tendencia a decrecer
+  E: Hasta hace poco la televisión era el medio más consumido
+
+solucion2: 
+  alternativa: C
+  razon: 'Según lo leído el consumo de internet tenderá a incrementarse con el tiempo. En tal sentido resulta falso sostener que su consumo disminuirá a futuro. '
+

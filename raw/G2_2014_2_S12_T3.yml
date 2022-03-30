@@ -1,0 +1,74 @@
+texto:
+    En la genealogía de los grandes descubrimientos, no es infrecuente que una idea luminosa nazca de la hibridación de dos ideas anteriores aparentemente desconectadas. El reloj de sol, conocido desde hace milenios, utiliza la propia rotación de la Tierra para medir el paso del tiempo. Los relojes mecánicos, se basan en la isocronía del péndulo (el hecho de que su período de oscilación solo dependa de la longitud del brazo), descubierta por Galileo a finales del siglo XVI. Pero hay un fascinante y gigantesco “reloj” que asocia ambos recursos cronométricos, que en principio nada tienen que ver':' el movimiento del péndulo y la rotación de la Tierra.
+    En 1851, el físico francés Bernard Foucault colgó de la cúpula del Panteón de París una esfera metálica de 28 kilogramos con un cable de 67 metros. Debido a la gran longitud de su brazo, el enorme péndulo oscilaba con irreal lentitud':' unos 17 segundos para completar una oscilación. Pero lo que maravilló a los asistentes al experimento fue que el plano de oscilación giraba lenta pero perceptiblemente en el sentido de las agujas del reloj, hasta dar una vuelta completa en algo más de 32 horas. En realidad, el plano de oscilación del péndulo permanecía fijo':' la que giraba era la Tierra. Si imaginamos el péndulo situado en el Polo Norte, es fácil visualizar el planeta girando en sentido antihorario y el plano de oscilación dando una vuelta completa (aparente) en 24 horas.
+    A medida que disminuye la latitud, aumenta el tiempo que tarda el plano de oscilación en dar una vuelta completa, por lo que el péndulo de Foucault, además de demostrar la rotación de la Tierra por medios mecánicos e independientes de las observaciones astronómicas, permite determinar la latitud sin mirar al cielo':' como es fácil demostrar, el seno de la latitud se obtiene dividiendo 24 horas por el tiempo que tarda el plano de oscilación en dar una vuelta completa. En el caso de París, 24/32 = 0,75, lo que corresponde a una latitud de unos 49º. En el ecuador la latitud es 0º, y el tiempo de rotación del plano de oscilación se vuelve infinito, que es una forma de decir que no se desplaza. Si la lámpara oscilante de Galileo merece ser considerada el Abraham de los péndulos, el péndulo de Foucault, por su demostración experimental de la rotación de la Tierra, bien podría denominarse, parafraseando a Mark Twain, el Galileo de los péndulos.
+    
+#1
+pregunta1: El tema medular del texto es
+
+alternativas1: 
+    A: la demostración de la rotación terrestre mediante el péndulo.
+    B: la hibridación de dos ideas en el nacimiento de una idea lúcida.
+    C: el reloj solar utilizado hace milenios en la medición del tiempo.
+    D: la lámpara oscilante de Galileo, el Abraham de los péndulos.
+    E: el péndulo ensamblado por Foucault que se exhibió en París. 
+
+solucion1: 
+    alternativa: E
+    razon: El tema central está dado por este péndulo exhibido por Foucault.
+
+#2
+pregunta2: En el texto, la palabra LUMINOSA cobra el significado de
+
+alternativas2:
+    A: radiante.
+    B: brillante.
+    C: creativa.
+    D: lúcida.
+    E: perspicaz.
+
+solucion2: 
+    alternativa: C
+    razon: En el texto, la palabra luminosa asume la acepción de creativa.
+
+#3
+pregunta3: Se genera una incompatibilidad cuando se afirma que
+
+alternativas3: 
+    A: el péndulo de Foucault completaba una oscilación en 17 segundos.
+    B: el péndulo de Foucault permite de inmediato determinar la latitud.
+    C: la Tierra ejecuta su rotación en sentido de las agujas de un reloj.
+    D: los relojes mecánicos se basan en la isocronía de los péndulos.
+    E: el enorme péndulo debido a la gran longitud de sus brazos es lento. 
+
+solucion3: 
+    alternativa: C
+    razon: Opuestamente al plano descrito por el péndulo, la Tierra gira en sentido contrario a las agujas del reloj.
+
+#4
+pregunta4: Se colige que Foucault en la invención de este péndulo
+
+alternativas4: 
+    A: desconocía las imprecisiones del reloj solar ya utilizado por muchos milenios.
+    B: creía que este péndulo solamente iba a medir el transcurrir de las horas del día.
+    C: evitó recurrir a los conceptos precisos establecidos por la genialidad de Galileo.
+    D: tuvo que tener en cuenta ciertas dimensiones adecuadas para su elaboración.
+    E: ignoraba el giro lento pero perceptible del plano en sentido de la aguja del reloj. 
+
+solucion4: 
+    alternativa: D
+    razon: De las referencias del texto tenemos que inferir que este péndulo fue elaborado acuciosamente.
+
+#5
+pregunta5: Si Galileo no hubiese descubierto la isocronía del péndulo,
+
+alternativas5: 
+    A: Foucault en el siglo XIX habría hecho el descubrimiento.
+    B: algún contemporáneo lo habría descubierto en París.
+    C: los relojes que usan de la rotación de la Tierra no existirían.
+    D: no habrían surgido los relojes de sol, solo los de arena.
+    E: Foucault no habría podido idear su famoso péndulo. 
+
+solucion5: 
+    alternativa: E
+    razon: Se indica al comienzo del texto que algunos grandes descubrimientos surgen por hibridación de ideas, es el caso del péndulo de Foucault, no se habría concebido porque la habría faltado una idea clave. El descubrimiento de Galileo.

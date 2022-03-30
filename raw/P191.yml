@@ -1,0 +1,59 @@
+  texto: 'A las ocho en punto de la mañana, Félix Maldonado llegó al Sanborns de la Avenida Madero. Llevaba años sin poner un pie dentro del famoso Palacio de los Azulejos. Pasó de moda, como todo el viejo centro de la ciudad de México, trazado de mano propia de Hernán Cortés sobre las ruinas de la capital azteca. Félix pensó esto cuando empujó la puerta de entrada. Dio media vuelta y salió otra vez a la calle. Se sintió culpable. Iba a llegar tarde a la cita. Tenía la fama de ser el más puntual de toda la burocracia mexicana. Fácil, decían algunos. Dificilísimo, decía Ruth, la esposa de Félix: lo fácil es dejarse llevar por la impositiva ley del menor esfuerzo. Esa mañana no resistió la tentación de perder un par de minutos. Se detuvo en la acera de enfrente y admiró el esplendor de la fachada de este viejo palacio colonial. Cruzó la calle e ingresó al recinto. Atravesó el vestíbulo comercial. Una de las mesas era ocupada por el doctor Bernstein.  FUENTES, Carlos La cabeza de la hidra'
+  pregunta1: 'Se puede entender que el famoso Palacio de los Azulejos'
+  alternativas1: 
+    A: Se encontraba abandonado.
+    B: Fue inaugurado por Hernán Cortés.
+    C: Se localiza en la avenida Madero.
+    D: Fue utilizado para admirar el Sanborns.
+    E: Se hallaba frente al Sanboms.
+  solucion1: 
+    alternativa: C
+    razon: 'Se puede entender que el famoso Palacio de los Azulejos se localiza en la avenida Madero. En la primera parte del texto, el autor afirma que Félix llega al Sanborns, y luego comenta que el personaje no había estado en el famoso Palacio de los Azulejos hacía años. Por consiguiente, se deduce que el Sanborns es generalmente conocido con este nombre, ya que el Sanboms queda en la avenida Madero, pues es ahí donde lógicamente se erige el mencionado Palacio. '
+
+
+  pregunta2: '¿Qué elemento de juicio consideró el autor para dejarse atraer por el esplendor del Sanborns?'
+  alternativas2: 
+    A: Su localización geográfica.
+    B: Su trascendencia histórica.
+    C: Su ubicación citadina.
+    D: Su coloración azul.
+    E: Su gran fama.
+  solucion2: 
+    alternativa: B
+    razon: '¿Qué elemento de juicio consideró el autor para dejarse atraer por el esplendor del Sanborns? Su trascendencia histórica. Tal como narra el autor, Félix se acordó de que el Sanborns, como todo el centro de la ciudad de México, hubo de ser diseñado por el propio Hernán Cortés. Fue esta idea la que lo devolvió a la calle cuando se disponía a llegar puntualmente a su cita. '
+
+  pregunta3: '¿En qué momento Félix decide observar con cierta paciencia el esplendor de la fachada del viejo palacio colonial?'
+  alternativas3:
+    A: Cuando empujó la puerta de entrada.
+    B: Cuando estuvo en la acera de enfrente.
+    C: Cuando ingresó al vestíbulo comercial.
+    D: Cuando se hallaba dentro del Sanborns.
+    E: Cuando llegó a la capital azteca.
+
+  solucion3:
+    alternativa: D
+    razon: '¿En qué momento Félix decide observar con cierta paciencia el esplendor de la fachada del viejo palacio colonial? Cuando se hallaba dentro del Sanborns. Según el texto, Félix ya se hallaba en el interior del edificio, cuando decide retornar a la calle para observar la fachada del Sanborns con mayor detenimiento; antes de conocer su interior. '
+
+  pregunta4: 'Respecto de Félix, se quiere destacar básicamente su'
+  alternativas4:
+    A: Sensibilidad
+    B: Bagaje cultural
+    C: Respeto a la burocracia
+    D: Disciplina laboral
+    E: Racionalismo
+
+  solucion4:
+    alternativa: D
+    razon: 'Respecto de Félix, se quiere destacar básicamente su disciplina laboral. En el texto se destaca la puntualidad que caracteriza a Félix dentro del ámbito burocrático al cual pertenece. Incluso, el autor llega a sugerir que es este tema el que entretiene a los allegados a Félix; entre estas personas figuran, por ejemplo, su esposa Ruth, quien sale a su favor en el debate. '
+
+  pregunta5: 'El argumento de Ruth se opone a la opinión de quienes pretenden'
+  alternativas5:
+    A: Caer en el error del facilismo
+    B: Imponer la ley del menor esfuerzo
+    C: Dejarse llevar por el menor esfuerzo 
+    D: Desvirtuar las cualidades burocráticas 
+    E: Desmerecer la puntualidad de Félix
+
+  solucion5:
+    alternativa: E
+    razon: 'El argumento de Ruth se opone a la opinión de quienes pretenden desmerecer la puntualidad de Félix. Aquellos que conocen a Félix piensan que su puntualidad debe resultar algo fácil tomando en cuenta que se trata del mundo burocrático, en el cual se impone la ley del menor esfuerzo. Ruth, por su parte, afirma que es dificilísimo, y que es muy fácil dejarse llevar por el facilismo. Con este argumento, Ruth pretende rebatir a quienes desmerecen la puntualidad de su esposo. '

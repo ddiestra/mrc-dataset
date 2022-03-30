@@ -1,0 +1,57 @@
+texto: 'En las últimas décadas, el mundo de la informática ha evolucionado considerablemente. El principal cambio que ocurrió en el mundo de la tecnología fue la miniaturización. Es decir, el tamaño de los procesadores y la memoria se ha reducido de manera notable. Uno de los tubos de vacío del ENIAC, de la década de 1940, era del tamaño de la palma de la mano. Desde entonces, el reducir el tamaño de estos componentes se convirtió en la meta, para así reducir el tamaño de los ordenadores, que de aquella época ocupaban una sala entera. El mayor avance en el proceso de miniaturización llegó con los transistores. El mayor logro en esta área se produjo en los Laboratorios Bell, donde se experimentaban con ellos. Los transistores son unos dispositivos que hacen la misma función que los tubos de vacío. De hecho, el funcionamiento de ambos es muy similar. Ambos conducen electricidad o no dependiendo de la energía que reciben o han recibido. Es como un interruptor, solo puede estar abierto (0) o cerrado (1). La diferencia que hay entre ambos es el tamaño. Mientras que uno de ellos, los tubos de vacío, caben en la palma de la mano, los otros no se pueden ver sin la ayuda de un microscopio. Desde entonces, se ha tratado de hacer los transistores más y más pequeños. Cuanto más pequeños, más transistores se pueden incluir en un chip o procesador. Además, el menor tamaño también puede ayudar a que los transistores funcionen mejor al estar más próximos entre sí. ¿Y cuánto se reduce el tamaño de los transistores? Los últimos procesadores de Intel, los Kaby Lake, tienen procesadores de tan solo 14 nanómetros. Por el contrario, en 2010 los procesadores Westmere de la misma empresa, trabajaban con transistores de 32 nanómetros. Sin lugar a duda, una gran diferencia.  ¿Y cuál es el límite? Se estima que el límite de los transistores está entre los 7 u 8 nm. A partir de ahí, el material del que están hechos se vuelve muy inestable. Como podemos ver, nos estamos acercando a ese límite. Por esta razón, es importante buscar nuevas alternativas. '
+pregunta1: 'En última instancia, el texto es'
+alternativas1: 
+  A: Una noticia sobre las técnicas y los métodos que han permitido la miniaturización de los transistores y de las memorias en los Laboratorios Bell. 
+  B: Una exhortación para hallar soluciones que nos permitan capear el inminente límite que la miniaturización va a experimentar próximamente. 
+  C: Una exposición de la sorprendente evolución que la miniaturización de los transistores ha experimentado desde la década de 1940. 
+  D: Una preocupante revelación de que el proceso de miniaturización de las computadoras va a encontrar un culmen en los próximos años. 
+
+solucion1: 
+  alternativa: B
+  razon: 'El texto es una exposición de la evolución de la miniaturización de los transistores y memorias, proceso que próximamente encontrará un límite; por tal razón, el autor finaliza haciendo un llamado a superar dicha dificultad. '
+  
+pregunta2: 'El adjetivo NOTABLE connota los adjetivos siguientes, excepto'
+alternativas2:
+  A: Palmaria. 
+  B: Moderada. 
+  C: Relevante. 
+  D: Evidente. 
+
+solucion2: 
+  alternativa: B
+  razon: 'Con el adjetivo NOTABLE, el autor significa que la miniaturización de los procesadores y memorias ha sido evidente y elogiable, mas no moderada, pues ya se está llegando al límite de lo posible.  '
+  
+pregunta3: 'El desarrollo textual se ve reforzado por la inclusión de dos imágenes; de ellas podemos colegir que'
+alternativas3:
+  A: Los ordenadores de 1940 eran difícilmente portátiles, a diferencia de los ordenadores actuales. 
+  B: El procesador actual tiene exactamente la misma velocidad de los tubos de vacío de los Laboratorios Bell. 
+  C: No existe diferencia cuantitativa ni cualitativa entre los ordenadores del siglo XX y los del siglo XXI. 
+  D: La diferencia entre los ordenadores del siglo XX y los del siglo XXI se debe a la función que cumplen. 
+
+solucion3: 
+  alternativa: A
+  razon: 'De la primera imagen, notamos que el ordenador, una vez ensamblado, debía permanecer estacionado; a diferencia de los ordenadores actuales, cuyos componentes han sido miniaturizados. '
+  
+pregunta4: 'De la relación entre las imágenes y el desarrollo textual, podemos colegir que los ordenadores que incluyen un procesador del siglo XXI'
+alternativas4:
+  A: Son más eficientes, ya que sus transistores tienen límites conocidos. 
+  B: Deben tener un costo mayor que los ordenadores de inicios del s. XX. 
+  C: Funcionarían mejor que los ordenadores que incluyen tubos de vacío. 
+  D: Trabajan con electricidad, a diferencia de los ordenadores del siglo XX. 
+
+solucion4: 
+  alternativa: C
+  razon: 'En el texto se indica a la letra que «el menor tamaño también puede ayudar a que los transistores funcionen mejor al estar más próximos entre sí», por ello, podemos deducir que los ordenadores que incluyen procesadores actuales serían más eficientes que sus pares del siglo XX.  '
+  
+pregunta5: 'Si la miniaturización no tuviera ningún límite, posiblemente'
+alternativas5:
+  A: Los ordenadores llegarían a tener tamaños sorprendentemente diminutos. 
+  B: La ciencia de los ordenadores estaría totalmente exenta de problemas. 
+  C: Los procesadores del futuro ya no podrían caber en la palma de la mano. 
+  D: Todas las computadoras llegarían a tener dimensiones microscópicas. 
+  
+
+solucion5: 
+  alternativa: A
+  razon: 'La miniaturización tiene límites por debajo de los 7 u 8 nm. Por eso, podemos pensar que la miniaturización de los ordenadores encontrará un coto en un futuro no lejano, o sea, ya no se podrán construir computadoras más y más pequeñas. En cambio, si no existieran límites, es posible que los ordenadores sigan haciéndose cada vez más diminutos.  '
+  

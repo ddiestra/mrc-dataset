@@ -1,0 +1,60 @@
+  texto: 'A medida que las observaciones astronómicas progresan, es de suponer que se descubrirán más galaxias, esto reforzaría la posibilidad de que exista vida en otros lugares del universo, lo que ya tiene sustento en una base estadística. Solo en nuestra galaxia existen 100 mil millones de estrellas. Si únicamente el uno por ciento de ellas tuviera planetas, tendríamos mil millones de sistemas solares. Aún sin ninguno de éstos tuviera planetas a la distancia adecuada y con los elementos químicos necesarios para sostener la vida, existen millones de galaxias, por lo que las probabilidades favorecen abrumadoramente la existencia de alguna forma de idea en más de un sitio del universo. Si bien esas posibilidades son abrumadoras, las distancias están en contra de llegar a conocer esas formas de vida. Las leyes de la física como las conocemos hay, imponen un límite a la velocidad de las comunicaciones, y las distancias del universo lo convierten en un límite infranqueable, al menos en términos de la vida humana. Un mensaje enviado a las galaxias más cercanas demoraría en llegar más tiempo del que tiene el hombre en la tierra. De haber respuesta, está probablemente ya no encontraría a nadie para recibirla.'
+  pregunta1: 'El texto argumenta en favor'
+  alternativas1:
+    A: Del gran avance experimentado por la observación astronómica
+    B: Del gran número de galaxias que existiría en el universo
+    C: De la imposibilidad de enviar mensajes a otras galaxias
+    D: Del límite a las distancias que imponen las leyes físicas
+    E: De la posibilidad de que exista vida en otros planetas
+
+  solucion1:
+    alternativa: E
+    razon: '"... existen millones de galaxias, por lo que las probabilidades favorecen abrumadoramente la existencia de alguna forma de vida en más de un sitio del universo". '
+
+  pregunta2: 'El descubrimiento de un número mayor de galaxias en el universo'
+  alternativas2: 
+    A: Tiene sustento en una extensa base estadística
+    B: Dependerá del progreso de las observaciones astronómicas
+    C: Permitirá comprobar la existencia de la vida en otros planetas
+    D: Hace más difícil la comunicación con seres de otros planetas
+    E: Impone un límite a la velocidad de las comunicaciones
+  
+  solucion2:
+    alternativa: B
+    razon: ' "A medida que las observaciones astronómicas progresan, es de suponer que se descubrían más galaxias". '
+
+  pregunta3: 'Las posibilidades de que exista vida en más de un sitio del universo son abrumadoras por que'
+  alternativas3:
+    A: El progreso de la observación astronómica es abrumador
+    B: En nuestra galaxia hay millones de distancias solares
+    C: Algunos planetas se hallan a una distancia adecuada
+    D: El desarrollo de las comunicaciones lo hace posible
+    E: Existe un número muy grande de galaxias en el universo
+  
+  solucion3: 
+    alternativa: E
+  razon: ' "... existen millones de galaxias, por lo que las probabilidades favorecen abrumadoramente la existencia de alguna forma de vida (en el universo)". '
+
+  pregunta4: 'No podríamos comprobar la existencia de vida en otros lugares del universo porque'
+  alternativas4:
+    A: Cada galaxia tiene millones de sistemas solares
+    B: El hombre está desde hace muy poco sobre la tierra
+    C: Un mensaje enviado a otra galaxia no tendría
+    D: No sabemos qué condiciones reinan en otros planetas
+    E: Las leyes físicas imponen un límite a las comunicaciones
+
+  solucion4:
+    alternativa: E
+    razon: '"Si bien esas posibilidades son abrumadoras, las distancias están en contra de llegar a conocer esas formas de vida. Las leyes de la física imponen un límite a las comunicaciones..." '
+
+  pregunta5: 'De acuerdo con el texto, ¿Cuál de las siguientes afirmaciones es incorrecta?'
+  alternativas5:
+    A: Las distancias del universo son un límite infranqueable
+    B: En nuestra galaxia no hay planetas con condiciones para la vida
+    C: Las leyes de la física impiden la comunicación Inter galaxias
+    D: El progreso de la observación permite descubrir nuevas galaxias
+    E: La distancia que nos separa de la galaxia más cercana es enorme
+  
+  solucion5:
+    alternativa: B
+    razon: 'De las cinco alternativas la B: es incorrecta porque sería la negación que la realidad de nuestra propia existencia por cuanto en nuestra galaxia hay seres cuya existencia se puede comprobar y dichos seres somos nosotros y nuestro planeta se llama tierra. '

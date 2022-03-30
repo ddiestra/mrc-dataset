@@ -1,0 +1,60 @@
+  texto: 'Para alcanzar la perfección es imprescindible, según Descartes, no cometer el error de los antiguos que consistió en basar sus investigaciones en premisas dudosas, cuestionables y, a la larga, falsas. Frente a una perspectiva como la de Platón que hace de la conjetura, de las hipótesis, el punto de partida de toda búsqueda científica. Descartes propone un modelo de investigación basado en los indiscutibles, en lo absolutamente firme. Es decir, no partir de lo probable sino de lo seguro, no de una hipótesis sino de una tesis, no de una conjetura sino de una certeza: el edificio del conocimiento debe tener cimientos inconmovibles y para ello es necesario abandonar todos  los supuestos y afirmar únicamente aquello que están evidente y simple que  no pueda ser objeto de duda. Y qué mejor modo de empezar la investigación que poniendo precisamente en duda todo lo que hasta la fecha se ha aceptado como verdadero: la duda va a ser el método a través del cual vamos a liberarnos de todo prejuicio inconsistente y a encontrar uno o dos principios irrefutables que van a ser la base inamovible del saber. Comencemos pues por someter a la duda aquello que para los medievales era el principio mismo de todo conocimiento: la percepción sensorial y preguntémonos si ella es absolutamente inequívoca.'
+  pregunta1: 'El método que propone Descartes consiste en aplicar la duda a'
+  alternativas1:
+    A: L percepción sensorial y sus consecuencias cognoscitivas.
+    B: Lo indudable y a los principios inconmovibles.
+    C: Todas las certezas y encontrar principios inconmovibles.
+    D: Las hipótesis y certezas por igual.
+    E: A la duda misma.
+
+  solucion1:
+    alternativa: C
+    razon: 'En el texto dice "dice mejor modo de empezar la investigación que poniendo en duda lo aceptado como verdadero (lo cierto), para liberarnos de todo prejuicio inconsistente y encontrar uno o dos principios irrefutables". De ello deducimos que debemos dudar de lo aceptado como verdadero o cierto para encontrar principios irrefutables. '
+
+  pregunta2: 'Según Platón, el punto de partida de toda investigación es'
+  alternativas2: 
+    A: La certeza
+    B: La conjetura
+    C: Lo evidente
+    D: Lo inconmovible
+    E: Lo indudable
+  
+  solucion2:
+    alternativa: B
+    razon: '"Frente a una perspectiva como la de Platón que hace de la conjetura, de la hipótesis, el punto de partida de toda búsqueda científica." Por lo expuesto es obvio que para el referido filósofo un punto de partida de la ciencia es la conjetura. '
+
+  pregunta3: 'Para los medievales el principio de todo conocimiento es'
+  alternativas3:
+    A: La duda
+    B: La hipótesis
+    C: La percepción sensorial
+    D: La tesis
+    E: Los hechos objetivos
+  
+  solucion3: 
+    alternativa: C
+    razon: '"Conocemos pues por someter a la duda aquello que para los medievales era el principio mismo de todo conocimiento: la percepción sensorial..." Por tal motivo Descartes nos sugiere no caer en dicho error. '
+
+  pregunta4: 'Según Descartes, el error de los antiguos fue basar sus investigaciones en'
+  alternativas4:
+    A: Lo incontestable
+    B: Premisas ciertas
+    C: Certezas
+    D: Premisas dudosas
+    E: Lo evidente
+
+  solucion4:
+    alternativa: D
+    razon: '"... es imprescindible, según Descartes, no cometer el error de los antiguos que consistió en basar sus investigaciones en premisas dudosas, cuestionables... falsas" De las palabras resaltadas es fácil comprender que para Descartes el error de los hombres de la antigüedad consistió en que sus actividades de investigación se basaban en premisas dudosas y hasta cuestionables. '
+
+  pregunta5: 'Según Descartes, la investigación debe partir de'
+  alternativas5:
+    A: Una tesis
+    B: Una hipótesis
+    C: Una conjetura
+    D: Un prejuicio
+    E: Un supuesto
+  
+  solucion5:
+    alternativa: A
+    razon: '"Descartes propone .... no partir de lo probable sino de lo seguro, no de una hipótesis sino de una tesis..." Según el texto, para Descartes la mejor manera de encontrar la verdad irrefutable era partir de la certeza. '

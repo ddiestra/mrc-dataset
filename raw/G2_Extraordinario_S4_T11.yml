@@ -1,0 +1,106 @@
+texto:  'Hasta ahora teníamos una variopinta gama de teorías para explicar la desaparición
+        de los dinosaurios, entre las favoritas están la actividad volcánica y el impacto de un
+        meteorito. Según un nuevo libro la desaparición de los animales terrestres más grandes
+        que ha existido pudo deberse a una fuerza menos dramática: los pequeños insectos.
+        Según los expertos que han escrito el libro, una contribución importante a la extinción
+        de estos animales pudo deberse a la proliferación de insectos, especialmente a aquellos
+        portadores de enfermedades. La nueva teoría se basa en las pruebas recolectadas a través
+        de los insectos conservados en ámbar de aquella época.
+        George Poinar, profesor en Oregon State University, sostiene que las teorías que
+        tratan de explicar la desaparición de estos animales debido a fenómenos súbitos, como un
+        impacto o impactos de meteoritos, tienen problemas con el hecho de que los dinosaurios
+        declinaron durante un periodo de tiempo de cientos o miles de años, y este lapso de tiempo
+        no es consistente con los efectos inducidos por el impacto de un meteorito. Pero la amenaza
+        que supuso la emergencia de enfermedades propagadas por insectos y la proliferación de
+        plantas con flores, que se dio por un periodo de tiempo más largo, sí es compatible con lo
+        que sabemos sobre la extinción de los dinosaurios.
+        Este científico expone junto a Roberta Poinar esta teoría en el libro: What Bugged the
+        Dinosaurs? Insects, Disease and Death in the Cretaceous, (Princeton University Press). En
+        él los autores proponen que los insectos proporcionan una explicación mejor para el lento
+        declive y eventual extinción de los dinosaurios que sucedió a lo largo de miles de años.
+        Este periodo de tiempo es conocido como borde o límite K-T (que es un cronohorizonte
+        geológico, presente como una estrecha capa en los estratos de la corteza terrestre), está
+        situado entre el Cretácico y Terciario y tuvo lugar hace 65 millones de años.
+        Hay pruebas de eventos catastróficos, como cráteres de impacto o afloramientos de
+        lava, que se dieron en esa época. Una de la pruebas más convincentes es la presencia de
+        iridio en el límite K-T, elemento muy escaso en la corteza terrestre. Sin embargo, estas
+        pruebas no explican el declive gradual de las poblaciones de estos animales, por qué
+        sobrevivieron miles de años después del límite K-T, y por qué otros animales no se
+        extinguieron.
+        Por otro lado, los insectos proporcionan una mejor explicación y pudieron terminar
+        finalmente el trabajo iniciado por meteoritos o volcanes. Los autores no sugieren que la
+        propagación de enfermedades debida a las picaduras de insectos fuera la única causa de
+        la extinción de los dinosaurios, otros eventos catastróficos pudieron haber jugado un papel
+        en el asunto, pero sostienen que estos eventos por sí solos no explican el proceso que en
+        realidad sucedió. Quizás el declive y extinción de los dinosaurios necesitó incluso de
+        millones de años y los insectos proporcionan una mejor explicación.'
+    
+preguntas:    
+  - pregunta: El antónimo contextual de PROLIFERACIÓN es
+    alternativas:
+        A: pobreza. 
+        B: inmersión. 
+        C: mengua.
+        D: inserción. 
+        E: recensión.
+    solucion:
+      alternativa: C
+      razon:  La proliferación de insectos y plantas con flores indica que estos iban
+              aumentando y multiplicándose. Lo contrario sería pensar que estos fueron
+              decreciendo o disminuyendo, o sea, menguando.
+
+  - pregunta: La hipótesis principal del texto es que los dinosaurios se extinguieron
+    alternativas:
+        A: súbitamente en el periodo llamado borde o límite K-T.
+        B: lentamente por la acción significativa de los insectos.
+        C: rápidamente como consecuencia de fenómenos geológicos.
+        D: paulatinamente debido a la colisión de un meteorito.
+        E: inevitablemente por la proliferación de enfermedades.
+    solucion:
+      alternativa: B
+      razon:  El texto informa de una nueva hipótesis que explica el declive gradual,
+              ción, de los dinosaurios que se explica gracias a la acción de los insectos.
+
+  - pregunta: Es compatible concluir que el papel de los insectos en la extinción de los dinosaurios
+              s una hipótesis
+    alternativas:
+        A: absurda. 
+        B: infundada. 
+        C: inverosímil. 
+        D: irracional. 
+        E: plausible.
+    solucion:
+      alternativa: E
+      razon:  la hipótesis de que los insectos jugaron un papel significativo en la
+              extinción de los dinosaurios es más creíble o plausible que otras hipótesis por los
+              datos de los que se dispone.
+
+  - pregunta: La hipótesis del impacto de un meteorito como único factor responsable de la extinción
+              de los dinosaurios
+    alternativas:
+        A: será confirmada cuando los datos provenientes del límite K-T se interpreten.
+        B: será dejada de lado pronto para ser reemplazada por la teoría del vulcanismo.
+        C: pierde credibilidad porque las aves siguieron viviendo después del impacto.
+        D: es refutable porque los insectos conservados en ámbar sugieren algo diferente.
+        E: resulta inverosímil porque no se ha encontrado evidencia de dicha colisión.
+    solucion:
+      alternativa: D
+      razon:  Las diversas teorías que intentan explicar la extinción de los dinosaurios
+              pierden plausibilidad cuando se tiene evidencia de que los dinosaurios no
+              desaparecieron de un momento a otro, sino que su declive fue progresivo. Este último
+              raciocinio se basa en datos provenientes de los insectos conservados en ámbar.
+
+  - pregunta: Si en el año 2020 un meteorito colisionara contra la Antártida, es posible que
+    alternativas:
+        A: los seres humanos no se extingan súbitamente.
+        B: los animales perezcan antes que los humanos.
+        C: la vida marina desaparezca inexorablemente.
+        D: el planeta Tierra sea destruido inmediatamente.
+        E: los mosquitos acaben con toda la vida del planeta.
+    solucion:
+      alternativa:  A
+      razon:  En el texto se hipotetiza que aun cuando haya habido un impacto de un
+              meteorito en la Tierra durante la época de los dinosaurios, este no los hubiera
+              extinguido súbitamente, sino que un grupo de estos animales hubiera tenido un lento
+              declive durante un lapso prolongado. Algo parecido puede ocurrir en el 2020 si
+              impactara un meteorito contra la Tierra.

@@ -1,0 +1,25 @@
+texto: 'Encontró el cadáver cubierto con una manta en el catre de campaña donde había dormido siempre, cerca de un taburete con la cubeta que había servido para vaporizar el veneno. En el suelo, amarrado de la pata del catre, estaba el cuerpo tendido de un gran danés negro de pecho nevado, y junto a él estaban las muletas. El cuarto sofocante y abigarrado que hacía al mismo tiempo de alcoba y laboratorio, empezaba a iluminarse apenas con el resplandor del amanecer en la ventana abierta, pero era luz era suficiente para reconocer de inmediato la autoridad de la muerte. Las otras ventanas, así como cualquier resquicio de la habitación, estaban amordazadas con trapos o selladas con cartones negros, y eso aumentaba su densidad opresiva. Había un mesón atiborrado de frascos y pomos sin rótulos, y dos cubetas de peltre descascarado bajo un foco ordinario cubierto de papel rojo. La tercera cubeta, la del líquido fijador, era la que estaba junto al cadáver. Había revistas y periódicos viejos por todas partes, pilas de negativos en placas de vidrio, muebles rotos, pero todo estaba preservado del polvo por una mano diligente. Aunque el aire de la ventana había purificado el ámbito, aún quedaba para quien supiera identificarlo el olor de las almendras amargas. Aquel no era un lugar propicio para morir en gracia de Dios.'
+pregunta1: 'El texto básicamente describe'
+alternativas1: 
+  A: La muerte de un hombre que no logra alcanzar la gracia de Dios
+  B: El fenecimiento de un anciano a consecuencia de la indigencia
+  C: La profunda soledad y miseria que motivó la muerte de un hombre
+  D: Las condiciones de un cuarto en el cual se descubre un cadáver
+  E: El desorden reinante en la habitación de un difunto que era ateo
+
+solucion1: 
+  alternativa: D
+  razon: 'El texto centralmente responde a la siguiente pregunta: ¿En qué condiciones se encontraba el cuarto en el que se descubrió el cadáver? '
+
+pregunta2: 'Resulta incorrecto con la descripción del texto sostener que el cuarto del cadáver '
+alternativas2:
+  A: Era un tanto sofocante
+  B: Era como un cuchitril
+  C: Estaba repleto de revistas
+  D: Tenía poca luminosidad
+  E: Mostraba cierto desorden
+
+solucion2: 
+  alternativa: B
+  razon: 'En el texto se afirma que el cuarto se encontraba limpio y pulcro pese al desorden, por lo cual no es correcto sostener que el cuarto era como un cuchitril (lugar sucio). '
+

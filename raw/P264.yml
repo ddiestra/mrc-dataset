@@ -1,0 +1,56 @@
+texto: 'Edward Teller, un notable físico nacido en Hungría, quedó marcado de joven por la revolución comunista de Béla Kun en Hungría, en la que se expropiaron las propiedades de familias de clase media como la suya, y por la pérdida de una pierna, que le producía un dolor permanente, en un accidente de circulación. Fue él quien acompañó al físico Leo Szilard a ver a Albert Einstein cuando se encontraba de vacaciones en Long Island en julio de 1939, una reunión que llevó a la carta histórica de Einstein al presidente Franklin Roosevelt en la que le apremiaba, a la vista de los acontecimientos científicos y políticos de la Alemania nazi, a desarrollar una bomba de fisión o «atómica». Reclutado para trabajar en el «Proyecto Manhattan», Teller llegó a Los Álamos y poco después se negó a colaborar... no porque le desesperara lo que podría llegar a hacer una bomba atómica, sino por lo contrario: porque quería trabajar en un arma mucho más destructiva, la bomba de fusión, termonuclear o de hidrógeno, la cual carece de un límite superior práctico en su rendimiento o energía destructiva. Pero esta necesita una bomba atómica como detonante.  Una vez inventada la bomba de fisión, después de la rendición de Alemania y Japón, terminada la guerra, Teller siguió defendiendo con ahínco lo que se llamó «la súper», con la intención específica de intimidar a la Unión Soviética. Encontró un importante obstáculo en la persona de Oppenheimer, que se había convertido en presidente del Comité Asesor General de la Comisión de Energía Atómica de la posguerra. Teller expresó un testimonio crítico en una audiencia del gobierno cuestionando la lealtad de Oppenheimer a Estados Unidos. Se suele creer que la participación de Teller jugó un importante papel en sus repercusiones: aunque el comité de revisión no impugnó exactamente la lealtad de Oppenheimer, por algún motivo se le negó la acreditación de seguridad y fue apartado de la Comisión de Energía Atómica. Teller pudo emprender el camino hacia la «súper», libre de óbices. Cuando la investigación científica proporciona unos poderes formidables, ciertamente temibles, a naciones y líderes políticos falibles, aparecen muchos peligros: uno es que algunos científicos implicados pueden perder la objetividad. Como siempre, el poder tiende a corromper. En estas circunstancias, la institución del secreto es especialmente perniciosa y los controles y equilibrios de una democracia adquieren un valor especial (Teller, que ha prosperado en la cultura del secreto, también la ha atacado repetidamente). El inspector general de la CIA comentaba en 1995 que «el secreto absoluto corrompe absolutamente». La única protección contra un mal uso peligroso de la tecnología suele ser el debate más abierto y vigoroso. Sagan, C. (2000). El mundo y sus demonios. La ciencia como una luz en la oscuridad. Barcelona: Planeta.'
+pregunta1: '¿Cuál es el mejor resumen del texto? '
+alternativas1: 
+  A: Teller nació en Hungría y sufrió los embates del régimen comunista, además de perder una pierna, lo cual definió su carácter perverso. 
+  B: El poder tiende a corromper a hombres nobles como Edward Teller, quien vio en la física la ciencia para ayudar al mundo cuando joven. 
+  C: 'Los científicos pueden perder la objetividad y enceguecerse por el poder: el caso del físico Edward Teller es una prueba patente de ello. '
+  D: Edward Teller atacó de forma perseverante la cultura del secreto, aun cuando él mismo la puso en práctica en no pocas oportunidades. 
+
+solucion1: 
+  alternativa: C
+  razon: 'La idea principal está vinculada con la corrupción de los científicos, de manera que el caso de Edward Teller es paradigmático de este proceso de perversión de un hombre de ciencia. '
+  
+pregunta2: 'El término ÓBICE se entiende como'
+alternativas2:
+  A: Enigma. 
+  B: Escollo. 
+  C: Inquietud. 
+  D: Confusión. 
+
+solucion2: 
+  alternativa: B
+  razon: 'Un óbice es un escollo o un impedimento en contra de algo. En este caso, Oppenheimer se oponía al proyecto de Teller. '
+  
+pregunta3: 'Respecto de la avidez de Teller por crear una bomba de un poder destructivo mayor al de la bomba atómica, resulta incompatible sostener que'
+alternativas3:
+  A: El físico, aun cuando tuvo en Oppenheimer un claro obstáculo, pudo de forma maniquea alcanzar el objetivo propuesto. 
+  B: Esta empresa evidenció una clara motivación intimidatoria que lo hizo inicialmente renunciar ante la imposibilidad de concretarla. 
+  C: Posiblemente los hechos aciagos que padeció de niño definieron el escenario posterior de su vida como hombre de ciencia. 
+  D: Esta se fundó en un legítimo deseo inventivo vinculado con los objetivos más idealistas de la práctica científica. 
+
+solucion3: 
+  alternativa: D
+  razon: 'Fueron intereses subjetivos los que motivaron a Teller a la invención de un arma de destrucción masiva excesivamente potente. '
+  
+pregunta4: 'A partir del caso de Teller, se colige que'
+alternativas4:
+  A: Los científicos no son inmunes a los efectos de la ideología. 
+  B: La ciencia siempre carece de consecuencias de orden práctico. 
+  C: Los intereses solidarios están motivados por el comunismo. 
+  D: El efecto de una niñez insana es la codicia y el afán de poder. 
+
+solucion4: 
+  alternativa: A
+  razon: 'Teller es el mejor ejemplo de cómo el poder corrompe a los científicos, y los podría hacer perder por completo la objetividad. '
+  
+pregunta5: 'Si el régimen comunista en Hungría hubiese respetado las propiedades de la familia de Teller '
+alternativas5:
+  A: La actitud de Teller frente a los rusos no habría sido tan pugnaz. 
+  B: La bomba de hidrógeno se usaría para mejorar la infraestructura. 
+  C: Habría trabajado en labores de contraespionaje en favor de Rusia. 
+  D: Algunos científicos reputados habrían considerado darle su apoyo. 
+
+solucion5: 
+  alternativa: A
+  razon: 'Uno de los sucesos que marcó su derrotero científico posterior, y el deseo de intimidar a Rusia con un arma monstruosa, fue la expropiación de bienes durante el régimen comunista. '
+  

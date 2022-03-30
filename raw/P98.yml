@@ -1,0 +1,25 @@
+texto: 'Ha dado quiebra la empresa de turismo Satán Tours, que organizaba visitas guiadas al reino de las tinieblas. El negocio no funcionaba. Después de mucho bajar, trabajosamente, de abismo en abismo, hasta el fondo del pozo del universo, los turistas regresaban al mundo extenuados, malolientes de peste de azufre y convencidos de que el viaje ése no valía la pena ni el gasto. Ellos esperaban ver murciélagos grandes como aviones, ríos hirvientes, dragones de siete cabezas soplando las llamas del fuego eterno, serpientes vendiendo manzanas asadas y pecadores encadenados a las parrillas ardientes; pero nada. El espectáculo se reducía a una cola de gente esperando, y eso era todo. La cola, que se perdía en los desfiladeros humeantes, estaba formada por un gentío de todas las edades y de todos los tiempos históricos, desde los cazadores de las cavernas hasta los astronautas del espacio sideral. Algunos estaban allí desde hacía miles y miles de años; otros habían llegado hacía una semana o diez minutos. Los turistas preguntaban:  --Pero y el infierno? ¿Dónde está el infierno? Y los funcionarios, ataviados de satén rojo, señalaban la fila de los condenados a la espera perpetua.'
+pregunta1: 'La verdadera naturaleza del infierno radicaba en'
+alternativas1: 
+  A: Lo indefinido de la situación en la fila
+  B: El trato que otorgaban los funcionarios
+  C: El cansancio y el pestilente olor a azufre
+  D: La agobiante y eterna espera en la cola
+  E: El bajar hasta el más profundo abismo
+
+solucion1: 
+  alternativa: D
+  razon: ''
+
+pregunta2: 'La imagen que los turistas tenían del infierno era totalmente'
+alternativas2:
+  A: Acertada
+  B: Estereotipada
+  C: Imprecisa
+  D: Referente
+  E: Denigrante
+
+solucion2: 
+  alternativa: B
+  razon: ''
+

@@ -1,0 +1,74 @@
+texto:
+    Supongamos que haya un análisis para detectar el cáncer con una fiabilidad del 98 por ciento; es decir, si uno tiene cáncer el análisis dará positivo el 98 por ciento de las veces, y si no lo tiene, dará negativo el 98 por ciento de las veces. Supongamos además que el 0,5 por ciento de la población –una de cada doscientas personas– padece verdaderamente cáncer. Imaginemos que uno se ha sometido al análisis y que su médico le informa con tono pesimista que ha dado positivo. ¿Hasta qué punto ha de deprimirse esa persona?
+    Lo sorprendente del caso es que dicho paciente ha de mantenerse prudentemente optimista. El porqué de este optimismo lo encontraremos al determinar la probabilidad condicional de que uno tenga un cáncer sabiendo que el análisis ha dado positivo. Supongamos que se hacen 10.000 pruebas de cáncer. ¿Cuántas de ellas darán positivo? En promedio, 50 de estas 10.000 personas (el 0,5 por ciento de 10.000) tendrán cáncer, y como el 98 por ciento de ellas darán positivo, tendremos 49 análisis positivos. Por otra parte, el 2 por ciento de las 9.950 personas restantes, que no padecen cáncer, también darán positivo, con un total de 199 análisis positivos (0,02 × 9.950 = 199). Así, del total de 248 positivos (199 + 49 = 248), la mayoría (199) son falsos positivos, y la probabilidad condicional de padecer el cáncer sabiendo que se ha dado positivo es solo 49/248, ¡aproximadamente el 20 por ciento! (Hay que comparar este porcentaje relativamente bajo con la probabilidad condicional de dar positivo en el supuesto de que se tenga efectivamente el cáncer que, por hipótesis, es del 98 por ciento.)
+    Este resultado inesperado en un test con una fiabilidad del 98 por ciento debería remecer la sesera de los legisladores cuando se plantean instituir análisis obligatorios o generalizados para detectar el consumo de drogas, el VIH o lo que sea. Someter a las personas que dan positivo a un estigma, y en especial cuando puede que la mayoría sean falsos positivos, es contraproducente y dañino.
+
+#1
+pregunta1: El texto gira fundamentalmente en torno
+
+alternativas1: 
+    A: al estigma al que se somete a algunas personas.
+    B: a la probabilidad de tener una enfermedad mortal.
+    C: al revelador concepto de probabilidad condicional.
+    D: a la nula fiabilidad del test para detectar el cáncer.
+    E: al problema para tratar las enfermedades severas. 
+
+solucion1: 
+    alternativa: C
+    razon: La probabilidad condicional es un concepto que nos muestra que un paciente ha de mantenerse prudentemente optimista a pesar de haber dado positivo en una prueba determinada.
+
+#2
+pregunta2: La expresión REMECER LA SESERA tiene el sentido de
+
+alternativas2: 
+    A: formular una ley.
+    B: criticar ferozmente.
+    C: hacer reflexionar.
+    D: agredir con violencia.
+    E: causar un dolor.
+
+solucion2: 
+    alternativa: C
+    razon: El resultado expuesto debe invitar a los legisladores a la reflexión para evitar la estigmatización de algunas personas.
+
+#3
+pregunta3: Se colige que la probabilidad condicional
+
+alternativas3: 
+    A: se calcula de la misma manera que la probabilidad convencional de la ocurrencia de un evento.
+    B: permite calcular la probabilidad de un evento determinado, restringido por la ocurrencia de otro.
+    C: alberga un error conceptual que imposibilita su aplicación a la ocurrencia de algunos eventos.
+    D: requiere un cálculo más sencillo que la probabilidad convencional de la ocurrencia de un evento.
+    E: se aplica de manera privativa al cálculo de la probabilidad de padecer enfermedades graves. 
+
+solucion3: 
+    alternativa: B
+    razon: En este caso, calculamos la probabilidad condicional de que uno tenga un cáncer sabiendo que el análisis ha dado positivo.
+
+#4
+pregunta4: Con respecto al segundo párrafo del texto, se deduce que los falsos positivos
+
+alternativas4: 
+    A: tienen una alta probabilidad de ocurrencia.
+    B: carecen por completo de relevancia alguna.
+    C: no pueden calcularse de ninguna manera.
+    D: impiden el cálculo de los positivos reales.
+    E: ocurren menos que los positivos reales. 
+
+solucion4: 
+    alternativa: A
+    razon: Los falsos positivos tienen una probabilidad que se calcula dividiendo 199 entre 248.
+
+#5
+pregunta5: Si se hubiesen efectuado un millón de pruebas de cáncer y las demás condiciones citadas se conservaran,
+
+alternativas5: 
+    A: la probabilidad de padecer cáncer sería mucho más alta que la probabilidad de tener VIH.
+    B: el concepto de probabilidad condicional perdería plausibilidad, ergo dejaría de tener aplicaciones.
+    C: la probabilidad condicional de padecer cáncer tras haber dado positivo sería menor que 49/248.
+    D: la probabilidad condicional de padecer cáncer sabiendo que se ha dado positivo sería la misma.
+    E: la probabilidad condicional de tener cáncer habiendo dado positivo sería un poco más del 20%.
+
+solucion5: 
+    alternativa: D
+    razon: Efectuando el cálculo correspondiente se observa que esta probabilidad se conserva en 49/248.

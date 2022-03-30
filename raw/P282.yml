@@ -1,0 +1,61 @@
+texto: 'El ser humano pasa por cinco periodos de sueño, cada uno con sus diferentes características de ondas cerebrales. Cuatro de estos periodos tienen un patrón de actividad electroencefalográfica similar, que, en conjunto, se conoce como sueño sincronizado o de ondas lentas. En estos cuatro periodos se pasa de una somnolencia inicial a un sueño superficial, luego a un sueño más profundo hasta caer en un sueño verdaderamente profundo. Conforme pasa de una somnolencia inicial al sueño más profundo, el sujeto, ante un estímulo determinado, tarda más en despertar. Ahora bien, en el cuarto periodo ocurre algo verdaderamente extraordinario: el sujeto comienza a pasar de un registro electroencefalográfico de sueño lento a un registro de vigilia. Si en este último momento se hubiera de juzgar el estado del individuo por su registro electroencefalográfico, se diría que está despierto. No obstante, si entráramos a la habitación del sujeto, constataríamos que está durmiendo y, lo que parece paradójico, determinaríamos que se encuentra en el sueño más profundo de todas las fases del sueño: es el quinto periodo del sueño. Durante el último periodo del sueño, el sujeto mueve constantemente los ojos. Si lo despertáramos, nos diría muy probablemente que estaba soñando. Este tipo especial de sueño que aparece dentro del propio ciclo del sueño se conoce como sueño REM (Rapid Eye Movement), o de movimiento ocular rápido, o sueño desincronizado, o de las ensoñaciones, o también sueño paradójico. El sueño de ondas lentas y el sueño paradójico alternan varias veces durante la noche. Estos ciclos se suceden cada 90 minutos, aproximadamente.'
+pregunta1: 'En síntesis, el texto expone que'
+alternativas1: 
+  A: El largo proceso del sueño humano pasa por muchos periodos muy diferentes, lo que se puede demostrar fehacientemente mediante la técnica científica de los registros electroencefalográficos.
+  B: Cuando los hombres soñamos, al inicio se produce un sueño somero y, gradualmente, vamos adentrándonos en una fase de sueño verdaderamente profundo.
+  C: El sueño humano es un ciclo de cinco periodos, de los cuales cuatro se caracterizan por un ritmo sincronizado y el quinto, el periodo de las ensoñaciones, implica un ritmo desincronizado. durante la larga noche, el sueño humano se rige por procesos aleatorios y alternados, en los que destaca un tipo de sueño caracterizado por su gran profundidad.
+  D: En el proceso total del sueño humano, que dura unas nueve horas aproximadamente, resulta más fácil despertar a los sujetos cuando empiezan a dormitar.
+  
+
+solucion1: 
+  alternativa: C
+  razon: 'La mejor síntesis debe enunciar los cinco periodos y el contraste fundamental que implica el quinto periodo, el sueño REM o sueño desincronizado.'
+  
+pregunta2: 'En el primer párrafo, el término PARADÓJICO significa'
+alternativas2:
+  A: Iluso.
+  B: Irónico.
+  C: Irreal.
+  D: Contradictorio.
+  E: Insensato.
+
+solucion2: 
+  alternativa: D
+  razon: 'Se alude a un fenómeno que se podría considerar contradictorio.'
+
+pregunta3: 'Resulta incompatible con el texto decir que el sueño humano'
+alternativas3:
+  A: Empieza con una somnolencia y llega a un estado de letargo.
+  B: Se puede estudiar científicamente con electroencefalogramas.
+  C: Es un largo proceso definido por una total homogeneidad.
+  D: Contiene momentos específicos de intensas ensoñaciones.
+  E: Implica la ruptura de la sincronía en el periodo del sueño REM.
+
+solucion3: 
+  alternativa: D
+  razon: 'El sueño humano no es homogéneo porque hay el sueño REM muy distinto al sueño no REM, y estos alternan varias veces durante la noche.'
+
+pregunta4: 'Se infiere que, durante el denominado sueño REM, el sujeto'
+alternativas4:
+  A: Evidencia un movimiento de ojos muy lento.
+  B: Pasa por experiencias de imágenes oníricas.
+  C: Se encuentra en un vago estado de somnolencia.
+  D: Puede ser despertado con una gran facilidad.
+  E: Registra un patrón cerebral muy sincronizado.
+
+solucion4: 
+  alternativa: B
+  razon: 'Dado que es el periodo de las ensoñaciones, se deduce que experimenta imágenes oníricas, los ensueños.'
+
+pregunta5: 'Si una persona estuviera en el periodo de sueño verdaderamente profundo,'
+alternativas5:
+  A: Su movimiento ocular sería lento en demasía.
+  B: Ese estado solo podría durar unos 15 minutos.
+  C: Mostraría un elevado estado de conciencia.
+  D: La acción de despertarla implicaría mucha dificultad.
+  E: Su sueño podría describirse como algo armónico.
+
+solucion5: 
+  alternativa: D
+  razon: 'En la fase final, la persona está imbuida en el sueño y se torna difícil despertarla.'
+

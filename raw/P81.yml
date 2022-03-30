@@ -1,0 +1,60 @@
+  texto: 'La reserva ante el lenguaje es una actitud intelectual. Sólo en ciertos momentos medimos y pesamos las palabras; pasado ese instante, les devolvemos su crédito. La confianza ante el lenguaje es la actitud espontánea y original del hombre; el signo y el objeto representado eran lo mismo; la fórmula ritual, una reproducción de la realidad capaz de reengendrarla. La fe en el poder de las palabras es una reminiscencia de nuestras creencias más antiguas; la naturaleza está animada; las palabras, que son los dobles del mundo objetivo, también están animadas. Mas al cabo de los siglos los hombres advirtieron que entre las cosas y sus nombres se abría un abismo. La necesidad de preservar el lenguaje sagrado explica el nacimiento de la gramática. Luego las ciencias del lenguaje conquistaron su autonomía cuando cesó la creencia en la identidad entre el objeto y su signo. La primera tarea del pensamiento consistió en el primer peldaño de la lógica. Mas las palabras son rebeldes a la definición. Y todavía no cesa la batalla entre la ciencia y el lenguaje. '
+  pregunta1: 'La confianza en el lenguaje se basa en'
+  alternativas1:
+    A: La necesidad de fijar un significado preciso a las palabras
+    B: La conveniencia de preservar un lenguaje sagrado
+    C: La creencia en la identidad entre el objeto y el nombre
+    D: La íntima relación de la gramática con la lógica
+    E: La autonomía adquirida por las ciencias del lenguaje
+
+  solucion1:
+    alternativa: C
+    razon: '"La confianza ante el lenguaje es la actitud espontánea y original del hombre: el signo y el objeto representado era lo mismo..." Mas al cabo de los siglos, los hombres advirtieron que entre las cosas y sus nombres se abría un abismo. De lo citado se deduce que cuando existe confianza en el lenguaje nombre y cosa, en la actitud espontánea, es lo mismo. '
+
+  pregunta2: 'La batalla entre la ciencia y el lenguaje todavía no cesa porque'
+  alternativas2: 
+    A: El lenguaje tienen un origen sagrado
+    B: Las palabras son rebeldes a la definición
+    C: La confianza en el lenguaje es espontánea
+    D: Las palabras sirven para representar la realidad
+    E: Hay un abismo entre las cosas y sus nombres
+  
+  solucion2:
+    alternativa: B
+    razon: 'La primera tarea del pensamiento consistió en fijar un significado preciso y único a los vocablos; y la gramática se convirtió en el primer peldaño de la lógica. Mas las palabras son rebeldes a la definición. Y todavía no cesa la batalla entre la ciencia y el lenguaje. En tanto que no se pueda dar un significado preciso a las palabras y en tanto que se tornen rebeldes no cesará la batalla entre la ciencia y el lenguaje. '
+
+  pregunta3: 'La reserva ante el lenguaje es una actitud intelectual porque'
+  alternativas3:
+    A: A veces no les concedemos crédito a las palabras
+    B: Espontáneamente confiamos en las palabras
+    C: El lenguaje es autónomo de la lógica
+    D: Las palabras son los dobles del mundo objetivo
+    E: La gramática está subordinada a la lógica
+  
+  solucion3: 
+    alternativa: B
+    razon: '"La reserva ante el lenguaje es una actitud intelectual. Sólo en ciertos momentos medimos y pesamos las palabras". En general, por lo señalado en la lectura, no medimos y pesamos las palabras; solo en ciertos momentos-cuando tenemos reserva de lenguaje- manifestamos actitud intelectual, lo que nos aleja de la confianza ante el lenguaje. '
+
+  pregunta4: 'El nacimiento de la gramática se debió a que'
+  alternativas4:
+    A: La identidad entre el objeto y su signo era una creencia arraigada
+    B: Las ciencias del lenguaje emprendieron la conquista de su autonomía
+    C: Se buscó establecer una conexión entre las palabras y la lógica
+    D: Se advirtió la existencia de un abismo entre las cosas y sus nombres
+    E: El hombre desarrolló la capacidad de analizar el lenguaje
+
+  solucion4:
+    alternativa: D
+    razon: '"Mas al cabo de los siglos, los hombres advirtieron que entre las cosas y sus nombres se abría un abismo". La necesidad de preservar el lenguaje sagrado explica el nacimiento de la gramática. Es indudable que el nacimiento de la gramática se debe al hecho de que los hombres lograron advertir un abismo entre las cosas y sus nombres. '
+
+  pregunta5: 'El lenguaje se considera sagrado porque'
+  alternativas5:
+    A: No se tenía ante él una actitud intelectual
+    B: Era capaz de reproducir y reengendrar la realidad
+    C: Todavía no existían la gramática ni la lógica
+    D: El nombre daba crédito a las palabras
+    E: Las palabras tenían un núcleo indefinible
+  
+  solucion5:
+    alternativa: B
+    razon: 'En una parte se indica que había necesidad de preservar el lenguaje sagrado y por lo tanto "el signo y el objeto representado eran lo mismo; la fórmula ritual, una reproducción de la realidad capaz de reengendrarla". Por lo que tanto la palabra tenía la capacidad para reproducir y reengendrar la realidad. '

@@ -1,0 +1,59 @@
+  texto: 'Creo que el entendimiento no conoce ninguna idea que no sea de las que recibe de uno de esos dos orígenes: "Los objetos externos dotan a la mente de ideas y cualidades sensibles", que son todas esas percepciones distintas que se producen en nosotros; "y la mente dota al entendimiento con ideas de sus propias operaciones". Si hacernos una revisión total de todas estas ideas y de sus distintos modos, combinaciones y relaciones, podremos observar que contienen toda la suma de nuestras ideas, y que nada tenemos en la mente que no tenga su origen en alguna de esas dos vías. Analice cualquiera de sus propios pensamientos y examine a fondo-su propio entendimiento y que después me diga si no corresponden todas las ideas originales que tiene allí a objetos de sus sentidos, o a operaciones de su mente, consideradas corro objetos de su reflexión. Por más grande que se imagine el cúmulo de los acontecimientos allí contenidos, verá, si lo considera de forma rigurosa, que en su mente no existen más ideas qué las que han sido impresas por medio de una de esas dos vías, aunque, quizá, combinadas y ampliadas por el entendimiento, con una variedad infinita. LOCKE, John "Origen sensible de las ideas"'
+  pregunta1: 'El mundo externo es considerado por el autor como'
+  alternativas1: 
+    A: La realidad objetiva
+    B: Una fuente de ideas
+    C: El origen de los sentidos
+    D: Una forma del sabor
+    E: Objeto de las ideas
+  solucion1: 
+    alternativa: B
+    razon: 'El mundo externo es considerado por el autor como una fuente de ideas. Según el texto, sólo hay dos orígenes posibles de ideas: la realidad externa y la propia razón del hombre. Por lo tanto, para el autor, el mundo externo es precisamente una fuente que dota de ideas al entendimiento. '
+
+
+  pregunta2: 'La mente participa en'
+  alternativas2: 
+    A: La percepción de las ideas
+    B: La producción de las ideas
+    C: Las operaciones intelectivas
+    D: La acumulación de datos
+    E: El surgimiento de la percepción
+  solucion2: 
+    alternativa: B
+    razon: 'La mente participa en la producción de las ideas. Tal como lo dice el texto, la mente es otra fuente de ideas que aporta al entendimiento gracias a sus propias operaciones: la proyección, la imaginación, la creatividad, entre otras, son facultades racionales que producen ideas y enriquecen así el intelecto humano. '
+
+  pregunta3: '¿Cuál es la tesis que el autor rechazaría?'
+  alternativas3:
+    A: El origen natural de las ideas
+    B: Los sentidos posibilitan las percepciones
+    C: Las ideas tienen un origen sobrenatural
+    D: Las ideas dependen en parte de los sentidos
+    E: La experiencia nos provee de ideas
+
+  solucion3:
+    alternativa: C
+    razon: '¿Cuál es la tesis que el autor rechazaría? Las ideas tienen un origen sobrenatural. Según Locke, las ideas sólo tienen dos fuentes: la realidad externa y la mente. Ambos orígenes son naturales: uno es la realidad natural y el otro es parte de la naturaleza humana. Por tanto, la tercera afirmación sería rechazada por el autor. '
+
+  pregunta4: 'La mente genera ideas cuando'
+  alternativas4:
+    A: Lleva a cabo sus propias operaciones
+    B: Cuando percibe el mundo externo de las cosas
+    C: Los cuerpos externos afectan a los sentidos
+    D: Analiza la abundancia de pensamientos
+    E: Surgen la satisfacción y el desasosiego
+
+  solucion4:
+    alternativa: A
+    razon: '¿Cuándo la mente genera ideas? Cuando lleva a cabo sus propias operaciones. Como ya habíamos afirmado, cada vez que la mente da rienda suelta a cualesquiera de las facultades que la caracterizan, genera ideas que son aporte para el entendimiento. Por tanto, la mente produce ideas cuando lleva a cabo sus propias operaciones. '
+
+  pregunta5: 'La acción de nuestros sentidos recae sobre'
+  alternativas5:
+    A: Las operaciones mentales
+    B: Las cosas externas
+    C: Las operaciones internas
+    D: Las distintas formas de ideas
+    E: Las percepciones sensoriales
+
+  solucion5:
+    alternativa: B
+    razon: 'La acción de nuestros sentidos recae sobre las cosas externas. En el proceso de generación  de ideas, el hombre dirige sus cinco sentidos: vista, gusto. tacto, olfato y oído! al mundo que le rodea, a todas las cosas externas, percibiendo así sus cualidades sensibles: tamaño, color, etc. En consecuencia, la acción de los sentidos se orienta a la percepción de las cosas externas. '

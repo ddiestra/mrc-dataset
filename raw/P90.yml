@@ -1,0 +1,60 @@
+  texto: 'La biosfera se define como espacio por la materia viva, tiene una estructura definida que determina lo que ocurre dentro de ella sin excepción. El hombre y todo ser vivo es una función de la biosfera. De igual modo se puede considerar el universo del sentido como un conjunto de distintos textos y de lenguajes cerrados unos con respecto a los otros, este espacio semiótico fuera del cual es imposible la existencia de la semiosis lo podemos denominar semiósfera. Sólo en ella son posibles los procesos comunicativos y los diversos sistemas de significación. Así como pegando bistecs, no obtendremos un ternero, pero cortando un ternero podemos obtener bistecs, sumando los actos semióticos particulares no obtendremos un universo semiótico. Por el contrario, sólo la existencia de tal universo hace realidad el acto sígnico particular. La semiósfera es en sentido una noción estructural. No son las unidades que la integran las que le dan contenido, sino que es el sistema que determina su función y su significación. Como en el ajedrez, donde las piezas son significativas por las reglas que definen sus roles y sus movimientos.'
+  pregunta1: 'La estructura del texto se basa en la'
+  alternativas1:
+    A: Implicación
+    B: Síntesis
+    C: Analogía
+    D: Sinonimia
+    E: Contradicción
+
+  solucion1:
+    alternativa: C
+    razon: 'En la primera parte de la lectura trata sobre la biosfera a la cual se compara y se asemeja la semiósfera que es el tema más importante. En consecuencia, establece una analogía entre biosfera y semiósfera. '
+
+  pregunta2: 'La biosfera es un concepto que corresponde al orden de la'
+  alternativas2: 
+    A: Lengua
+    B: Naturaleza
+    C: Física
+    D: Comunicación
+    E: Cultura
+  
+  solucion2:
+    alternativa: B
+    razon: '"La biosfera se define como un espacio ocupado por la materia viva..." Con este enfoque es fácil comprender que la palabra biosfera está vinculada a los aspectos de la naturaleza. '
+
+  pregunta3: 'Se puede entender por semiosis'
+  alternativas3:
+    A: La naturaleza de los lenguajes
+    B: La evolución de los signos
+    C: La estructura del texto
+    D: La producción del sentido
+    E: La existencia de discursos
+  
+  solucion3: 
+    alternativa: D
+    razon: '"De igual modo se puede considerar el universo del sentido como un conjunto de distintos textos y de lenguajes cerrados unos con respecto a otros. Este espacio semiótico fuera del cual es imposible la existencia de la semiosis lo podemos denominar semiósfera." '
+
+  pregunta4: 'La semiósfera puede comprenderse como'
+  alternativas4:
+    A: Un universo semiótico
+    B: Un acto sígnico
+    C: Un conjunto de textos
+    D: Un sistema cerrado
+    E: Un lenguaje superior
+
+  solucion4:
+    alternativa: A
+    razon: '"Este espacio semiótico -el universo del sentido- lo podemos denominar semiósfera. '
+
+  pregunta5: 'El texto da a entender que'
+  alternativas5:
+    A: La unidad determina a las partes
+    B: Las partes determinan la unidad
+    C: La suma de las partes hace la unidad
+    D: La unidad es indisoluble
+    E: La unidad está en cada parte
+  
+  solucion5:
+    alternativa: A
+    razon: '"Así como pegando bistecs no obtendremos un ternero, pero cortando un ternero podemos obtener bistecs, sumando los actos semióticos particulares no obtendremos un universo semiótico. Por el contrario, sólo la existencia de tal universo hace realidad al acto sígnico particular." '

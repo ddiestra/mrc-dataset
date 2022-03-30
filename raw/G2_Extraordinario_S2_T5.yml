@@ -1,0 +1,31 @@
+texto:  'Para el pensamiento, la muerte es algo necesario, puesto que toda nuestra vida lleva
+        su marca, como la sombra proyectada por la nada (si no muriésemos, cada instante tendría
+        sin duda un sabor diferente, una luz diferente), como el punto de fuga, para nosotros, de
+        todo. Pero pensar la muerte también es imposible, pues en la muerte no hay nada que
+        pensar. ¿Qué es la muerte? No lo sabemos. No podemos saberlo. Pensar la muerte es
+        disolverla: el objeto se nos escapa necesariamente. La muerte no es nada, o no es la
+        muerte, sino otra vida.'
+    
+preguntas:    
+  - pregunta: Centralmente, el texto explora las consecuencias de
+    alternativas:
+      A: disolver la vida. 
+      B: pensar la muerte. 
+      C: cogitar la nada.
+      D: filosofar tenazmente. 
+      E: propiciar el suicido.
+  
+    solucion:
+      alternativa: B
+      razon: El texto explora consideraciones en torno a lo que significa pensar la muerte.
+
+  - pregunta: ¿Cuál es la idea principal del texto?
+    alternativas:
+      A: Pensar la muerte es inútil pues es algo impostergable.
+      B: El pensamiento sucumbe necesariamente ante la muerte.
+      C: Para el pensamiento, la muerte es necesaria e imposible.
+      D: La muerte es el único escape ante una vida insoportable.
+      E: Todo lo que hacemos en esta vida nos conduce a la muerte.
+    solucion:
+      alternativa: C
+      razon:  El reflexionar la muerte se convierte, según el autor, en algo necesario pero a la vez imposible.

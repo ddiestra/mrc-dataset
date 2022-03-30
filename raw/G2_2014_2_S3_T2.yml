@@ -1,0 +1,74 @@
+texto:
+    'El surgimiento del psicoanálisis en 1900 ha sido saludado a menudo como una conmoción científica comparable a las de Galileo, Newton, Smith, Darwin, Marx y Einstein. A primera vista, el psicoanálisis parece revolucionario por sus hipótesis y sus métodos. Un examen más detallado muestra que ni sus hipótesis, ni sus métodos son tan nuevos y que, lejos de constituir un desarrollo revolucionario, constituyen una contrarrevolución. De hecho, las ideas originales del psicoanálisis son especulaciones descabelladas en lugar de productos de la investigación científica. Es decir, no están apoyadas por datos empíricos y no casan con la psicología experimental o la neurociencia. Sin embargo, esto no preocupa a los seguidores de Freud, ya que él mismo declaró que el psicoanálisis nada tiene que aprender de la psicología experimental o de la neurociencia.
+    Desde el punto de vista metodológico, las fantasías psicoanalíticas caen en dos categorías: las que pueden y las que no pueden ser puestas a prueba. Las últimas, tal como la tesis de que todos los sueños poseen contenido sexual, ya sea manifiesto, ya sea latente, son obviamente no científicas. En lo que respecta a las hipótesis de Freud que sí son pasibles de la puesta a prueba, la mayor parte de ellas (como los recuerdos de la vida en la matriz, la envidia del pene, el miedo a la castración, la inferioridad moral e intelectual de las mujeres, y el efecto catártico de mirar episodios violentos) han sido refutadas por la psicología experimental y las observaciones clínicas serias.
+    La única hipótesis psicoanalítica verdadera es que existen procesos mentales inconscientes. Pero Freud no descubrió el inconsciente. Sócrates sabía del conocimiento tácito; Hume mencionaba el inconsciente ya en 1739; Eduard von Hartmann le dedicó un influyente libro en 1870, cuando Freud tenía catorce años de edad; y tanto Helmholtz como Wundt escribieron sobre inferencias inconscientes antes que Freud. Además, los psicoanalistas no investigan científicamente ningún proceso mental, aunque afirmen que la libre asociación invita a sus clientes a enrolarse en el “camino real” hacia el inconsciente. Solo escriben cuentos acerca de eso. En cambio, el conocimiento implícito (o tácito), como en el caso de la visión ciega, la memoria verbal y el conocimiento práctico, está siendo investigado experimentalmente por científicos que no son psicoanalistas.'
+    
+#1
+pregunta1: ¿Cuál es el mejor resumen del texto?
+
+alternativas1: 
+    A: Las hipótesis de Freud que sí son pasibles de probarse han resultado refutadas por la psicología experimental.
+    B: El psicoanálisis se caracteriza por estar plagado de hipótesis que tienen el inconveniente de no poder ponerse a prueba.
+    C: La hipótesis de la existencia de procesos mentales inconscientes es el aporte más significativo ofrecido por el psicoanálisis.
+    D: El psicoanálisis conmocionó el panorama científico de una época y ostenta carácter revolucionario por su originalidad.
+    E: Las hipótesis originales del psicoanálisis son disparatadas mientras que su única hipótesis plausible no es original. 
+
+solucion1: 
+    alternativa: E
+    razon: El autor critica acremente al psicoanálisis. Sostiene que sus ideas originales son absurdas y que las que no son absurdas no le pertenecen.
+
+#2
+pregunta2: En el primer párrafo, la expresión NO CASAN CON connota
+
+alternativas2: 
+    A: incomprensión.
+    B: estupefacción.
+    C: soltería.
+    D: incompatibilidad.
+    E: excentricidad.
+
+solucion2: 
+    alternativa: D
+    razon: Las ideas originales del psicoanálisis no casan con la psicología experimental o la neurociencia, es decir, no reciben el respaldo de estas últimas.
+
+#3
+pregunta3: Se infiere que el autor concibe algunas hipótesis de Freud como fantasías psicoanalíticas
+
+alternativas3: 
+    A: basándose en las contradicciones entre estas hipótesis.
+    B: valiéndose del experimento como herramienta de control.
+    C: pues, a diferencia de este último, aquel no tiene renombre.
+    D: debido a la gran popularidad de que goza el psicoanálisis.
+    E: sin ofrecer argumentos para sostener su punto de vista. 
+
+solucion3: 
+    alternativa: B
+    razon: 'las fantasías psicoanalíticas caen en dos categorías: las que pueden y las que no pueden ser puestas a prueba. Las últimas son no científicas, mientras muchas de las primeras han sido refutadas por la psicología experimental.'
+
+#4
+pregunta4: Respecto del psicoanálisis, es incompatible aseverar que
+
+alternativas4: 
+    A: constituye una contrarrevolución en opinión del autor del texto.
+    B: presenta hipótesis plausibles así como hipótesis descabelladas.
+    C: se concibió como una disciplina respaldada por la neurociencia.
+    D: carece de originalidad cuando se trata de hipótesis plausibles.
+    E: considera que ver espectáculos violentos tiene un efecto liberador. 
+
+solucion4: 
+    alternativa: C
+    razon: El mismo Freud declaró que el psicoanálisis nada tiene que aprender de la psicología experimental o de la neurociencia.
+
+#5
+pregunta5: Si el descubrimiento del inconsciente fuese exclusividad de Freud,
+
+alternativas5: 
+    A: el método científico tendría que reformularse completamente.
+    B: Helmholtz sería el más acérrimo detractor del psicoanálisis.
+    C: el autor tendría que reconocer cierta valía en el psicoanálisis.
+    D: las hipótesis descabelladas adquirirían una gran plausibilidad.
+    E: el autor se convertiría en un entusiasta difusor del psicoanálisis. 
+
+solucion5: 
+    alternativa: C
+    razon: El autor sostiene que la única hipótesis verdadera es la del inconsciente, pero esta hipótesis no aparece con Freud, sino que es anterior a él, por lo que no es original.

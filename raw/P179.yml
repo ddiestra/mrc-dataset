@@ -1,0 +1,59 @@
+  texto: 'Existe en el mundo tres clases de personas: los Altos, los Medianos y los Bajos. Se han subdividido de muchos modos, han llevado muy diversos nombres y su número relativo, así como la actitud que han guardado unos hacia otros, ha variado de época en época; pero la estructura esencial de la sociedad nunca ha cambiado. Los fines de estos tres grupos son inconciliables. Los Altos quieren quedarse donde están. Los Medianos tratan de arrebatarles sus puestos a los Altos. La finalidad de los Bajos, cuando la tienen, consiste en abolir todas las distinciones y crear una sociedad en que todos los hombres sean iguales. Así, vuelve a presentarse continuamente la misma lucha social. Durante largos períodos, parece que los Altos se encuentran muy seguros en su poder, pero siempre llega un momento en que pierden la confianza en sí mismos o se debilita su capacidad para gobernar, o ambas cosas a la vez. Entonces son derrotados por los Medianos, que llevan junto a ellos a los Bajos porque les han asegurado que ellos representan la libertad y la justicia. En cuanto logran sus objetivos, los Medianos abandonan a los Bajos y los relegan a su antigua posición de servidumbre, convirtiéndose ellos en los Altos. De los tres grupos, solamente los Bajos no logran sus objetivos ni siquiera transitoriamente. Y aunque sería exagerado afirmar que en toda la Historia no ha habido progreso material, ninguna reforma, ni revolución alguna ha conseguido acercarse ni un milímetro a la igualdad humana. ORWELL, George "1 984"'
+  pregunta1: 'A lo largo de la historia, en las civilizaciones no ha variado'
+  alternativas1: 
+    A: El progreso material
+    B: La igualdad humana
+    C: La estructura de la sociedad
+    D: Las luchas sociales
+    E: La condición de los Altos
+  solucion1: 
+    alternativa: C
+    razon: 'A lo largo de la historia, en las civilizaciones no ha variado la estructura de la sociedad. En la primera parte del texto, el autor declara que el número de integrantes de cada clase, y las relaciones entre dichas clases han variado. Sin embargo, lo que no ha cambiado a través de la historia es la estructura esencial de la sociedad, fundada en tres clases: Altos, Medianos y Bajos.  '
+
+
+  pregunta2: 'La finalidad de la clase menos favorecida es'
+  alternativas2: 
+    A: Someter a las otras clases
+    B: Erigirse como única clase social
+    C: Alcanzar el progreso material
+    D: Ejercer dominio sobre las otras clases
+    E: Instaurar la justicia social
+  solucion2: 
+    alternativa: E
+    razon: 'La finalidad de la clase menos favorecida es instaurar la justicia social. Los Bajos, cada vez que se lo han propuesto, han pretendido anular las diferencias sociales, es decir. eliminar el orden jerárquico de la sociedad en la cual se hallan sometidos, y, por el contrario, fundar una sociedad en que todos los hombres sean iguales.  '
+
+  pregunta3: 'Se deduce que el fin principal de las dos clases en ventaja es'
+  alternativas3:
+    A: El progreso material
+    B: La desigualdad de clases
+    C: El cambio histórico
+    D: Ejercer dominio sobre los otros
+    E: El equilibrio social
+
+  solucion3:
+    alternativa: D
+    razon: 'Se deduce que el fin principal de las dos clases en ventaja es ejercer dominio sobre los otros. Según el texto, los Altos luchan por conservar el poder, mientras que los Medianos pretenden reemplazar a los Altos en la estructura social. Por consiguiente, ambos libran una lucha cuyo fin es imponerse y ejercer el dominio sobre los otros.  '
+
+  pregunta4: 'Del fragmento se deduce que la igualdad humana es'
+  alternativas4:
+    A: Una realidad
+    B: Una posibilidad
+    C: Una falacia
+    D: Un privilegio
+    E: Una utopía
+
+  solucion4:
+    alternativa: E
+    razon: 'Del fragmento se deduce que la igualdad humana es una utopía. El autor afirma que nunca en la historia alguna reforma o revolución se ha acercado siquiera momentáneamente a la igualdad humana. Por consiguiente, podemos deducir por esta misma tendencia de la civilización, que nunca se hará realidad el propósito de igualdad y justicia social que defienden los Bajos.  '
+
+  pregunta5: 'Los Bajos en la lucha por sus objetivos'
+  alternativas5:
+    A: Son traicionados por los Medianos
+    B: Consiguen someter a los otros
+    C: Están en contra del progreso material
+    D: Tratan de arrebatar sus puestos a los demás
+    E: Fomentan la destrucción de las otras clases
+
+  solucion5:
+    alternativa: A
+    razon: 'Los Bajos, en la lucha por sus objetivos son traicionados por los Medianos. Los Medianos quieren desplazar a los Altos. Para ello, buscan la ayuda de los Bajos prometiéndoles que instaurarán una sociedad justa y libre. Pero ya que el fin de los Medianos es apropiarse del poder, acaban traicionando a los Bajos y los relegan nuevamente a la condición de siervos.  '

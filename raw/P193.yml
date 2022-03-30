@@ -1,0 +1,59 @@
+  texto: 'En los últimos años, los astrónomos han encontrado pruebas indirectas pero contundentes de la existencia de planetas que giran alrededor de estrellas lejanas: la fuerza gravitacional de esos planetas invisibles hace remecer a sus matrices astrales. Investigadores en Coltech han descubierto indicios de que, al parecer, está naciendo un sistema solar a unos 450 millones de años luz de distancia, en la constelación Auriga. En su observación de astros grandes y de reciente formación en sectores próximos a nuestra galaxia con una serie de radiotelescopios, el astrónomo de la Universidad Técnica de California, Vincent Mannings, detectó rastros de gas frío y polvo en torno a una nueva estrella caliente conocida como MWC 480, ¡” podría tratarse de un punto de generación de asteroides”! afirma! "así como también de núcleos de sistemas planetarios". Discover en Español'
+  pregunta1: '¿Qué relación existiría entre Auriga y MWC 480?'
+  alternativas1: 
+    A: De contigüidad
+    B: De conjunto - elemento
+    C: De causa - efecto
+    D: De parte - todo
+    E: De complementación
+  solucion1: 
+    alternativa: B
+    razon: '¿Qué relación existiría entre Auriga y MWC480? De conjunto - elemento. En el texto se señala que Auriga es una constelación, es decir, un conjunto de estrellas muy distantes de nuestro planeta. Entonces, asumiendo que la estrella MWC480 se encontrara en Auriga, tendríamos una relación de conjunto a elemento. '
+
+
+  pregunta2: 'Constituye una prueba indirecta de la existencia de planetas en Auriga'
+  alternativas2: 
+    A: La investigación científica hecha en base a radiotelescopios
+    B: La existencia de la estrella caliente denominada MWC 480
+    C: El remecimiento astral debido a fuerzas gravitacionales
+    D: Los rastros de gas frío y polvo en torno a la estrella MWC 480
+    E: El nacimiento de un sistema solar a una distancia astronómica
+  solucion2: 
+    alternativa: C
+    razon: 'Constituye una prueba indirecta de la existencia de planetas en Auriga el remecimiento astral debido a fuerzas gravitacionales. Según el texto, se ha observado que algunas estrellas lejanas tiemblan. ¿Por qué ocurre esto? Lógicamente porque deben existir cuerpos cerca o alrededor que ejercen fuerza gravitacional y hacen remecer a dichas estrellas. Aquellos cuerpos, según se infiere, deben ser planetas girando alrededor de algunas estrellas, conformando así nuevos sistemas solares. '
+
+  pregunta3: 'El movimiento de las matrices astrales supone'
+  alternativas3:
+    A: La existencia de fuerza gravitacional ocasionada por cuerpos celestes cercanos
+    B: Necesariamente, la existencia de planetas grandes en torno a un eje
+    C: Una prueba irrefutable de la existencia de una estrella similar al sol
+    D: La presencia de asteroides, planetas e incluso satélites
+    E: La existencia de una enorme fuerza de repulsión
+
+  solucion3:
+    alternativa: A
+    razon: 'El movimiento de las matrices astrales supone la existencia de fuerza gravitacional ocasionada por cuerpos celestes cercanos. Como ya hemos explicado en la Pregunta. anterior, el remecimiento de las estrellas revela la presencia de planetas a su alrededor, ejerciendo fuerza gravitacional sobre dichas estrellas.  '
+
+  pregunta4: 'El fragmento en mención se titula'
+  alternativas4:
+    A: Estudios científicos sobre galaxias cercanas
+    B: Los astrónomos y las constelaciones recientes
+    C: Investigaciones sobre nuevos sistemas planetarios
+    D: La galaxia Auriga, la MWC 480 y los asteroides
+    E: Hipótesis sobre sistemas planetarios y las constelaciones
+
+  solucion4:
+    alternativa: C
+    razon: 'El fragmento en mención se titula investigaciones sobre nuevos sistemas planetarios. El texto describe algunas observaciones astronómicas cuyo fin es descubrir la existencia de planetas girando en torno a estrellas, es decir, el nacimiento de nuevos sistemas planetarios en constelaciones muy distantes a nuestro sistema. '
+
+  pregunta5: 'En la exposición del tema el autor emplea un razonamiento'
+  alternativas5:
+    A: Inductivo
+    B: Deductivo
+    C: Dialéctico
+    D: Convencional
+    E: Analítico
+
+  solucion5:
+    alternativa: B
+    razon: 'En la exposición del tema el autor emplea un razonamiento deductivo. Según la secuencia de las ideas, el autor parte de un supuesto general: "existen planetas que giran alrededor de estrellas lejanas". Luego, mediante la descripción de algunas investigaciones al respecto. el autor llega a una suposición particular: "podría existir en sectores próximos a nuestra galaxia núcleos de sistemas planetarios". Por tanto, si el autor va de lo general a lo específico, se está valiendo de la deducción. '

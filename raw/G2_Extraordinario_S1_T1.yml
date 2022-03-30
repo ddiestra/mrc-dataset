@@ -1,0 +1,22 @@
+texto: 'Todo el mundo prevé, o trata de prever, el futuro. Interrogarse sobre el mañana forma
+        parte de la vida, de los negocios; todos lo intentamos hasta donde es posible. Pero el
+        proceso de previsión del futuro debe basarse necesariamente en el conocimiento del
+        pasado. Lo que vaya a ocurrir tendrá forzosamente alguna relación con lo que ya ha
+        ocurrido. Y este es el único aspecto en el que el historiador tiene algo que decir. Al
+        historiador no le mueve el beneficio, en el sentido de que su oficio consiste en invertir sus
+        propios conocimientos para obtener ganancias. Lo que sí puede es tratar de analizar qué
+        aspectos del pasado son importantes, qué tendencias apuntan y qué tipos de problemas
+        se presentan.'
+    
+preguntas:    
+  - pregunta: '¿Cuál es la idea principal del texto?'
+    alternativas:
+      A: 'Las vicisitudes siempre tienen vínculo con lo pretérito.'
+      B: 'Los humamos intentan conocer con antelación el futuro.'
+      C: 'El historiador analiza aspectos relevantes del pasado.'
+      D: 'El historiador no tiene afán de beneficio económico.'
+      E: 'En los negocios, el saber es un factor importante.'
+        
+    solucion:
+      alternativa: 'C'
+      razon: 'Se señala las características más importantes del oficio del historiador.'

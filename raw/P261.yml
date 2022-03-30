@@ -1,0 +1,56 @@
+texto: 'El conocimiento científico es legal: busca leyes (de la naturaleza y de la culturA: y las aplica. El conocimiento científico inserta los hechos singulares en pautas generales llamadas «leyes naturales» o «leyes sociales». Tras el desorden y la fluidez de las apariencias, la ciencia fáctica descubre las pautas regulares de la estructura y del proceso del ser y del devenir. En la medida en que la ciencia es legal, es esencialista: intenta llegar a la raíz de las cosas. Encuentra la esencia en las variables relevantes y en las relaciones invariantes entre ellas. Hay leyes de hechos y leyes mediante las cuales se pueden explicar otras leyes. El principio de Arquímedes pertenece a la primera clase: pero a su vez puede deducirse de los principios generales de la mecánica; por consiguiente, ha dejado de ser un principio independiente, y ahora es un teorema deducible de hipótesis de nivel más elevado. Las leyes de la física proveen la base de las leyes de las combinaciones químicas, las leyes de la fisiología explican ciertos fenómenos psíquicos; y las leyes de la economía pertenecen a los fundamentos de la sociología. Es decir, los enunciados de las leyes se organizan en una estructura de niveles. Ciertamente, los enunciados de las leyes son transitorios; pero ¿son inmutables las leyes mismas? Si se considera a las leyes como las pautas mismas del ser y del devenir, entonces debieran cambiar junto con las cosas mismas; por lo menos, debe admitirse que, al emerger nuevos niveles, sus actividades peculiares se relacionan entre sí mediante nuevas leyes. Por ejemplo, las leyes de la economía han emergido en el curso de la historia sobre la base de otras leyes (biológicas y psicológicas) y, más aún, algunas de ellas cambian con el tipo de organización social particular, los sucesos y procesos de los niveles superiores han sido legalizados solo en pequeña medida. Pero esto se debe en parte al antiguo prejuicio de que lo humano no es legal, así como a la antigua creencia pitagórica de que solamente las relaciones numéricas merecen llamarse «leyes científicas». Debiera emplearse el stock íntegro de las herramientas conceptuales en la búsqueda de las leyes de la mente y de la cultura; más aún, acaso el stock de que se dispone es insuficiente y sea preciso inventar herramientas radicalmente nuevas para tratar los fenómenos mentales y culturales, tal como el nacimiento de la mecánica moderna hubiera sido imposible sin la invención expresa del cálculo infinitesimal. Bunge, M. (1959). La ciencia, su método y su filosofía. Buenos Aires: Siglo Veinte.'
+pregunta1: '¿Cuál es la idea principal del texto? '
+alternativas1: 
+  A: Las leyes científicas se organizan de manera jerárquica en diversos niveles. 
+  B: La ciencia legal busca determinar la raíz de las cosas para poder esclarecerlas. 
+  C: Las leyes biológicas proveen la base para plantear leyes de corte sociológico. 
+  D: El conocimiento científico explica los fenómenos mediante el uso de leyes. U   
+
+solucion1: 
+  alternativa: D
+  razon: 'La base del texto se encuentra al inicio, al indicar que el conocimiento científico busca leyes y las aplica; es decir, es legal. '
+  
+pregunta2: 'El término RAÍZ se entiende como '
+alternativas2:
+  A: Desarrollo. 
+  B: Brote. 
+  C: Origen. 
+  D: Embrión.   
+
+solucion2: 
+  alternativa: C
+  razon: 'En el texto, el término RAÍZ, está vinculado con ORIGEN, CAUSA, PRINCIPIO. '
+  
+pregunta3: 'Es posible inferir del texto que, para los pitagóricos'
+alternativas3:
+  A: Los números solo cuantifican, carecen de jerarquía. 
+  B: La búsqueda de leyes es solo un pasatiempo filosófico. 
+  C: La esencia matemática se distancia de los eventos físicos. 
+  D: El universo se ha estructurado con principios matemáticos.   
+
+solucion3: 
+  alternativa: D
+  razon: 'El texto indica que, según la antigua creencia pitagórica, solo las relaciones numéricas merecen llamarse leyes. '
+  
+pregunta4: 'Sobre el principio de legalidad que dilucida el texto, determine cuál de los siguientes enunciados es incompatible '
+alternativas4:
+  A: Las leyes se hallan en relación con otras leyes y se estructuran en niveles. 
+  B: Las leyes funcionan de manera autónoma y no es plausible un sistema reticular. 
+  C: Las leyes son transitorias y, por ende, se entienden en una visión de cambio. 
+  D: La legalidad es un aserto que no se puede aplicar a una rama como la sociología.   
+
+solucion4: 
+  alternativa: B
+  razon: 'Bunge explica que las leyes científicas se estructuran en niveles. Además, al aparecer una nueva ley, esta se relaciona con leyes previas de manera jerárquica. Por ello, no es posible que una ley siempre se encuentre aislada. '
+  
+pregunta5: 'Si un científico formulara un aserto referido solo a un fenómeno singular'
+alternativas5:
+  A: Tendría que someterse al escrutinio pitagórico para reconocerlo. 
+  B: Este se vincularía necesariamente con el conocimiento social. 
+  C: Sería impropio considerar que se trata de una ley de hechos. 
+  D: Se requeriría de mayor evidencia para estructurarlo en niveles.   
+
+solucion5: 
+  alternativa: C
+  razon: 'El texto nos explica que el conocimiento científico plantea leyes que buscan hacer generalizaciones e ir a la raíz de las cosas. Si el enunciado es ad hoc y superficial, no podría ser considerado una ley. '
+  

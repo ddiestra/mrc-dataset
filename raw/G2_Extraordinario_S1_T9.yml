@@ -1,0 +1,94 @@
+texto:  'Una población de tortugas gigantes en peligro de extinción, que alguna vez se redujo
+        a poco más de una docena de ejemplares, se ha recuperado en la isla Española del
+        archipiélago de Galápagos. El hallazgo es descrito como «una verdadera historia de éxito
+        y esperanza en la conservación» según el autor principal de un estudio publicado el 28 de
+        octubre.
+        A unos 40 años de que las primeras tortugas criadas en cautiverio fueran
+        reintroducidas en la isla por la dirección del Parque Nacional Galápagos, las tortugas
+        gigantes endémicas de Española se están reproduciendo, restaurando así parte de los
+        daños ecológicos provocados por las cabras salvajes que fueron traídas a la isla a fines
+        del siglo XIX y que devoraron toda la vegetación.
+        «La población mundial se había reducido a solamente 15 tortugas en la década de
+        1960. Ahora, hay unas 1,000 de ellas que se reproducen por sí mismas. La población es
+        fuerte. Es un raro ejemplo de cómo los biólogos y los administradores pueden colaborar
+        para recuperar una especie en peligro de extinción», comentó James P. Gibbs, profesor
+        de biología para la conservación de vertebrados en el Colegio de Ciencias Ambientales y
+        Forestales de la Universidad del Estado de Nueva York, y autor principal del artículo
+        publicado en la revista PLoS ONE.
+        La recuperación de las tortugas gigantes es una historia de éxito con otra cara:
+        aunque la población es constante, es poco probable que crezca en tanto el paisaje no
+        consiga una mayor recuperación de los daños causados por las cabras ya erradicadas.
+        «La restauración de la población es una cosa, pero la recuperación ecológica va a tomar
+        mucho más tiempo», advirtió Gibbs. «Es un éxito de la conservación atribuible a la
+        Dirección del Parque Nacional Galápagos; pero todavía falta mucho por hacer por la total
+        recuperación del ecosistema, del cual dependen las tortugas y otras especies raras»,
+        reconoció el biólogo.'
+    
+preguntas:    
+  - pregunta: El sentido contextual de FUERTE es
+    alternativas:
+      A: valiente. 
+      B: corpulenta. 
+      C: impetuosa.
+      D: estable. 
+      E: inmortal.
+    solucion: 
+      alternativa: D
+      razon:  El texto informa que hay unos 1.000 ejemplares de tortugas. Más
+              adelante se indica que la población de tortugas es constante porque es poco
+              probable que desaparezca. De ahí que la población de tortugas sea “fuerte”, en otras
+              palabras, la población es “estable”
+
+  - pregunta: Principalmente, la intención del autor es informar sobre
+    alternativas:
+      A: la inusitada recuperación del ecosistema en la zona de Galápagos.
+      B: la introducción perjudicial de las cabras salvajes en la Española.
+      C: el trabajo entre biólogos y administradores con fines ecológicos.
+      D: el daño ecológico en la isla Española del archipiélago de Galápagos.
+      E: la exitosa recuperación de las tortugas gigantes en la isla Española.
+    solucion:
+      alternativa: E
+      razon:  El texto es básicamente la noticia de un exitoso caso de recuperación
+              de las tortugas gigantes de las islas Galápagos, las cuales hace años atrás estaban
+              en peligro de extinción.
+
+  - pregunta: Es incompatible con el texto sostener que las tortugas gigantes
+    alternativas:
+      A: se perjudicaron por el accionar de las cabras salvajes.
+      B: fueron criadas en cautiverio para luego ser recuperadas.
+      C: se redujeron a solo quince ejemplares a nivel mundial.
+      D: fueron traídas antes del siglo XIX a la isla Española.
+      E: son especies que dependen de su entorno para vivir.
+    solucion:
+      alternativa: D
+      razon:  El texto informa que las tortugas gigantes de la isla Española son
+              endémicas, es decir, son especies propias y exclusivas de aquella isla.
+
+  - pregunta: Se desprende del texto que el daño ecológico en la isla Española
+    alternativas:
+      A: es estrictamente irrecuperable.
+      B: fue causado por un factor exógeno.
+      C: se debió a las tortugas gigantes.
+      D: es obra exclusiva de los biólogos.
+      E: afecta solo a las tortugas gigantes.
+    solucion:
+      alternativa: B
+      razon:  El daño ecológico en la isla Española se debió a la introducción de
+              cabras salvajes en el siglo XIX.
+              
+  - pregunta: Si las tortugas gigantes de la isla Española no dependieran exclusivamente de la
+              vegetación, entonces, es posible que habrían
+    alternativas:
+      A: convivido con las cabras salvajes un buen tiempo.
+      B: luchado por la subsistencia con las cabras salvajes.
+      C: migrado a otras islas del archipiélago Galápagos.
+      D: comenzado a alimentarse de la carne de las cabras.
+      E: desaparecido a causa del cambio climático mundial.
+
+    solucion:
+      alternativa: A
+      razon:  Dado que las cabras salvajes consumieron toda la vegetación de la isla
+              Española, las tortugas empezaron a extinguirse porque seguramente dependían de
+              aquella vegetación. En caso de que las tortugas gigantes no dependieran de la
+              vegetación, es seguro que tortugas y cabras habrían convivido sin problemas por un
+              buen tiempo.

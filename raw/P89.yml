@@ -1,0 +1,60 @@
+  texto: 'La tensión muscular es el estimulante más obvio del crecimiento muscular. El papel de la tensión muscular en el crecimiento todavía no se ha llegado a entender completamente. Se demostró hace más de 20 años que la cantidad de tensión era directamente proporcional al movimiento de aminoácidos se movían hacia él, el músculo   sintetizaba proteínas más de prisa. La tensión tiene otros efectos sobre el músculo que incrementa su tamaño. Estimula directamente los procesos celulares que forman proteínas y aumenta la sensibilidad de dos hormonas anabólicas importantes para el crecimiento muscular: insulina y testosterona. La intensidad del ejercicio también afecta al contenido proteínico en los fluidos corporales. Uno de los cambios más importantes producidos con el entrenamiento de resistencia es le incremento del volumen sanguíneo. Esto se produce mediante el aumento de las proteínas del plasma. El entrenamiento y la dieta adecuados desarrollan proteínas plasmáticas y volumen sanguíneo. El sobre entrenamiento y las dietas  bajas en calorías y proteínas reducen el volumen del plasma, lo que disminuye el rendimiento y la función cardiovascular.'
+  pregunta1: 'A más tensión'
+  alternativas1:
+    A: Se produce más aminoácidos
+    B: Tenemos más volumen de insulina
+    C: Perdemos más hormonas como la  testosterona
+    D: El músculo sintetiza proteínas más de prisa
+    E: Obtenemos mayor crecimiento muscular
+
+  solucion1:
+    alternativa: D
+    razon: '“La tensión muscular es el estimulante más obvio del crecimiento muscular… la cantidad de tensión (es) directamente proporcional al movimiento de aminoácidos se movían hacia él, el músculo sintetiza proteínas más de prisa”. Finalmente, a mayor tensión el músculo sintetiza proteínas más de prisa. '
+
+  pregunta2: 'El volumen sanguíneo se incrementa con'
+  alternativas2: 
+    A: Los ejercicios corporales
+    B: El sobrecalentamiento del cuerpo
+    C: Las dietas bajas en calorías y proteínas
+    D: El aumento de las proteínas del plasma
+    E: El crecimiento celular
+  
+  solucion2:
+    alternativa: D
+    razon: '“Uno de los cambios más importantes producidos con el entrenamiento de resistencia es el incremento del volumen sanguíneo. Esto se produce mediante el aumento de las proteínas del plasma. Fundados en lo que la misma lectura señala y, en especial, en las palabras resaltadas. '
+
+  pregunta3: 'El sobrecalentamiento y las dietas bajas en proteínas y calorías producen'
+  alternativas3:
+    A: Dietas bajas en calorías
+    B: Mayor cantidad de aminoácidos
+    C: Poca tensión muscular
+    D: Mayor desarrollo muscular
+    E: La reducción del volumen del plasma
+  
+  solucion3: 
+    alternativa: E
+    razon: '“El sobre entrenamiento y las dietas bajas en calorías y proteínas reducen el volumen del plasma, lo que disminuye el rendimiento y la función cardiovascular”. '
+
+  pregunta4: 'La función cardiovascular se ve disminuida por'
+  alternativas4:
+    A: El poco entrenamiento y el incremento de las hormonas anabólicas
+    B: El sobre entrenamiento y la dieta abundante en grasas
+    C: El sobre entrenamiento y la dieta baja en calorías y proteínas
+    D: El poco entrenamiento y el aumento del volumen de proteínas
+    E: La tensión muscular y la dieta baja en calorías y proteínas
+
+  solucion4:
+    alternativa: C
+    razon: 'La disminución cardiovascular se ve disminuida debido al sobre entrenamiento y las dietas bajas en calorías y proteínas. Esto está fundamentado en las tres últimas líneas de la lectura. '
+
+  pregunta5: 'El tema que mejor se acomoda al texto leído es la'
+  alternativas5:
+    A: Importancia de las hormonas y las dietas
+    B: Tensión muscular e intensidad de ejercicio
+    C: Tensión muscular y eficacia de la dieta
+    D: Intensidad del ejercicio e importancia
+    E: Formación de proteínas y volumen sanguíneo
+  
+  solucion5:
+    alternativa: B
+    razon: 'El texto trata dos temas centrales. Si nos Preguntaremos ¿de qué trata el texto? Nos responderíamos: por un lado, trata de la tensión muscular mientras por otro se aboca a la intensidad del ejercicio. Sobre estos dos aspectos trata la lectura. '

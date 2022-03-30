@@ -1,0 +1,59 @@
+  texto: 'Pese a que la información es reconocida como uno de los resultados valiosos de la educación, muy pocos maestros se contentarían en considerarla como la única primordial consecuencia de la enseñanza. Se necesita alguna muestra de que los estudiantes puedan hacer algo con sus conocimientos, es decir, que sean capaces de aplicar la información a situaciones y problemas nuevos. También se espera que adquieran técnicas generalizadas para enfrentar distintos asuntos y materias. De esta manera se supone que, frente a un problema o a una situación nueva, podrán elegir la técnica adecuada para encararlos con la información necesaria, tanto en lo que respecta a hechos como a principios. Algunos han denominado a esta actividad "pensamiento crítico", y hubo quienes le dieron el nombre de "soluciones de problemas". En la taxonomía hemos empleado los términos "habilidades intelectuales" y "capacidades técnicas". Su definición operativa más general afirma que el individuo que las posee puede encontrar en su experiencia previa información y las técnicas apropiadas para responder efectivamente al desafío de dificultades y circunstancias distintas. BLOOM, Benjamín S. Taxonomía de los objetivos de la educación'
+  pregunta1: 'La capacidad técnica sería'
+  alternativas1: 
+    A: La captación de informaciones y nuevas realidades
+    B: La facultad para analizar situaciones nuevas y dar soluciones
+    C: La capacidad para comprender nuevos problemas
+    D: La capacidad para generar las nuevas experiencias
+    E: El modo de operar en la solución de nuevos problemas
+  solucion1: 
+    alternativa: E
+    razon: 'La capacidad técnica sería el modo de operar en la solución de nuevos problemas. Según el autor, poseer capacidades técnicas significa para el estudiante poder encarar diversos tipos de situaciones nuevas con procedimientos adecuados que son producto de la enseñanza. La capacidad técnica se refiere a la forma de actuar ante problemas nuevos; por tanto, no se trata sólo de analizar, sino de operar adecuadamente. '
+
+
+  pregunta2: 'La enseñanza debe desarrollar'
+  alternativas2: 
+    A: La capacidad perceptiva del alumno
+    B: La experiencia científica del alumnado
+    C: Las informaciones para encarar problemas
+    D: La facultad para recabar informaciones
+    E: Las capacidades intelectuales y técnicas
+  solucion2: 
+    alternativa: E
+    razon: 'La enseñanza debe desarrollar las capacidades intelectuales y técnicas. Según el texto, la enseñanza no sólo se debe limitar a impartir conocimientos que permitan el desarrollo intelectual del estudiante; también debe mostrar que dichos conocimientos pueden ser útiles cuando se necesita dar solución práctica a diversos tipos de problemas nuevos. Por ello, debe desarrollar tanto lo intelectual como lo técnico. '
+
+  pregunta3: 'La habilidad intelectual tiene por finalidad'
+  alternativas3:
+    A: La acumulación sistemática de conocimientos nuevos
+    B: La comprensión e interpretación de los problemas nuevos
+    C: La aplicación de las técnicas a experiencias recientes
+    D: La elaboración de nuevas técnicas de información
+    E: La solución de problemas y circunstancias distintas
+
+  solucion3:
+    alternativa: B
+    razon: 'La habilidad intelectual tiene por finalidad la comprensión e interpretación de los problemas nuevos. El autor afirma que ante un problema o situación nueva el estudiante debe ser capaz de encontrar en su experiencia previa suficiente información para poder aplicar la técnica adecuada para su solución. Esto quiere decir que antes de dar solución práctica al problema, el estudiante debe comprenderlo e interpretarlo en virtud de sus conocimientos integrales. '
+
+  pregunta4: 'El texto argumenta en favor de'
+  alternativas4:
+    A: El desarrollo de aptitudes
+    B: La solución de problemas
+    C: El pensamiento reflexivo
+    D: La capacidad informativa
+    E: La aplicación del conocimiento
+
+  solucion4:
+    alternativa: E
+    razon: 'El texto argumenta en favor de la aplicación del conocimiento. Desde el principio del texto, el autor defiende la posibilidad de que el estudiante pueda sacarle provecho a sus conocimientos al llevarlos a la práctica. La formación intelectual debe ir acompañada de una capacitación técnica, de modo que el estudiante pueda encarar eficazmente cualquier problema o situación nueva. La solución de problemas, para el autor, precisamente requiere de la aplicación del conocimiento. '
+
+  pregunta5: '¿Cuál sería el título apropiado para el texto?'
+  alternativas5:
+    A: Utilidad de la educación
+    B: Importancia de la educación
+    C: Técnicas para el aprendizaje
+    D: Trascendencia de las informaciones
+    E: Objetivos de la enseñanza
+
+  solucion5:
+    alternativa: E
+    razon: '¿Cuál sería el título apropiado para el texto? Objetivos de la enseñanza. El autor sustenta la tesis de que la enseñanza no sólo sea un medio de difundir información, sino que principalmente permita al estudiante utilizar sus conocimientos en diversas situaciones prácticas. En otras palabras, el texto en su conjunto responde a la Pregunta. ¿qué objetivos debe perseguir la enseñanza? '

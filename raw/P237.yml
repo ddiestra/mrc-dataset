@@ -1,0 +1,61 @@
+texto: 'En medio de repetidos y denodados esfuerzos por recordar algún vestigio de ese estado de aparente vacío en que había caído mi alma, hubo instantes en que soñé salir de él. Hubo momentos breves, brevísimos, en los cuales evoqué reminiscencias que la lúcida razón de una época posterior me asegura que sólo podían referirse a esa sensación de aparente inconsciencia. Las sombras de mi memoria me hablan confusamente de altas figuras que me alzaban y transportaban en silencio hacia abajo, hacia abajo, siempre hacia abajo, hasta que me oprimió un espantoso vértigo ante la simple idea de lo interminable de aquel descenso. Me hablan también de un vago horror que anidó en mi corazón, precisamente a causa de la sobrenatural quietud de ese corazón. Luego me sobreviene la sensación de una repentina inmovilidad de todas las cosas, como si quienes me transportaban (¡una comitiva de espectros!) hubiese rebasado en su descenso los límites de lo ilimitado e hicieran un alto, fatigados por la faena. Después me viene a la mente la sensación de superficies planas y humedad. Y luego todo es locura..., la locura de una memoria que se agita entre cosas prohibidas. POE, Edgar Alan El pozo y el péndulo'
+pregunta1: 'Los esfuerzos del autor se orientaban a'
+alternativas1: 
+  A: Evocar algún instante del aparente vacío en que había caído su alma
+  B: Liberarse del letargo en el que su ser había perdido la esencia
+  C: Soñar que abandonaba aquel vacío que crecía en su espíritu
+  D: Recuperar la aparente inconsciencia que tiempo antes lo había abandonado
+  E: Salir del estado inconsciente de vacío y confusión que reinaban en su alma
+
+solucion1: 
+  alternativa: A
+  razon: 'Los esfuerzos del autor se orientaban a evocar algún instante del aparente vacío en que había caído su alma. En forma literal, el autor nana en la primera parte del texto los repetidos y denodados esfuerzos que hacía para recordar al menos algún instante de su estado de aparente inconsciencia. Lo que el autor pretendía, según podemos suponer, era averiguar qué eventos ocurrieron en tanto él se hallaba sumido en aquel estado.  '
+
+pregunta2: 'Los recuerdos que el autor describe son principalmente'
+alternativas2:
+  A: Confusos
+  B: Extensos
+  C: Nítidos
+  D: Fidedignos
+  E: Prohibidos
+
+solucion2: 
+  alternativa: A
+  razon: 'Los recuerdos que el autor describe son, principalmente confusos. El propio autor califica la fuente de sus recuerdos como sombras que le hablan confusamente. Esto quiere decir que nada de lo que recuerda tiene claridad o nitidez para él. Todo lo contrario, al parecer, sus recuerdos son oscuras proyecciones de su estado anterior. Por tanto, la característica esencial de sus recuerdos es que son confusos.  '
+
+pregunta3: 'En medio de su inconsciencia, ¿qué detalle no recordaría el autor?'
+alternativas3:
+  A: Haber sido transportado hacia abajo
+  B: Haber sentido un vago horror en el corazón
+  C: Una repentina inmovilidad de todas las cosas
+  D: El rostro terrorífico de unos altos espectros
+  E: La sobrenatural quietud de su corazón
+
+solucion3: 
+  alternativa: D
+  razon: 'En medió de su inconsciencia, ¿qué detalle no recordaría el autor? El rostro terrorífico de unos altos espectros. El autor detalla entre sus recuerdos ciertas figuras altas que lo levantaban y transportaban en silencio siempre hacia abajo. El autor llega a pensar que se trataba de una comitiva de fantasmas. No obstante, en ningún momento se le viene a la memoria el rostro de dichos espectros.  '
+
+pregunta4: 'El tema del fragmento es'
+alternativas4:
+  A: La carencia permanente de lucidez
+  B: Las sombras tenues de la existencia
+  C: La locura de un hombre semiconsciente
+  D: Evocaciones de la aparente inconsciencia
+  E: El descenso del alma al cuerpo
+
+solucion4: 
+  alternativa: D
+  razon: 'La terna del fragmento es evocaciones de la aparente inconsciencia. El texto en mención es, en esencia, la descripción de los recuerdos que el autor conserva de su estado de aparente inconsciencia. El texto detalla las imágenes y las sensaciones evocadas por el autor en un momento posterior, en que ya dispone de lucidez. Por tanto, el título debe aludir dichas evocaciones correspondientes al estado de aparente inconsciencia. '
+
+pregunta5: 'La última sensación del autor se define corno el estado de'
+alternativas5:
+  A: Agitación
+  B: Locura
+  C: Ansiedad
+  D: Obnubilación
+  E: Medrosidad
+
+solucion5: 
+  alternativa: B
+  razon: 'La última sensación del autor se define como el estado de locura. Después de enumerar el conjunto de recuerdos que el autor conserva, pasa a resumir el conjunto de vivencias posteriores a su estado de aparente inconsciencia. Lo define simplemente como locura: otro estado que también conserva en su agitada memoria.  '
+

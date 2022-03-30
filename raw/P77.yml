@@ -1,0 +1,48 @@
+  texto: 'Hemos definido un problema como una Pregunta. surgida de una observación más o menos estructurada. Las Preguntas que podemos hacer pueden tomar diferentes formas, según el objetivo de nuestro trabajo: estudio, información, investigación y aun lo que pudiera llamarse el programa de acción son diferentes clases de información. De manera que podemos considerar el problema básicamente como un instrumento de información nueva, al menos para la persona que Pregunta acerca de las observaciones o cerca de fenómenos observados. La novedad del conocimiento es un concepto relativo. Un conocimiento puede ser completamente nuevo para una persona o para un grupo de personas, pero para otras personas, ser conocimiento más o menos anticuado y superado. Puede ser nuevo para todo un país o nuevo para todos los especialistas de una ciencia en todo el mundo. La actividad que tiene como finalidad el descubrimiento de conocimientos completamente nuevos, al menos para un momento del mundo, es la investigación y el verdadero problema de investigación es el que se Pregunta. por conocimientos desconocidos para todos en un momento dado.'
+  pregunta1: 'De las siguientes ¿Cuál es la afirmación principal?'
+  alternativas1:
+    A: El conocimiento surge de la investigación
+    B: El conocimiento es relativo
+    C: La investigación produce conocimientos completamente nuevos
+    D: El problema es un instrumento del conocimiento
+    E: Las Preguntas son de diferentes formas
+
+  solucion1:
+    alternativa: C
+    razon: '"La actividad que tiene como finalidad el descubrimiento de conocimientos completamente nuevos es la investigación, al menos para un momento dado". Un distractor sería "el conocimiento es relativo" pero el texto afirma que la novedad del conocimiento es un concepto relativo; además, esta idea está incluida en la alternativa c), lo mismo sucede con la alternativa a). Las otras no responden al sentido de la Pregunta. en tanto que son ideas, pero no principales. '
+
+  pregunta2: '¿Qué título le colocaría al texto en referencia?'
+  alternativas2: 
+    A: Formas de una Pregunta.
+    B: Problema e información
+    C: Conocimiento y relatividad
+    D: Problema de investigación
+    E: Finalidad de la investigación
+  
+  solucion2:
+    alternativa: D
+    razon: 'Como quiera que el título de una lectura resulte de la suma del tema central más el aspecto desde el cual ha sido tratado, debemos descubrir, en la lectura estos dos elementos. Primero, ¿de qué se habla básicamente? El texto dice: "De manera que podemos afirmar el problema básicamente como un instrumento de información nueva ¿cómo se obtiene esa información? El texto señala: "la actividad que tiene como finalidad el descubrimiento de conocimientos completamente nuevos... es la investigación". De esto se concluye que el problema necesita de la investigación; por lo tanto, la investigación es lo que se trata sobre el problema lo que nos permite afirmar como respuesta la alternativa. '
+
+  pregunta3: 'El contexto en el cual discurre el conjunto de afirmaciones es'
+  alternativas3:
+    A: El conocimiento
+    B: El lenguaje
+    C: La investigación
+    D: La novedad
+    E: La observación
+  
+  solucion3: 
+    alternativa: C
+    razon: 'El contexto en que desenvuelve la lectura nos indica que para llegar a conocimientos nuevos necesariamente se requiere de la investigación, no existiría conocimientos sin ella. '
+
+  pregunta4: 'Si el autor tomara como punto de partida lo contrario de lo que se afirma, se podría deducir que'
+  alternativas4:
+    A: El conocimiento es producto del azar
+    B: El problema es base de la investigación
+    C: El conocimiento es absoluto
+    D: Sin Preguntas no hay investigación
+    E: La investigación es importante pero prescindible
+
+  solucion4:
+    alternativa: A
+    razon: 'Se indica en la lectura que el conocimiento nuevo depende de la investigación; por lo tanto, lo contrario a ello sería el hecho de que el conocimiento sea producto del azar o casualidad. '

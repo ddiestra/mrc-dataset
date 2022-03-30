@@ -1,0 +1,94 @@
+texto: 'Cuando una persona escucha a otra que le habla, no solo reacciona a lo que se le
+        está diciendo, a esas consonantes y vocales ensartadas en palabras y oraciones, sino
+        también a otras características del habla, como el tono emocional y el género del hablante,
+        por ejemplo. Ahora, un reporte difundido por la revista Current Biology, de Cell Press,
+        proporciona las primeras evidencias de que los perros también diferencian y procesan esos
+        diversos componentes de la voz humana. Estudios previos han demostrado que los perros
+        tienen sesgos hemisféricos (cerebro izquierdo contra el derecho) cuando procesan sonidos
+        de la vocalización de otros perros.
+        Victoria Ratcliffe, de la Escuela de Psicología en la Universidad de Sussex, y su
+        supervisor David Reby dicen que era lógico investigar si los perros mostraban sesgos
+        similares frente a la información que se transmite a través del lenguaje humano. Los
+        científicos pronunciaron un discurso a cada lado del perro para que captaran los sonidos
+        con cada uno de sus oídos, al mismo tiempo y con la misma amplitud.
+        Los investigadores observaron sesgos generales en las respuestas de los perros a
+        aspectos particulares de la voz humana. Cuando los animales fueron expuestos a órdenes
+        de una voz familiar en las que los componentes más significativos de las palabras se
+        hicieron más evidentes, mostraron un sesgo en el procesamiento del hemisferio izquierdo,
+        como lo indicaron al girar hacia la derecha. Cuando, en cambio, se exageró la entonación
+        o las señales vocales relacionadas con los hablantes, los perros mostraron un sesgo
+        significativo en el procesamiento del hemisferio derecho. Por supuesto, eso no significa que
+        los perros entiendan todo lo que los humanos pudiéramos decir o que ellos tengan una
+        habilidad similar a la humana para el lenguaje, ni mucho menos. Pero, dice Ratcliffe, estos
+        resultados apoyan la idea de que nuestras compañías caninas ponen atención, «no solo a
+        quiénes somos y cómo decimos las cosas, sino también a lo que decimos».'
+    
+preguntas:    
+  - pregunta: El texto centralmente gira en torno a
+    alternativas:
+      A: un estudio sobre la amplitud con que los perros procesan sonidos.
+      B: los hemisferios derecho e izquierdo en la audición de los perros.
+      C: los hemisferios cerebrales del perro en la comprensión de enunciados.
+      D: la capacidad del perro para atender lo que decimos y cómo lo hacemos.
+      E: los sesgos del perro para comprender las señales orales que emitimos.
+
+    solucion:
+      alternativa: D
+      razon:  El texto gira en torna a la capacidad que tiene el perro para discriminar lo que
+              decimos y la forma en que lo hacemos, no en términos de la comprensión del mensaje
+              lingüístico, sino en cuanto a su diferenciación.
+
+
+  - pregunta: En el texto, la palabra ENSARTADA connota
+    alternativas:
+      A: introducción. 
+      B: concatenación. 
+      C: inoculación.
+      D: proyección. 
+      E: jerarquización. 
+    solucion:
+      alternativa: B
+      razon:  La palabra ENSARTADA se refiere a los sonidos como eslabones de palabras
+              y oraciones. Las unidades discretas en tal sentido suponen una concatenación.
+
+  - pregunta: Resulta incompatible con el desarrollo textual afirmar que los perros tienen la capacidad de
+    alternativas:
+      A: prestar atención a la exageración en la oralidad humana.
+      B: poder procesar sonidos de la vocalización de otros perros.
+      C: girar hacia la derecha cuando perciben una voz familiar.
+      D: atender la forma en que nosotros expresamos una orden.
+      E: interpretar los enunciados humanos en diversos aspectos.
+    solucion:
+      alternativa: E
+      razon:  Los perros son incapaces de interpretar enunciados, pues ello supone un
+              procesamiento de información tanto lingüística como extralingüística. En tal sentido, estos
+              pueden discriminar lo que decimos y la forma en que lo hacemos, pero no interpretar
+              enunciados.
+
+  - pregunta: Del texto se deduce que la actividad cerebral en el hemisferio derecho de los perros
+    alternativas:
+      A: impide que puedan escuchar las señales acústicas de otros perros.
+      B: comprueba que los perros son incapaces de escucharnos y sentir.
+      C: se manifiesta en la reacción de estos de voltear hacia la izquierda.
+      D: involucra la comprensión cabal de enunciados y su funcionalidad.
+      E: es evidencia de que los canes son torpes para saber qué decimos.
+    solucion:
+      alternativa: C
+      razon:  Los perros voltean a la derecha cuando la actividad cerebral involucra al
+              hemisferio izquierdo. Por defecto, cuando la actividad se da en el hemisferio derecho voltean
+              hacia la izquierda.
+
+  - pregunta: Si los perros fueran capaces de interpretar enunciados,
+    alternativas:
+      A: la habilidad mencionada dejaría de ser exclusiva de los humanos.
+      B: el hemisferio derecho sería el componente fundamental en estos.
+      C: la capacidad para diferenciar el enojo de la alegría se confirmaría.
+      D: las implicancias lingüísticas serían completamente irrelevantes.
+      E: el binomio de hemisferios cerebrales sería implausible en estos.
+        
+    solucion:
+      alternativa: A
+      razon:  La habilidad del lenguaje de la cual se habla es exclusiva, según lo propuesto,
+              y en tal sentido se plantea un deslinde con la capacidad perceptual del perro. Si los perros
+              fueran capaces de interpretar, tendrían que hacerlo en cualquier lengua, en primer lugar, y,
+              por consiguiente, dejaría de considerarse privativa de la especie humana.

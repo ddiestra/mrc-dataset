@@ -1,0 +1,56 @@
+texto: 'La palabra menstruación proviene del latín menstruus (menstruo) y la Real Academia Española (RAE: la define como «sangre procedente de la matriz que todos los meses evacúan naturalmente las mujeres y las hembras de ciertos animales». Mientras que «menstruo deriva de la palabra latina menses (mes, ciclo lunar, lunación) y se vincula al carácter cíclico de la Luna porque se produce aproximadamente cada 28 días, en correspondencia con la duración del período lunar y a la regularidad mensual de ambos ciclos», detalla el libro "Cosas de Mujeres", de la psicóloga experta en género Eugenia Tarzibachi. Pero más allá de su definición y etimología, la palabra menstruación carga con una profunda contradicción: es sinónimo de fertilidad, pero también de vergüenza. «La menstruación está muy relacionada con el proceso reproductivo, como la preparación para la maternidad, pero ese nido que está esperando algo que no ocurrió, esa sangre que queda es un desecho. Entonces es algo repulsivo, asqueroso, vergonzante y sucio», le dice Tarzibachi a BBC Mundo. «Estas son dos dimensiones íntimamente relacionadas», remarca. «Una respuesta general es que el cuerpo masculino (el que no menstrúA: es el que ha sido el eje de medidas de muchas cosas, de cómo funciona el organismo normalmente y de cómo la menstruación entonces sería considerada como una patología». La vergüenza sobre la menstruación es «la correspondencia de un tabú social» que estuvo y sigue estando presente, señala la experta en género. Entonces, cada mes hay que menstruar, pero se debe hacer como si no sucediera. «No solo se trata de no poder llamar a las cosas por su nombre, sino también de (la vergüenza dE: tener que pedir públicamente una toallita o un tampón, o tener que llevarlo de manera escondida al baño para cambiarse», enumera. «Todos estos “microgestos” de vergüenza todavía existen y hablan de un tabú que ha calado muy hondo en las mujeres». Esa vergüenza que genera el cuerpo que menstrúa también se traslada a la lengua, porque la menstruación también hay que disimularla con la palabra. Entonces aparecen los eufemismos, «esa manifestación suave o decorosa de ideas cuya recta y franca expresión sería dura o malsonante», dice la RAE. «Juana la colorada», en Colombia; «me cantó el gallo», en Puerto Rico; «me vino la que te conté», en Venezuela; y «Andrés (el que viene una vez por mes)», en Argentina son algunos de los ejemplos que se utilizan en América Latina para evitar decir menstruación. También están «la regla», «la prima roja», «cosas de chicas» ... y muchos más. Llorente, A. (2020). «Día de la Mujer: "Vino Andrés", "Juana la colorada", "me cantó el gallo", las diferentes formas de llamar a la menstruación en América Latina y por qué es tabú». En BBC Mundo. Extraído de https://www.bbc.com/mundo/noticias-51700849 '
+pregunta1: '¿Cuál es la mejor síntesis de la lectura? '
+alternativas1: 
+  A: A pesar de su etimología, la menstruación presenta un trasfondo ambivalente, pues además de la fertilidad se la vincula con el rechazo y la vergüenza, y por ello se matiza con formas eufemísticas. 
+  B: Dado que el cuerpo masculino es el eje medidor de las funciones correctas del organismo, la menstruación es considerada aberrante para la sociedad y un tema de conversación prohibido. 
+  C: La etimología de la palabra menstruación se corresponde con la lunación, evidenciando así la naturalidad del proceso menstrual en las mujeres y en las hembras de ciertos animales. 
+  D: La única manera en la que las mujeres hacen referencia a la menstruación es a través de eufemismos debido al tabú que deviene en torno al tema por la reacción de vergüenza que genera.   
+
+solucion1: 
+  alternativa: A
+  razon: 'El resumen ideal se corresponde con «A pesar de su etimología, la menstruación presenta un trasfondo ambivalente, pues además de la fertilidad se la vincula con el rechazo y la vergüenza, y por ello se matiza con formas eufemísticas».  '
+  
+pregunta2: 'La palabra DISIMULAR connota, en el texto'
+alternativas2:
+  A: Un óbice filosófico. 
+  B: Una variedad nocional. 
+  C: Un hábito verbal. 
+  D: Un disfraz lingüístico.   
+
+solucion2: 
+  alternativa: D
+  razon: 'Con el eufemismo se logra un disfraz lingüístico, una manera de ocultar la vergüenza por la menstruación.  '
+  
+pregunta3: 'Resulta incompatible con el texto afirmar que el ciclo menstrual femenino '
+alternativas3:
+  A: Es un tópico soslayado en las sociedades occidentales. 
+  B: Ha implicado un desarrollo eufemístico en las lenguas. 
+  C: Tiene un vínculo directo con el poder de la maternidad. 
+  D: Siempre ha sido una fuente de orgullo para las mujeres.   
+
+solucion3: 
+  alternativa: D
+  razon: 'Al tratarse de un tabú generalizado, es incompatible afirmar que sea siempre una fuente de orgullo.  '
+  
+pregunta4: 'Se infiere que los eufemismos, desde el punto de vista de la semántica '
+alternativas4:
+  A: Nos brindan mecanismos para hablar objetivamente de todo referente. 
+  B: Son herramientas lingüísticas para aproximarnos a temas que son tabú. 
+  C: Se han elaborado, desde antiguo, para hablar solo de la menstruación. 
+  D: Solamente tiene sentido verbal cuando reemplazan a voces malsonantes.   
+
+solucion4: 
+  alternativa: B
+  razon: 'Los eufemismos se corresponden con aquello que se quiere decir de una manera más «delicada», sabiendo que dicho de otra manera resultaría malsonante. Es así que las mujeres recurren a ellos para hablar sobre aquello que la sociedad considera un tabú: la menstruación. '
+  
+pregunta5: 'Si el cuerpo masculino también experimentase la menstruación, desde la óptica de género'
+alternativas5:
+  A: La menstruación dejaría de ser considerada una patología. 
+  B: Las mujeres hablarían abiertamente sobre la menstruación. 
+  C: Todas las clases de educación sexual resultarían complejas. 
+  D: Hombres y mujeres reprimirían por completo su sexualidad.   
+
+solucion5: 
+  alternativa: A
+  razon: 'Una de las razones por las que no se habla sobre la menstruación es la disparidad con el cuerpo masculino. Si existiese una correspondencia, ya no se consideraría a la menstruación como una extrañeza. '
+  

@@ -1,0 +1,61 @@
+texto: 'Ciento cincuenta y ocho años después del descubrimiento de Darwin, los científicos han confirmado que los macrauquenias eran parientes lejanos de los caballos, rinocerontes y tapires, miembros de un grupo conocido como perisodáctilos o Perissodactyla. En un estudio publicado recientemente en Nature Communications, los investigadores calcularon que los macrauquenias divergieron de los Perissodactyla hace 78 a 56 millones de años. Un grupo que «was basically homeless has now found its place», dijo Michael Hofreiter, profesor de Ciencias Genómicas de la Universidad de Postdam en Alemania y autor del estudio. Los macrauquenias eran herbívoros que vagaban por los espacios abiertos y cubiertos de hierba de toda América del Sur antes de desaparecer, junto con otras especies de la megafauna, al final de la última era de hielo, hace casi 12 000 años. A lo largo de los años, paleontólogos y excavadores han encontrado un buen número de fósiles de macrauquenia, pero el estudio de huesos y dientes ha sido engañoso porque los animales tenían una mezcla de rasgos, dijo Ross MacPhee, curador del American Museum of Natural History de Manhattan, otro de los autores del estudio. Para tener un mejor entendimiento, Hofreiter, MacPhee y sus colegas recurrieron al ADN. El equipo logró encontrar un hueso de dedo del pie que estaba en una cueva en el sur de Chile y tenía suficiente ADN de macrauquenia para poder realizar estudios. Para reconstruir secuencias de ADN antiguo, los científicos suelen utilizar como andamio el genoma de un pariente vivo y estrechamente relacionado. Pero los macrauquenias no tienen parientes vivos cercanos. En vez de eso, los investigadores compararon alrededor de 20 000 fragmentos de ADN mitocondrial obtenidos de su muestra ósea con los genomas mitocondriales de caballos, rinocerontes, tapires y llamas salvajes. Al comparar este metogenoma con los de muchos mamíferos, su equipo pudo ubicar a los macrauquenias como hermanos de los Perissodactyla en el árbol evolutivo.'
+pregunta1: 'El tema central del texto es'
+alternativas1: 
+  A: Las pruebas del vínculo de los macrauquenias y los animales herbívoros.
+  B: Los macrauquenias y su evolución en espacios abiertos primigenios.
+  C: Los macrauquenias que habitaban América del Sur hace 12 000 años.
+  D: El ADN de los macrauquenias como factor de confirmación genética.
+  E: La filiación evolutiva recientemente descubierta de los macrauquenias.
+
+solucion1: 
+  alternativa: E
+  razon: 'En el texto se desarrolla el tema del estudio reciente del ADN de los macrauquenias, el cual ha permitido establecer el vínculo preciso de esta especie extinta con otras especies. '
+
+pregunta2: 'La expresión en inglés «WAS BASICALLY HOMELESS HAS NOW FOUND ITS PLACE» supone'
+alternativas2:
+  A: La detección de la filiación precisa de una especie extinta, pariente de caballos y tapires, entre otros.
+  B: La corroboración de que los tapires han encontrado su hábitat de origen gracias a una investigación.
+  C: La presunta desaparición del ancestro del caballo, cuya existencia se ha corroborado en la actualidad.
+  D: Que los macrauquenias carecían de un lugar fijo de residencia y vivían en espacios abiertos.
+  E: La vinculación entre tapires y caballos a la luz de la detección de un ancestro que se creía extinto.
+
+solucion2: 
+  alternativa: A
+  razon: 'La cita en inglés define que el espécimen, básicamente, carecía de filiación precisa; sin embargo, a la luz de una indagación genética, se le ha podido encontrar un lugar en el árbol evolutivo. '
+
+pregunta3: 'Se puede inferir del texto que el estudio publicado en Nature Communications es fundamentalmente'
+alternativas3:
+  A: Paleontológico y realizado en museos.
+  B: Realizado por genetistas y museólogos.
+  C: Internacional e interdisciplinar.
+  D: Del ámbito de la historia natural.
+  E: Comparativo, de índole prehistórico.
+
+solucion3: 
+  alternativa: C
+  razon: 'Internacional porque involucra a científicos de Alemania, Estados Unidos y acaso Chile; interdisciplinaria porque involucra genética, química y paleontología, cuando menos. '
+
+pregunta4: 'Resulta incompatible con el desarrollo del texto afirmar que, para detectar la filiación específica del macrauquenia, se usaron técnicas que'
+alternativas4:
+  A: Hicieron posible la evaluación minuciosa del ADN de un resto de dedo.
+  B: Permitieron comparar su ADN con el de parientes vivos muy próximos.
+  C: Posibilitaron el examen exhaustivo de ADN mitocondrial de un dedo.
+  D: Ayudaron a los investigadores a evaluar restos detectados en Chile.
+  E: Hicieron posible el examen comparativo de su ADN con el de caballos.
+
+solucion4: 
+  alternativa: B
+  razon: 'En el texto se indica claramente que no existen parientes próximos de macrauquenia con los que se pueda comparar el ADN mitocondrial. '
+
+pregunta5: 'Si en la actualidad existieran especímenes con una filiación próxima a los macrauquenias, posiblemente'
+alternativas5:
+  A: El análisis de ADN mitocondrial comprendería a otras especies muy diferentes.
+  B: Estos realmente no habrían llegado a extinguirse y vivirían en zonas desérticas.
+  C: Los pastos frescos, que son necesarios para su sustento, carecerían de relevancia.
+  D: Un estudio comparativo interespecies escrupuloso habría sido innecesario.
+  E: La detección de engarces con especies actuales resultaría totalmente impracticable.
+
+solucion5: 
+  alternativa: D
+  razon: 'Por la falta de especies muy próximas al macrauquenia que estén vivas, se realizó un estudio de ADN mitocondrial con otras especies como los caballos y tapires. '
+

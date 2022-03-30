@@ -1,0 +1,33 @@
+texto:  'Ciencia y filosofía forman un continuo. La filosofía es la parte más global, reflexiva y
+        especulativa de la ciencia, la arena de las discusiones que preceden y siguen a los avances
+        científicos. La ciencia es la parte más especializada, rigurosa y bien contrastada de la
+        filosofía, la que se incorpora a los modelos estándar y a los libros de texto y a las
+        aplicaciones tecnológicas. Ciencia y filosofía se desarrollan dinámicamente, en constante
+        interacción. Lo que ayer era especulación filosófica hoy es ciencia establecida. Y la ciencia
+        de hoy sirve de punto de partida a la filosofía de mañana. La reflexión crítica y analítica de
+        la filosofía detecta problemas conceptuales y metodológicos en la ciencia y la empuja hacia
+        un mayor rigor. Y los nuevos resultados de la investigación científica echan por tierra viejas
+        hipótesis especulativas y estimulan a la filosofía a progresar.'
+    
+preguntas:    
+  - pregunta: En el texto, el término ARENA significa
+    alternativas:
+      A: plaza. 
+      B: partícula. 
+      C: planicie. 
+      D: ruedo. 
+      E: lugar.  
+    solucion:
+      alternativa: E
+      razon:  La arena de las discusiones es el campo o lugar donde se llevan a cabo.
+
+  - pregunta: La expresión ECHAR POR TIERRA connota
+    alternativas:
+      A: vivificar. 
+      B: soslayar. 
+      C: refutar. 
+      D: arrasar. 
+      E: atemorizar.  
+    solucion:
+      alternativa: C
+      razon:   En el texto, echar por tierra las hipótesis es refutarlas o falsarlas.

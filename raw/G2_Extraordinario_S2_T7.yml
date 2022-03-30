@@ -1,0 +1,87 @@
+texto:  'Empecemos con la primera operación moderna de propaganda llevada a cabo por un
+        gobierno. Ocurrió bajo el mandato de Woodrow Wilson. Este fue elegido presidente en
+        1916, cuando se cruzaba el ecuador de la Primera Guerra Mundial. La población era muy
+        pacifista y no veía ninguna razón para involucrarse en una guerra europea; sin embargo, la
+        administración Wilson había decidido que el país tomaría parte en el conflicto. Había por
+        tanto que hacer algo para inducir en la sociedad la idea de la obligación de participar en la
+        guerra. Y se creó una comisión de propaganda gubernamental, conocida con el nombre de
+        Comisión Creel, que, en seis meses, logró convertir una población pacífica en otra histérica
+        y belicista que quería ir a la guerra y destruir todo lo que oliera a alemán, despedazar a
+        todos los alemanes, y salvar así al mundo.
+        Entre los que participaron activa y entusiásticamente en la guerra de Wilson estaban
+        los intelectuales progresistas, gente del círculo de John Dewey. Estos se mostraban muy
+        orgullosos, como se deduce al leer sus escritos de la época, por haber demostrado que lo
+        que ellos llamaban “los miembros más inteligentes de la comunidad”, es decir, ellos mismos,
+        eran capaces de convencer a una población reticente de que había que ir a una guerra
+        mediante el sistema de aterrorizarla y suscitar en ella un fanatismo patriotero. Los medios
+        utilizados fueron muy amplios. Por ejemplo, se fabricaron montones de atrocidades
+        supuestamente cometidas por los alemanes, en las que se incluían niños belgas con los
+        miembros arrancados y todo tipo de cosas horribles que todavía se pueden leer en los libros
+        de historia, buena parte de lo cual fue inventado por el Ministerio británico de propaganda,
+        cuyo auténtico propósito en aquel momento —tal como queda reflejado en sus
+        deliberaciones secretas— era el de dirigir el pensamiento de la mayor parte del mundo.
+        Pero la cuestión clave era la de controlar el pensamiento de los miembros más inteligentes
+        de la sociedad americana, quienes, a su vez, diseminarían la propaganda que estaba
+        siendo elaborada y llevarían al pacífico país a la histeria propia de los tiempos de guerra. Y
+        funcionó muy bien, al tiempo que nos enseñaba algo importante: cuando la propaganda
+        que dimana del Estado recibe el apoyo de las clases de un nivel cultural elevado y no se
+        permite ninguna desviación en su contenido, el efecto puede ser enorme.'
+    
+preguntas:    
+  - pregunta: Centralmente, el texto trata sobre
+    alternativas:
+      A: el rol que cumplió el denominado Ministerio de Propaganda Británico.
+      B: el gobierno de W. Wilson y su participación en la Primera Guerra Mundial.
+      C: la propaganda como una herramienta para manipular a la opinión pública.
+      D: la radical transformación de la sociedad europea, de belicista a pacifista.
+      E: la falta de humildad de los intelectuales progresistas más inteligentes 
+
+    solucion: 
+      alternativa: C
+      razon:  Solo la alternativa C aborda el tema central del texto, las demás se concentran en cuestiones anexas.
+
+  - pregunta: El término ECUADOR tiene el sentido contextual de
+    alternativas:
+      A: mitad. 
+      B: cúspide. 
+      C: porción.
+      D: norte. 
+      E: calor.
+    solucion:
+      alternativa: A
+      razon:  ECUADOR da a entender que el conflicto está a la mitad de su desarrollo.
+
+  - pregunta: Se colige que los políticos británicos de la época
+    alternativas:
+      A: controlaban a Estados Unidos y con su ayuda fabricaron pruebas.
+      B: eran vanidosos y subestimaban al resto de Europa y América.
+      C: establecieron nexos con políticos alemanes para pedirles ayuda.
+      D: fueron víctimas de la manipulación propagandística de Alemania.
+      E: sabían que no podían ganar la guerra por sus propios medios.
+    solucion:
+      alternativa: E
+      razon:  Si los británicos hubieran creído que podían ganar por sí solos la guerra no se
+              habrían preocupado por buscar la intervención norteamericana. 
+
+  - pregunta: Es incompatible con lo afirmado por el texto sostener que
+    alternativas:
+      A: el pueblo de EE.UU asumíó la guerra con un sentido trágico y pesimista.
+      B: participar en la guerra fue una decisión del más alto nivel en EE. UU.
+      C: había estrecha cooperación entre intelectuales y el gobierno de Wilson.
+      D: el peso de la propaganda resulta determinante para manipular opiniones.
+      E: se fabricaron pruebas para presentar a los alemanes como sanguinarios.
+    solucion:
+      alternativa: A
+      razon:  El pueblo norteamericano se asumía como salvador del mundo, su participación fue entusiasta y hasta histérica.
+
+  - pregunta: Si el pueblo norteamericano hubiera sido belicista por naturaleza,
+    alternativas:
+      A: no se habría involucrado en una guerra europea.
+      B: la comisión Creel no habría tenido razón de existir.
+      C: sería aliado de los alemanes y no de los británicos.
+      D: W. Wilson no habría sido presidente de los EE.UU.
+      E: la propaganda provocaría gran terror en los EE.UU. 
+    solucion:
+      alternativa: B
+      razon:  Se creó la comisión Creel para transformar a un pueblo pacífico en uno belicista.
+              Si ya fuera belicista no tendría sentido conformar la comisión.

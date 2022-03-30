@@ -1,0 +1,60 @@
+  texto: 'En una región de Francia, llamada la Dordoña, se encuentra algunas de las cavernas donde vivió el hombre primitivo hace varios miles de años. Sobre sus paredes podemos ver muchos dibujos de mamuts y de otros animales, estos dibujos fueron hechos por hombres de épocas remotas, a quienes les gusta, como a los actuales, hacer dibujos. Tales dibujos no constituyen una figura. Si uno dibuja un mamut simplemente para entretenerse está sólo dibujando, no escribiendo. Con su dibujo no dice nada a nadie, solamente refleja la apariencia del animal. Pero supongamos que el dibujante tuvo la idea de dibujar un mamut, o una manada de ellos, y de enviar el dibujo a algún amigo suyo, con el fin de expresarle que en donde él estaba había muchos mamuts y que necesitaba su ayuda para cazarlos. En este caso el dibujo sí constituye escritura.'
+  pregunta1: 'La tesis del autor sostiene que los dibujos constituyen escritura cuando'
+  alternativas1:
+    A: Trasmite un mensaje
+    B: Son copia fiel de un objeto
+    C: Se hacen como pasatiempo
+    D: Se hacen sin propósito definido
+    E: El autor los hace sólo para si
+
+  solucion1:
+    alternativa: A
+    razon: '"Pero supongamos que el dibujante tuvo la idea de dibujar un mamut, o una manada de ellos, y de enviar el dibujo a algún amigo suyo, con el fin de expresarle que en donde él estaba había muchos mamuts y que necesitaba su ayuda para casarlos. En este caso el dibujo sí constituye una escritura". '
+
+  pregunta2: 'Según el texto, resulta falso afirmar que'
+  alternativas2: 
+    A: El dibujo puede comunicar algo a alguien
+    B: El dibujo puede constituir escritura
+    C: El hombre siempre le ha gustado dibujar
+    D: Al hombre sólo puede servir como entretenimiento
+    E: Un mensaje puede trasmitirse por medio de dibujos
+  
+  solucion2:
+    alternativa: D
+    razon: '"Si uno dibuja un mamut simplemente para entretenerse, está solo dibujando, no escribiendo". De esta expresión se deduce con facilidad que no todos los dibujos son para entretenerse; ya que algunos se utilizan para transmitir mensajes; por lo tanto, se concluye que el dibujo no sólo puede servir como entretenimiento. '
+
+  pregunta3: 'El título que mejor expresa la idea del texto es'
+  alternativas3:
+    A: Las cavernas de la Dordoña
+    B: Antigüedad del arte rupestre
+    C: El origen de la escritura
+    D: El dibujo es escritura
+    E: El dibujo, actividad recreativa
+  
+  solucion3: 
+    alternativa: C
+    razon: '¿De qué trata básicamente la lectura? En ella explica como el dibujo en tanto que se expresa un mensaje se convierte en escritura. La respuesta seria la forma como origina la escritura. '
+
+  pregunta4: 'Para que haya comunicación a través de estos dibujos'
+  alternativas4:
+    A: Es necesario que produzcan admiración en el observador
+    B: Es necesario que el observador entienda la intención del dibujante
+    C: No es necesario que sean observados por alguien
+    D: Es necesario que ellos copien todos los detalles del objeto
+    E: Es necesario que se hayan hecho para recreación y solaz
+
+  solucion4:
+    alternativa: B
+    razon: 'Si el dibujo es recibido y el destinatario no tiene la misma idea que tuvo el dibujante será difícil que se establezca entre ellos algún tipo de comunicación. Como en toda comunicación emisor y receptor deben tener la misma idea del dibujo realizado; en este caso el emisor sería el dibujante. '
+
+  pregunta5: 'Del texto se desprende que'
+  alternativas5:
+    A: El dibujo no es ni puede ser escritura
+    B: En niño escribe un modelo sin comprenderlo
+    C: Escribir no implica que exista comunicación
+    D: El dibujo no sirve para transmitir mensajes
+    E: Escribir no es sólo copiar un modelo
+  
+  solucion5:
+    alternativa: E
+    razon: '“Si uno dibuja un mamut…, con su dibujo no dice nada a nadie, solamente refleja la apariencia del animal” sin embargo si se envía el dibujo con la intensión de transmitir un mensaje en tal caso se convierte, dicho dibujo, en escritura. De lo señalado se entiende que escribir no es sólo copiar un modelo. '

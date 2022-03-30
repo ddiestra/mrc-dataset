@@ -1,0 +1,90 @@
+texto:  'Hoy es de tal naturaleza el descrédito de los políticos en América Latina, que para
+        poder salir elegidos tienen que demostrar que no son políticos. Que son otra cosa:
+        militares, reinas de belleza, tecnócratas. Cualquier cosa menos políticos. ¿Por qué?
+        Porque la corrupción impune es casi la regla, y en épocas de crisis económicas las
+        sociedades suelen ser rigurosas con los que han medrado.
+        La escandalosa corrupción latinoamericana se expresa de por lo menos tres maneras
+        nefastas: la clásica, que consiste en cobrar comisiones y sobornos por cada obra que se
+        asigna o cada regla que se viola en beneficio de alguien. La indirecta, que es la corrupción
+        que se permite para beneficiar a un aliado circunstancial. Existen, por ejemplo, políticos
+        corruptores que son (o se creen) ellos mismos incorruptibles. El dominicano Balaguer
+        o el ecuatoriano Velasco Ibarra fueron buenos ejemplos de políticos que
+        personalmente no tenían apego a los bienes materiales, pero alimentaron en otros la
+        codicia como una forma de sostenerse en eI poder. Y la tercera corrupción, la más
+        costosa: el clientelismo. La utilización frívola de los dineros públicos para comprar a
+        grandes grupos de electores con prebendas y privilegios injustificables. Es como si los
+        políticos no fueran servidores públicos elegidos para obedecer las leyes, sino grandes o
+        pequeños autócratas que miden su prestigio por las normas que son capaces de violar,
+        pues ahí radica la definición del verdadero poder en América Latina: son importantes porque
+        están por encima de las reglas. No se encuentran sujetos al escrutinio ni a la auditoría del
+        pueblo: son ellos los que vigilan al pueblo, aunque sea este quien pague su salario.
+        No sería justo, sin embargo, cargar las tintas sobre los políticos. Las élites son,
+        en gran medida, un reflejo de la sociedad en la que actúan. Si su conducta se alejara
+        radicalmente de los patrones de comportamiento de la sociedad, serían
+        rechazados. Para que funcione un extendido sistema de relaciones clientelistas como
+        el que está presente en América Latina, es necesario que en el seno de la sociedad
+        prevalezca una especie de tolerancia cómplice con cuanto sucede. La verdad es
+        que una parte sustancial de los latinoamericanos alimenta o tolera un tipo de
+        relación en el que la lealtad personal se expresa en la entrega de privilegios, y en el
+        peso relativamente escaso que se les concede a los méritos personales.'
+    
+preguntas:    
+  - pregunta: El tema central del texto es
+    alternativas:
+        A: el sutil sistema de relaciones clientelistas en Latinoamérica.
+        B: la tres formas de corrupción en la política latinoamericana.
+        C: el clientelismo como práctica recurrente en Latinoamérica.
+        D: una crítica a los políticos que se consideran incorruptibles.
+        E: la corrupción clásica e indirecta en la política latinoamericana.
+    solucion:
+      alternativa: B
+      razon:  'El tema central es presentado en el segundo párrafo, las tres formas de
+              corrupción en la política latinoamericana: clásica, indirecta y clientelismo.'
+
+  - pregunta: Si las sociedades latinoamericanas fuesen intolerantes con la corrupción,
+    alternativas:
+        A: difícilmente accederían al poder políticos populistas.
+        B: sería imposible que triunfe un candidato de izquierda.
+        C: sería muy difícil que gane una elección un millonario.
+        D: se ingresaría con seguridad a un sistema bipartidista.
+        E: solamente podrían tener éxito los partidos tradicionales.
+    solucion:
+      alternativa: A
+      razon:  El populismo de derecha o izquierda recurre a las políticas de prebendas y generación de puestos de trabajo (para los que los apoyan), es decir, al clientelismo para lograr el poder y mantenerse en él.
+
+  - pregunta: Se infiere de lo planteado en el primer párrafo que
+    alternativas:
+        A: a los votantes no les importa que los políticos roben, sino que hagan obra.
+        B: los políticos cobran comisiones pues consideran que esto es lo correcto.
+        C: un conductor de televisión famoso tiene opción para ganar una elección.
+        D: el candidato de un partido tradicional compite con todas las ventajas.
+        E: los políticos latinoamericanos se comportan como los políticos de Suiza.
+    solucion:
+      alternativa: C
+      razon:  '“Hoy es de tal naturaleza el descrédito de los políticos en América
+              Latina, que para poder salir elegidos tienen que demostrar que no son políticos”. Un
+              conductor famoso de televisión tiene una opción de ganar una lid electoral justamente
+              porque no es un político.'
+
+  - pregunta: ¿Cuál de las siguientes ideas es incompatible con respecto a lo expuesto en el texto?
+    alternativas:
+        A: Parte del electorado apoya la corrupción pues reciben beneficios.
+        B: En América Latina no se comprende el valor del respeto a las reglas.
+        C: El reconocimiento a la meritocracia no es una idea que haya calado.
+        D: El político latinoamericano muestra su poder soslayando las normas.
+        E: Toda la corrupción que hay en Latinoamérica es culpa de los políticos.
+    solucion:
+      alternativa:  E
+      razon:  'La corrupción a nivel político es un reflejo de lo que ocurre en la
+              sociedad, no solo es culpa de los políticos sino de buena parte de la sociedad.'
+
+  - pregunta: El término SUSTANCIAL tiene el sentido de
+    alternativas:
+        A: esencial. 
+        B: estructural. 
+        C: espeso.
+        D: considerable. 
+        E: trascendente. 
+    solucion:
+      alternativa: D
+      razon:  Una parte considerable de latinoamericanos actúa bajo el peculiar criterio de lealtad de que se apoya a un candidato para obtener una prebenda o un trato de privilegio.

@@ -1,0 +1,60 @@
+  texto: 'La memoria intelectual, la memoria abstracta de datos, razonamiento y números es más frágil que la memoria afectiva. Nosotros podemos olvidar los libros de historia, las monografías, los ensayos escritos con gran acopio de datos sobre la insurrección de 1832 en París, pero nunca olvidará, quién las haya leído las cien páginas que dedica Víctor Hugo a ese acontecimiento en Los Miserables. Sólo quien haya leído esas páginas podrá afirmar que ha "vivido", aunque sea vicariamente esos momentos desastrosos y no quien sepa quién era entonces el ministro del interior cuánto ganaba un obrero y de cuántos fusiles disponía la guardia nacional. El novelista se encuentra así, pues, en nuestra época, en una situación inconfortable. Las ciencias sociales acaparan y reivindican la transmisión del saber y de lo novedoso, lo que antes pertenecía a la novela. La historia banalizada expropia del pasado y el periodismo de actualidad el presente. ¿Qué le queda algo? le queda el lenguaje, le queda la fantasía le queda el carácter no inmediatamente utilitario de su quehacer. le queda tal vez la insatisfacción.'
+  pregunta1: 'Sobre lo ocurrido en París en 1832, en Los Miserables se describe'
+  alternativas1:
+    A: El número de fusiles de la guardia nacional
+    B: La identidad de los ministros
+    C: Graves acontecimientos sociales
+    D: Razonamientos históricos complejos
+    E: El salario del obrero parisino
+
+  solucion1:
+    alternativa: C
+    razon: '"Nosotros podemos olvidar los libros de historia, las monografías, los ensayos escritos con gran acopio de datos sobre la insurrección de 1832 en París, pero nunca olvidará, quién las haya leído las cien páginas que dedica Víctor Hugo a ese acontecimiento". Por lo indicado el fragmento, en Los Miserables se describen acontecimientos sociales graves, ya que se trató de una insurrección. '
+
+  pregunta2: 'El autor considera que la historia se aprecia mejor'
+  alternativas2: 
+    A: A través de la literatura
+    B: Leyendo monografías
+    C: Por vivencias directas
+    D: Por lo ensayos
+    E: Por libros científicos
+  
+  solucion2:
+    alternativa: A
+    razon: '"Sólo quien haya leído esas páginas podrá afirmar que ha vivido". Al referirse de esa manera a las cien páginas de Los Miserables, nos da a entender que es mejor aprender la historia a través de la literatura. '
+
+  pregunta3: 'Según el autor la memoria intelectual es'
+  alternativas3:
+    A: Vivencial
+    B: Endeble
+    C: Perenne
+    D: Fría
+    E: Abstracta
+  
+  solucion3: 
+    alternativa: B
+    razon: 'El sustento lógico de esta respuesta está en las siguientes líneas de la lectura: "la memoria intelectual, la memoria abstracta de datos, razonamiento y números es más frágil que la memoria afectiva". '
+
+  pregunta4: 'Las ciencias sociales, según el autor, acapara:'
+  alternativas4:
+    A: El lenguaje
+    B: La libertad de composición
+    C: La difusión de conocimientos
+    D: El pasado
+    E: La imaginación
+
+  solucion4:
+    alternativa: C
+    razon: '"Las ciencias sociales acaparan y reivindican la transmisión del saber y de lo novedoso, lo que antes pertenecía a la novela", Es fácil comprender la razón por la cual la alternativa C: es la respuesta, las ciencias sociales están encargadas en la actualidad de difundir o transmitir el saber a los conocimientos. '
+
+  pregunta5: 'El novelista, según el autor, conserva:'
+  alternativas5:
+    A: La satisfacción
+    B: Lo novedoso
+    C: La fantasía
+    D: La transmisión del saber
+    E: La actualidad
+  
+  solucion5:
+    alternativa: C
+    razon: 'Cuando el autor de la lectura se Pregunta. sobre qué le queda al novelista, él se responde inmediatamente diciendo "Felizmente le queda algo: le queda el lenguaje, le queda la fantasía, le queda la libertad de la composición ..." Por lo tanto, la respuesta es la alternativa. '

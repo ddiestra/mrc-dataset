@@ -1,0 +1,40 @@
+texto: 'Se reconoce generalmente que la geometría como ciencia fue originariamente
+        desarrollada por los griegos. Entre las contribuciones más importantes a su desarrollo se
+        cuentan las de los matemáticos Pitágoras y Euclides. Pero los egipcios, milenios antes,
+        poseían nociones geométricas como lo atestiguan sus pirámides que ya eran antiguas en
+        el tiempo de Pitágoras (siglo VI a. C.), además hay evidencia de que los babilonios, muy
+        anteriores, estaban familiarizados con varios principios de la geometría. Si el
+        conocimiento geométrico ya existía antes de su tiempo, ¿en qué sentido fueron los
+        griegos los que originaron la ciencia de la geometría? Antes de Pitágoras el conocimiento
+        geométrico del hombre consistía en una colección o catálogo de hechos casi
+        completamente desconectados unos de otros. Las nociones geométricas solo consistían
+        en una lista de reglas empíricas útiles para la medición de las tierras o la construcción de
+        puentes y edificios, y no había sistema en su conocimiento de las verdades geométricas.
+        Al introducir el orden en esta materia, los griegos la transformaron de una colección de
+        hechos aislados de conocimiento en una ciencia.'
+    
+preguntas:    
+  - pregunta: '¿Cuál es el tema central del texto?'
+    alternativas:
+      A: 'Los avances matemáticos de los babilonios'
+      B: 'Las contribuciones de Pitágoras y Euclides'
+      C: 'El origen griego de la ciencia de la geometría'
+      D: 'Las hazañas arquitectónicas de los egipcios'
+      E: 'La lista de reglas empíricas de la Antigüedad' 
+        
+    solucion:
+      alternativa: 'C' 
+      razon: 'El texto explica el mérito de los griegos al fundar la geometría como ciencia.'
+
+  - pregunta: '¿Cuál es la mejor síntesis del texto?'
+    alternativas:
+      A: 'Al sistematizar las nociones geométricas previas, los griegos dieron origen a la ciencia de la geometría.'
+      B: 'Una ciencia se constituye cuando se sistematiza los conocimientos dispersos o lista de reglas empíricas.' 
+      C: 'Las contribuciones más importantes para la ciencia geométrica fueron las de Pitágoras y Euclides.'
+      D: 'Antes de los griegos solo existía una lista de reglas empíricas útiles para la medición de las tierras.'
+      E: 'Los egipcios poseían nociones geométricas, como lo atestiguan sus pirámides, mucho antes que los griegos.'
+     
+        
+    solucion:
+      alternativa: 'A' 
+      razon: 'El enunciado explica la razón por la cual los griegos fueron los fundadores de la geometría como ciencia.'

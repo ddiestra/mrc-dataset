@@ -1,0 +1,56 @@
+texto: 'El movimiento eugenésico tuvo sus orígenes en las ideas del científico inglés Francis Galton. Convencido, por sus estudios de la aparición de genios en familias (incluida la suya propia), de que la inteligencia era heredable, Galton concluyó en su libro Hereditary genius (1869) que sería «quite posible to produce a race of talented men through judicious marriages for several generations». El término eugenesia, acuñado por Galton en 1883, se refiere a la mejora de la raza humana mediante tales matrimonios. Los partidarios de la eugenesia creían que una amplia variedad de atributos humanos se heredaba como caracteres mendelianos, incluidos muchos aspectos del comportamiento, de la inteligencia y del talante moral. Su idea dominante fue que en la población se estaban reproduciendo más rápidamente los individuos genéticamente «débiles mentales» que los genéticamente superiores y que este diferencial en la tasa de nacimientos daría lugar a un deterioro progresivo de la capacidad intelectual y de la fibra moral de la raza humana. Se propusieron varios remedios. La eugenesia positiva animaba a los padres especialmente «aptos» a tener más hijos. Sin embargo, el punto más importante de los objetivos de los eugenistas fue el planteamiento eugenésico negativo, dirigido a desaconsejar la reproducción en individuos genéticamente inferiores o, incluso, a impedir que se reprodujeran. A lo largo de las dos primeras décadas del siglo XX, muchos biólogos aceptaron pasivamente los puntos de vista de los eugenistas, pero hacia 1930, las críticas incidían en que los objetivos del movimiento eugenésico estaban determinados más por racismo, prejuicios de clase y sentimientos antiinmigrantes que por razones científicas. Cuando se comenzó a conocer los horrorosos extremos a los que habían llegado los nazis apoyándose en la eugenesia, surgió una fuerte reacción que terminó con el movimiento eugenésico. Los eugenistas incurrieron en varios errores básicos. Suponían que los caracteres humanos complejos, como la inteligencia y la personalidad, eran estrictamente hereditarios, descartando completamente cualquier contribución ambiental al fenotipo. Suponían además que estos caracteres estaban determinados por genes individuales, con alelos dominantes y recesivos. Esta creencia persistió a pesar de que la investigación demostraba que múltiples genes contribuían a muchos fenotipos. Pensaban que aquellos que se consideraban genéticamente inadecuados podían reproducirse más que aquellos que se pensaba eran genéticamente aptos. Esto es exactamente lo contrario del concepto de eficacia darwiniana, que equipara el éxito reproductivo con la eficacia. (¡Galton tendría que haber entendido esto, siendo primo hermano de Darwin!). No debemos olvidar los errores cometidos por los primeros eugenistas. Debemos recordar que el fenotipo es el resultado de una interacción compleja entre el genotipo y el ambiente y no caer en un planteamiento que trate a las personas solo como una colección de genes. Debemos recordar que muchos genes pueden contribuir a un fenotipo concreto, sea una enfermedad o un comportamiento, y que los alelos de estos genes pueden interactuar de manera impredecible. No debemos caer víctimas del supuesto de que hay un genotipo ideal. El éxito de todas las poblaciones en la naturaleza se cree que está favorecido por la diversidad genética. Y por encima de todo, no debemos utilizar la información genética para propósitos ideológicos.'
+pregunta1: '¿Cuál es el sentido contextual del término TALANTE? '
+alternativas1: 
+  A: Historia 
+  B: Carácter 
+  C: Origen 
+  D: Perfección 
+
+solucion1: 
+  alternativa: B
+  razon: 'Se alude al modo o disposición con que se realiza algo. '
+  
+pregunta2: '¿Cuál es el tema central del texto? '
+alternativas2:
+  A: El carácter hereditario de la inteligencia humana 
+  B: La gran aceptación del movimiento eugenésico 
+  C: El vertiginoso desarrollo de los estudios genéticos 
+  D: La debacle del movimiento de la eugenesia 
+
+solucion2: 
+  alternativa: D
+  razon: 'En el texto se explica la eugenesia para su posterior impugnación mediante argumentos de índole científica y moral. '
+  
+pregunta3: 'De acuerdo con los postulados de Galton, se infiere que un criminal '
+alternativas3:
+  A: Es mucho más fértil que un débil mental. 
+  B: Tendría una existencia breve y brutal. 
+  C: Quedaría esterilizado por la naturaleza. 
+  D: Tendría una prole propensa a delinquir. 
+
+solucion3: 
+  alternativa: D
+  razon: 'El comportamiento, la inteligencia y el talante moral son caracteres heredables para la eugenesia. '
+  
+pregunta4: 'Con respecto al movimiento eugenésico, es incompatible sostener que '
+alternativas4:
+  A: Le negó influencias ambientales al desarrollo de la inteligencia. 
+  B: Estaba exento de consideraciones de naturaleza ideológica. 
+  C: Defiende medidas que lesionan gravemente la dignidad humana. 
+  D: Concibió la inteligencia humana como un carácter mendeliano. 
+
+solucion4: 
+  alternativa: B
+  razon: 'Los objetivos del movimiento eugenésico estaban determinados más por racismo, prejuicios de clase y sentimientos antiinmigrantes que por razones genéticas. '
+  
+pregunta5: 'Si los eugenistas hubieran entendido cabalmente el concepto de eficacia darwiniana'
+alternativas5:
+  A: No se habrían opuesto a los matrimonios entre débiles mentales. 
+  B: Habrían objetado el vínculo de consanguinidad entre Galton y Darwin. 
+  C: No habrían creído posible la proliferación de individuos inferiores. 
+  D: Habrían advertido que la inteligencia humana se basa en un gen. 
+
+solucion5: 
+  alternativa: C
+  razon: 'La eficacia darwiniana sugiere que los más aptos tienen mayor éxito reproductivo. Bajo esta premisa, los eugenistas deberían suponer que los individuos “superiores” serán los que proliferen y no lo contrario. '
+  
